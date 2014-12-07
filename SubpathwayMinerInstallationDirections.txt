@@ -1,0 +1,31 @@
+Installing SubpathwayMiner on a Mac
+Directions mostly taken from this StackOverflow Question, modified further for SubpathwayMiner
+http://stackoverflow.com/questions/17196225/error-a-namespace-file-is-required
+1. First download Version 3.1 from Archive
+	http://cran.r-project.org/web/packages/SubpathwayMiner/index.html
+2. From terminal, navigate to where the package is saved. It should be in the format of package_name.tar.gz 
+	$ cd path/where/tarred/package/saved
+3. Untar the package by running from the terminal window: 
+	$ tar -xvf package_name.tar.gz
+4. Change the directory into the package from the terminal window:
+	$ cd package_name
+5. Add a NAMESPACE file with an all-inclusive export Pattern from the terminal window:
+	$ echo 'exportPattern( "." ) > NAMESPACE
+6. Change directory out of the package from the terminal window:
+	$ cd ..
+7. Re-tar the package from the terminal window: 
+	$ tar -zcf package_name.tar.gz package_name
+8. Inside the R console: install.packages("/path/to/tarred/package", repos=NULL, type="source")
+	Example Path: "/Users/YourName/Downloads/package_name.tar.gz"
+9. If you get this warning: "ERROR: dependencies ‘RBGL’, ‘fdrtool’ are not available for package ‘SubpathwayMiner’"
+	9a. Install RGBL by entering the following in the R Console:
+		> source("http://bioconductor.org/biocLite.R")
+		> biocLite("RBGL")
+	9b. To install fdrtool, you may need to install from source.
+		Go to: http://cran.r-project.org/web/packages/fdrtool/index.html
+		Download fdrtool_1.2.13.tar.gz 
+		Inside the R Console:
+		> install.packages("/path/to/tarred/package", repos=NULL, type="source")
+	9c. Rerun the SubpathwayMiner installation command.
+		Inside the R console
+		> install.packages("/path/to/tarred/package", repos=NULL, type="source")

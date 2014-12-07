@@ -1,0 +1,759 @@
+##Databases: BioCarta, Gene Ontology, GAD, FunDO, KEGG PATHWAY, OMIM, PID, PANTHER, Reactome, BioCyc, NHGRI GWAS Catalog, KEGG DISEASE
+##Statistical test method: hypergeometric test / Fisher's exact test
+##FDR correction method: Benjamini and Hochberg
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+Role of second messengers in netrin-1 signaling	Reactome	REACT_22228	1	10	0.00520578636182	0.204495110651	7223	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_22228
+mRNA decay by 3' to 5' exoribonuclease	Reactome	REACT_20619	1	11	0.00567773210871	0.204495110651	11340	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_20619
+KSRP destabilizes mRNA	Reactome	REACT_25042	1	17	0.00850484240554	0.204495110651	11340	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_25042
+Butyrate Response Factor 1 (BRF1) destabilizes mRNA	Reactome	REACT_24915	1	17	0.00850484240554	0.204495110651	11340	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_24915
+Tristetraprolin (TTP) destabilizes mRNA	Reactome	REACT_25064	1	17	0.00850484240554	0.204495110651	11340	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_25064
+ion channels and their functional role in vascular endothelium	BioCarta	100055	1	43	0.00993003836606	0.204495110651	7223	http://pid.nci.nih.gov/search/pathway_landing.shtml?pathway_id=100055&source=BioCarta%20Imported&what=graphic&jpg=on&ppage=1
+Effects of PIP2 hydrolysis	Reactome	REACT_2202	1	25	0.0122621788345	0.204495110651	160851	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_2202
+ATF4 activates genes	Reactome	REACT_18355	1	25	0.0122621788345	0.204495110651	11340	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_18355
+TRP channels	Reactome	REACT_169333	1	28	0.0136676109248	0.204495110651	7223	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_169333
+PERK regulates gene expression	Reactome	REACT_18277	1	28	0.0136676109248	0.204495110651	11340	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_18277
+IL2 signaling events mediated by STAT5	PID	il2_stat5pathway	1	28	0.0144527903636	0.204495110651	1997	http://pid.nci.nih.gov/search/pathway_landing.shtml?pathway_id=il2_stat5pathway&source=NCI-Nature%20curated&what=graphic&jpg=on&ppage=1
+N-Glycan biosynthesis	KEGG PATHWAY	hsa00510	1	49	0.0186121956494	0.211783370717	29880	http://www.genome.jp/kegg-bin/show_pathway?hsa00510/hsa:29880%09red
+Hedgehog signaling pathway	KEGG PATHWAY	hsa04340	1	52	0.0197190701324	0.211783370717	122011	http://www.genome.jp/kegg-bin/show_pathway?hsa04340/hsa:122011%09red
+@@Hedgehog signaling pathway	PANTHER	P00025	1	20	0.0228052977392	0.215566989565	122011	http://www.pantherdb.org/pathway/pathwayDiagram.jsp?catAccession=P00025
+Netrin-1 signaling	Reactome	REACT_22237	1	41	0.0197354010689	0.211783370717	7223	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_22237
+Glycerolipid metabolism	KEGG PATHWAY	hsa00561	1	55	0.0208248347815	0.211783370717	160851	http://www.genome.jp/kegg-bin/show_pathway?hsa00561/hsa:160851%09red
+Deadenylation-dependent mRNA decay	Reactome	REACT_20639	1	49	0.0234513855781	0.215566989565	11340	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_20639
+Angiopoietin receptor Tie2-mediated signaling	PID	angiopoietinreceptor_pathway	1	49	0.02482038557	0.215566989565	1997	http://pid.nci.nih.gov/search/pathway_landing.shtml?pathway_id=angiopoietinreceptor_pathway&source=NCI-Nature%20curated&what=graphic&jpg=on&ppage=1
+Synthesis of substrates in N-glycan biosythesis	Reactome	REACT_22387	1	52	0.0248413488305	0.215566989565	29880	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_22387
+RNA degradation	KEGG PATHWAY	hsa03018	1	74	0.0278023008366	0.219825304817	11340	http://www.genome.jp/kegg-bin/show_pathway?hsa03018/hsa:11340%09red
+Phosphatidylinositol signaling system	KEGG PATHWAY	hsa04070	1	81	0.0303617835268	0.22502284653	160851	http://www.genome.jp/kegg-bin/show_pathway?hsa04070/hsa:160851%09red
+Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	Reactome	REACT_22433	1	67	0.0317623874334	0.229429283985	29880	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_22433
+Regulation of retinoblastoma protein	PID	rb_1pathway	1	67	0.0336416033281	0.23438246748	1997	http://pid.nci.nih.gov/search/pathway_landing.shtml?pathway_id=rb_1pathway&source=NCI-Nature%20curated&what=graphic&jpg=on&ppage=1
+Glycerophospholipid metabolism	KEGG PATHWAY	hsa00564	1	92	0.0343717275156	0.236783011774	160851	http://www.genome.jp/kegg-bin/show_pathway?hsa00564/hsa:160851%09red
+AP-1 transcription factor network	PID	ap1_pathway	1	70	0.0351059673778	0.238653250401	1997	http://pid.nci.nih.gov/search/pathway_landing.shtml?pathway_id=ap1_pathway&source=NCI-Nature%20curated&what=graphic&jpg=on&ppage=1
+Unfolded Protein Response (UPR)	Reactome	REACT_18356	1	78	0.0368074643458	0.240217135731	11340	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_18356
+Regulation of mRNA stability by proteins that bind AU-rich elements	Reactome	REACT_24994	1	86	0.040460562054	0.251230588353	11340	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_24994
+Metabolism of proteins	Reactome	REACT_17015	2	676	0.0410837434324	0.251230588353	29880|11340	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_17015
+Stimuli-sensing channels	Reactome	REACT_160189	1	102	0.0477264235368	0.265423455127	7223	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_160189
+Wnt signaling pathway	KEGG PATHWAY	hsa04310	1	140	0.0516977062879	0.272787897009	122011	http://www.genome.jp/kegg-bin/show_pathway?hsa04310/hsa:122011%09red
+@@Wnt signaling pathway	PANTHER	P00057	1	285	0.27654409873	0.470279490671	122011	http://www.pantherdb.org/pathway/pathwayDiagram.jsp?catAccession=P00057
+Asparagine N-linked glycosylation	Reactome	REACT_22426	1	118	0.0549388265771	0.281893013609	29880	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_22426
+HATs acetylate histones	Reactome	REACT_172610	1	139	0.0643246176813	0.299109472218	55578	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_172610
+Metabolic pathways	KEGG PATHWAY	hsa01100	2	1213	0.0728590403509	0.311588482162	29880|160851	http://www.genome.jp/kegg-bin/show_pathway?hsa01100/hsa:29880%09red/hsa:160851%09red
+Ion channel transport	Reactome	REACT_25300	1	172	0.0788910431667	0.314653267917	7223	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_25300
+G alpha (q) signalling events	Reactome	REACT_18283	1	185	0.0845686411899	0.317412430466	160851	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_18283
+Parkinson disease	PANTHER	P00049	1	84	0.0897534046013	0.327335946193	122011	http://www.pantherdb.org/pathway/pathwayDiagram.jsp?catAccession=P00049
+Gastrin-CREB signalling pathway via PKC and MAPK	Reactome	REACT_120966	1	211	0.0958220286284	0.330053654165	160851	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_120966
+Chromatin modifying enzymes	Reactome	REACT_172633	1	217	0.0983998161204	0.330857256499	55578	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_172633
+Chromatin organization	Reactome	REACT_172623	1	217	0.0983998161204	0.330857256499	55578	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_172623
+Platelet activation, signaling and aggregation	Reactome	REACT_798	1	221	0.100114373369	0.332089777629	160851	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_798
+Alzheimer disease-presenilin pathway	PANTHER	P00004	1	100	0.105902857844	0.335913312993	7223	http://www.pantherdb.org/pathway/pathwayDiagram.jsp?catAccession=P00004
+Post-translational protein modification	Reactome	REACT_22161	1	263	0.117927065173	0.336407432861	29880	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_22161
+PDGF signaling pathway	PANTHER	P00047	1	115	0.120834005399	0.337971804575	1997	http://www.pantherdb.org/pathway/pathwayDiagram.jsp?catAccession=P00047
+Axon guidance	Reactome	REACT_18266	1	340	0.149698191931	0.363425294066	7223	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_18266
+Developmental Biology	Reactome	REACT_111045	1	506	0.214455860436	0.422198616174	7223	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_111045
+Hemostasis	Reactome	REACT_604	1	520	0.219692802021	0.42698030925	160851	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_604
+Transmembrane transport of small molecules	Reactome	REACT_15518	1	610	0.252558040458	0.454980308857	7223	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_15518
+GPCR downstream signaling	Reactome	REACT_19184	1	914	0.353925387159	0.53319069278	160851	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_19184
+Signaling by GPCR	Reactome	REACT_14797	1	1029	0.38867797599	0.552076841122	160851	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_14797
+Gene Expression	Reactome	REACT_71	1	1147	0.422447460887	0.585290336872	11340	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_71
+Signal Transduction	Reactome	REACT_111102	1	1983	0.614882470033	0.702419366203	160851	http://www.reactome.org/cgi-bin/eventbrowser_st_id?ST_ID=REACT_111102
+
+--------------------
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+Age-related macular degeneration	NHGRI GWAS Catalog		2	64	0.00686742867093	0.204495110651	7223|10631	None
+Hypertension, Pulmonary	FunDO	1746	1	19	0.0121743521324	0.204495110651	7223	http://django.nubic.northwestern.edu/fundo/databrowse/do_rif/doliteterm/objects/1746
+Cytomegalovirus antibody response	NHGRI GWAS Catalog		1	6	0.0132042440576	0.204495110651	341640	None
+Non-alcoholic fatty liver disease	NHGRI GWAS Catalog		1	6	0.0132042440576	0.204495110651	9201	None
+Hereditary spastic paraplegia (SPG)	KEGG DISEASE	H00266	1	21	0.0132672106976	0.204495110651	23111	http://www.genome.jp/dbget-bin/www_bget?H00266
+CYTOMEGALOVIRUS VACCINES	GAD		1	6	0.0144330624845	0.204495110651	341640	None
+NEPHROLITHIASIS	GAD		1	6	0.0144330624845	0.204495110651	160851	None
+@@Nephrolithiasis	NHGRI GWAS Catalog		1	8	0.0169460897512	0.210781284744	160851	None
+Lupus vulgaris	FunDO	1800	1	26	0.0164041437196	0.210425567714	1997	http://django.nubic.northwestern.edu/fundo/databrowse/do_rif/doliteterm/objects/1800
+Economic and political preferences	NHGRI GWAS Catalog		1	9	0.0188119097469	0.211783370717	54937	None
+Primary biliary cirrhosis	FunDO	1964	1	31	0.0194155589258	0.211783370717	1997	http://django.nubic.northwestern.edu/fundo/databrowse/do_rif/doliteterm/objects/1964
+CORNEA	GAD		1	9	0.0205553964905	0.211783370717	57511	None
+Vertical cup-disc ratio	NHGRI GWAS Catalog		1	10	0.0206743357329	0.211783370717	9201	None
+STROKE	GAD		4	515	0.0231264137441	0.215566989565	9201|26960|55425|7223	None
+OPTIC DISK	GAD		1	11	0.0246160353137	0.215566989565	9201	None
+LUTEINIZING HORMONE	GAD		1	13	0.0286600195797	0.219825304817	26960	None
+Oral cancer	FunDO	1739	1	54	0.0331627772677	0.23438246748	10631	http://django.nubic.northwestern.edu/fundo/databrowse/do_rif/doliteterm/objects/1739
+TISSUE PLASMINOGEN ACTIVATOR	GAD		1	17	0.0366982944429	0.240217135731	26960	None
+ALANINE TRANSAMINASE	GAD		1	17	0.0366982944429	0.240217135731	57511	None
+Autistic disorder	FunDO	2124	1	68	0.041446522313	0.251230588353	26960	http://django.nubic.northwestern.edu/fundo/databrowse/do_rif/doliteterm/objects/2124
+Palmitoleic acid (16:1n-7) plasma levels	NHGRI GWAS Catalog		1	22	0.0427608547558	0.254512607506	122011	None
+Metabolite levels  (X-11787)	NHGRI GWAS Catalog		1	23	0.0445796924951	0.255443841247	160851	None
+Renal Cell cancer	FunDO	1766	1	74	0.0449773430152	0.255443841247	7223	http://django.nubic.northwestern.edu/fundo/databrowse/do_rif/doliteterm/objects/1766
+AUDIOMETRY, PURE-TONE	GAD		1	22	0.0466536539643	0.262956958708	7223	None
+Psoriasis	NHGRI GWAS Catalog		1	30	0.0572191371136	0.290375691317	57511	None
+@@PSORIASIS	GAD		1	83	0.160214658216	0.369039336572	57511	None
+Calcium levels	NHGRI GWAS Catalog		1	33	0.0625868469787	0.295846729146	160851	None
+Crohn's disease	NHGRI GWAS Catalog		2	220	0.0656918661444	0.300596939066	11193|1997	None
+LIPOPROTEIN(A)	GAD		1	35	0.0720637778575	0.311588482162	7223	None
+BILIRUBIN	GAD		1	35	0.0720637778575	0.311588482162	341640	None
+BIPOLAR DISORDER	GAD		2	214	0.0743497741494	0.311588482162	160851|55425	None
+@@Bipolar disorder	NHGRI GWAS Catalog		1	130	0.221185555267	0.427433904205	160851	None
+Metabolic syndrome	NHGRI GWAS Catalog		1	41	0.0767579372072	0.312613695869	161003	None
+@@METABOLIC	GAD		9	4058	0.471159592499	0.617152705667	4081|26960|196549|7223|341640|10129|23111|57511|160851	None
+Lupus erythematosus	FunDO	2146	1	133	0.0790862380383	0.314653267917	1997	http://django.nubic.northwestern.edu/fundo/databrowse/do_rif/doliteterm/objects/2146
+Breast size	NHGRI GWAS Catalog		1	50	0.0924550017937	0.330053654165	55578	None
+Skin diseases	KEGG DISEASE		1	158	0.0927525862895	0.330053654165	23111	None
+Skin and soft tissue diseases	KEGG DISEASE		1	158	0.0927525862895	0.330053654165	23111	None
+Liver cancer	FunDO	2022	1	165	0.0971292824028	0.330857256499	1997	http://django.nubic.northwestern.edu/fundo/databrowse/do_rif/doliteterm/objects/2022
+THYROTROPIN	GAD		1	50	0.100551502121	0.332089777629	10129	None
+IRON	GAD		2	260	0.103108519667	0.332089777629	26960|57511	None
+Systemic lupus erythematosus	NHGRI GWAS Catalog		1	60	0.109596176723	0.335998574733	1997	None
+BODY COMPOSITION	GAD		1	56	0.111702789106	0.336407432861	160851	None
+HIV-1	GAD		1	57	0.113547993381	0.336407432861	26960	None
+COLITIS, ULCERATIVE	GAD		1	58	0.115389405859	0.336407432861	57511	None
+BODY HEIGHT	GAD		3	571	0.117212799732	0.336407432861	160851|7223|9201	None
+VISION	GAD		2	285	0.11982253993	0.336407432861	9201|57511	None
+MONOCYTES	GAD		1	67	0.131792753875	0.348945939085	160851	None
+INFECTION	GAD		2	316	0.14139238181	0.356596379886	26960|341640	None
+Obesity-related traits	NHGRI GWAS Catalog		3	695	0.143631460345	0.359287755153	7223|9201|94240	None
+NEUROLOGICAL	GAD		5	1373	0.158523266362	0.368376908194	160851|26960|55425|7223|9201	None
+Congenital disorders of development	KEGG DISEASE		1	292	0.165458461699	0.375308218	341640	None
+Height	NHGRI GWAS Catalog		2	397	0.174225969066	0.386464497769	160851|9201	None
+@@HEIGHT	GAD		1	210	0.35546437044	0.53319069278	160851	None
+BODY FAT DISTRIBUTION	GAD		1	103	0.194450715239	0.398419661702	10129	None
+Other congenital disorders	KEGG DISEASE		1	401	0.221094512632	0.427433904205	341640	None
+LUPUS ERYTHEMATOSUS, SYSTEMIC	GAD		1	121	0.224080546509	0.429680223203	1997	None
+BREATH TESTS	GAD		1	126	0.232117958694	0.439429417985	7223	None
+LIPOPROTEINS	GAD		1	129	0.236900814765	0.440635515463	4081	None
+Rheumatoid arthritis	NHGRI GWAS Catalog		1	143	0.2403765949	0.444084452759	57511	None
+DEVELOPMENTAL	GAD		3	847	0.258913747057	0.460723672116	160851|7223|9201	None
+ALZHEIMER DISEASE	GAD		1	145	0.261915986583	0.460723672116	160851	None
+ATTENTION DEFICIT DISORDER WITH HYPERACTIVITY	GAD		1	148	0.266515192499	0.464642759604	9201	None
+Amyotrophic lateral sclerosis (sporadic)	NHGRI GWAS Catalog		1	162	0.267611843449	0.464642759604	122011	None
+C-REACTIVE PROTEIN	GAD		1	149	0.268041951986	0.464642759604	9201	None
+FIBRINOGEN	GAD		1	151	0.271086045749	0.466544573334	10129	None
+LIPOPROTEINS, VLDL	GAD		1	158	0.281642078891	0.47431218042	196549	None
+ARTERIES	GAD		1	158	0.281642078891	0.47431218042	161003	None
+TUNICA MEDIA	GAD		1	169	0.297925368847	0.490055302171	122011	None
+WAIST-HIP RATIO	GAD		1	179	0.312411218997	0.499857950395	341640	None
+PSYCH	GAD		3	952	0.318168787894	0.505806791011	160851|55425|9201	None
+Cancer	FunDO	1934	1	729	0.367615694651	0.538397789016	10631	http://django.nubic.northwestern.edu/fundo/databrowse/do_rif/doliteterm/objects/1934
+CARDIOVASCULAR	GAD		8	3313	0.384112528624	0.549534911968	26960|9201|7223|341640|10129|57511|161003|122011	None
+RESPIRATORY FUNCTION TESTS	GAD		1	248	0.404615728536	0.571222204993	122011	None
+WAIST CIRCUMFERENCE	GAD		1	250	0.407097327506	0.573637143304	23111	None
+HEMOGLOBINS	GAD		1	257	0.415702614881	0.580267815144	26960	None
+HEART RATE	GAD		1	265	0.425386019036	0.586087404005	9201	None
+REPRODUCTION	GAD		1	322	0.489933376442	0.637256000127	26960	None
+HEART FAILURE	GAD		1	355	0.523967655732	0.657763337477	341640	None
+BODY WEIGHT	GAD		1	360	0.528924506103	0.658611451165	26960	None
+HIP	GAD		1	360	0.528924506103	0.658611451165	196549	None
+HEMATOLOGICAL	GAD		3	1346	0.533324595286	0.659125413444	10129|26960|341640	None
+ECHOCARDIOGRAPHY	GAD		1	385	0.552953103509	0.673210356182	7223	None
+RENAL	GAD		1	426	0.589761920442	0.693179887534	160851	None
+CHOLESTEROL	GAD		1	437	0.59911648932	0.699273609719	160851	None
+BLOOD PRESSURE	GAD		1	438	0.599956366917	0.699273609719	57511	None
+CHOLESTEROL, HDL	GAD		1	441	0.602465569663	0.699273609719	341640	None
+BODY MASS INDEX	GAD		1	470	0.625932528688	0.70448215445	7223	None
+CHOLESTEROL, LDL	GAD		1	499	0.648028224316	0.707977971939	160851	None
+IMMUNE	GAD		3	1623	0.660303301182	0.71404891872	160851|1997|57511	None
+
+--------------------
+
+#Term	Database	ID	Input number	Background number	P-Value	Corrected P-Value	Input	Hyperlink
+anatomical structure morphogenesis	Gene Ontology	GO:0009653	7	2326	0.00344122730941	0.204495110651	4081|9201|341640|7223|23111|55578|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009653
+developmental cell growth	Gene Ontology	GO:0048588	2	106	0.003630812675	0.204495110651	9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048588
+single-organism developmental process	Gene Ontology	GO:0044767	11	5140	0.00401744863292	0.204495110651	29880|4081|54937|9201|1997|341640|7223|23111|55578|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044767
+developmental process	Gene Ontology	GO:0032502	11	5192	0.00432274455411	0.204495110651	29880|4081|54937|9201|1997|341640|7223|23111|55578|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032502
+collateral sprouting in absence of injury	Gene Ontology	GO:0048669	1	5	0.00488646507416	0.204495110651	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048669
+SAGA complex	Gene Ontology	GO:0000124	1	5	0.00488646507416	0.204495110651	55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000124
+protein ufmylation	Gene Ontology	GO:0071569	1	5	0.00488646507416	0.204495110651	51569	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0071569
+abscission	Gene Ontology	GO:0009838	1	6	0.00569855295511	0.204495110651	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009838
+negative regulation of collateral sprouting	Gene Ontology	GO:0048671	1	7	0.0065099785737	0.204495110651	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048671
+trans-Golgi network	Gene Ontology	GO:0005802	2	147	0.00677720688539	0.204495110651	26960|10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005802
+developmental growth involved in morphogenesis	Gene Ontology	GO:0060560	2	153	0.00731229199105	0.204495110651	9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0060560
+UDP-glucosyltransferase activity	Gene Ontology	GO:0035251	1	9	0.00813084518213	0.204495110651	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0035251
+store-operated calcium channel activity	Gene Ontology	GO:0015279	1	9	0.00813084518213	0.204495110651	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0015279
+gamma-aminobutyric acid secretion	Gene Ontology	GO:0014051	1	9	0.00813084518213	0.204495110651	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0014051
+inositol 1,4,5 trisphosphate binding	Gene Ontology	GO:0070679	1	9	0.00813084518213	0.204495110651	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0070679
+oligosaccharyl transferase activity	Gene Ontology	GO:0004576	1	9	0.00813084518213	0.204495110651	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0004576
+Golgi transport complex	Gene Ontology	GO:0017119	1	10	0.00894028725007	0.204495110651	57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0017119
+mRNA cis splicing, via spliceosome	Gene Ontology	GO:0045292	1	11	0.00974906921181	0.204495110651	11193	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0045292
+glucosyltransferase activity	Gene Ontology	GO:0046527	1	11	0.00974906921181	0.204495110651	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0046527
+axonogenesis	Gene Ontology	GO:0007409	3	532	0.00998013117078	0.204495110651	7223|9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007409
+axon development	Gene Ontology	GO:0061564	3	552	0.0110117244944	0.204495110651	7223|9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0061564
+gamma-aminobutyric acid transport	Gene Ontology	GO:0015812	1	13	0.011364654968	0.204495110651	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0015812
+negative regulation of T cell receptor signaling pathway	Gene Ontology	GO:0050860	1	13	0.011364654968	0.204495110651	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050860
+regulation of collateral sprouting	Gene Ontology	GO:0048670	1	14	0.0121714598371	0.204495110651	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048670
+lipid particle organization	Gene Ontology	GO:0034389	1	14	0.0121714598371	0.204495110651	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0034389
+Golgi apparatus part	Gene Ontology	GO:0044431	3	574	0.0122150070723	0.204495110651	26960|57511|10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044431
+membrane raft	Gene Ontology	GO:0045121	2	202	0.0123566955016	0.204495110651	7223|161003	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0045121
+diacylglycerol kinase activity	Gene Ontology	GO:0004143	1	15	0.0129776067491	0.204495110651	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0004143
+multicellular organismal development	Gene Ontology	GO:0007275	9	4498	0.0130825748583	0.204495110651	29880|4081|54937|9201|341640|7223|23111|10631|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007275
+cell morphogenesis involved in neuron differentiation	Gene Ontology	GO:0048667	3	606	0.0140947182263	0.204495110651	7223|9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048667
+cell morphogenesis	Gene Ontology	GO:0000902	4	1118	0.014167503074	0.204495110651	7223|9201|23111|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000902
+negative regulation of antigen receptor-mediated signaling pathway	Gene Ontology	GO:0050858	1	17	0.0145879288464	0.204495110651	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050858
+collateral sprouting	Gene Ontology	GO:0048668	1	17	0.0145879288464	0.204495110651	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048668
+NAD+ kinase activity	Gene Ontology	GO:0003951	1	17	0.0145879288464	0.204495110651	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003951
+neuron projection morphogenesis	Gene Ontology	GO:0048812	3	617	0.0147765784033	0.204495110651	7223|9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048812
+anatomical structure development	Gene Ontology	GO:0048856	9	4601	0.0149206689748	0.204495110651	4081|54937|9201|341640|7223|23111|55578|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048856
+single-multicellular organism process	Gene Ontology	GO:0044707	11	6234	0.0153152189138	0.204495110651	29880|4081|54937|9201|1997|341640|7223|23111|160851|10631|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044707
+AU-rich element binding	Gene Ontology	GO:0017091	1	18	0.0153921051027	0.204495110651	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0017091
+proline-rich region binding	Gene Ontology	GO:0070064	1	19	0.0161956255442	0.210425567714	11193	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0070064
+exosome (RNase complex)	Gene Ontology	GO:0000178	1	20	0.0169984907052	0.210781284744	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000178
+cellular component morphogenesis	Gene Ontology	GO:0032989	4	1192	0.0174646946397	0.211783370717	7223|9201|23111|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032989
+multicellular organismal process	Gene Ontology	GO:0032501	11	6485	0.0197734182093	0.211783370717	29880|4081|54937|9201|1997|341640|7223|23111|160851|10631|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032501
+central nervous system projection neuron axonogenesis	Gene Ontology	GO:0021952	1	24	0.0202034092188	0.211783370717	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0021952
+regulation of T cell receptor signaling pathway	Gene Ontology	GO:0050856	1	24	0.0202034092188	0.211783370717	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050856
+phosphotransferase activity, alcohol group as acceptor	Gene Ontology	GO:0016773	3	696	0.0202155908495	0.211783370717	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016773
+glycosylation	Gene Ontology	GO:0070085	2	269	0.0210644750444	0.211783370717	29880|57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0070085
+cadherin binding	Gene Ontology	GO:0045296	1	26	0.0218019506568	0.215566989565	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0045296
+adipose tissue development	Gene Ontology	GO:0060612	1	28	0.0233978858885	0.215566989565	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0060612
+SAGA-type complex	Gene Ontology	GO:0070461	1	28	0.0233978858885	0.215566989565	55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0070461
+organelle	Gene Ontology	GO:0043226	17	12075	0.0238157136815	0.215566989565	29880|4081|11193|54937|1997|26960|341640|10129|161003|11340|23111|57511|160851|55578|51569|10631|7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043226
+exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-dependent decay	Gene Ontology	GO:0043928	1	29	0.0241948775043	0.215566989565	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043928
+developmental growth	Gene Ontology	GO:0048589	2	299	0.0255836587689	0.215566989565	9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048589
+kinase activity	Gene Ontology	GO:0016301	3	764	0.0256638158841	0.215566989565	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016301
+nuclear-transcribed mRNA catabolic process, exonucleolytic	Gene Ontology	GO:0000291	1	31	0.0257869113861	0.215566989565	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000291
+central nervous system neuron axonogenesis	Gene Ontology	GO:0021955	1	31	0.0257869113861	0.215566989565	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0021955
+intra-Golgi vesicle-mediated transport	Gene Ontology	GO:0006891	1	33	0.027376349664	0.219825304817	57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006891
+cell projection morphogenesis	Gene Ontology	GO:0048858	3	786	0.0275783491188	0.219825304817	7223|9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048858
+regulation of antigen receptor-mediated signaling pathway	Gene Ontology	GO:0050854	1	34	0.0281700967732	0.219825304817	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050854
+dolichol-linked oligosaccharide biosynthetic process	Gene Ontology	GO:0006488	1	34	0.0281700967732	0.219825304817	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006488
+neuron projection development	Gene Ontology	GO:0031175	3	795	0.0283829011923	0.219825304817	7223|9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031175
+cell morphogenesis involved in differentiation	Gene Ontology	GO:0000904	3	797	0.0285633700957	0.219825304817	7223|9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000904
+negative regulation of developmental growth	Gene Ontology	GO:0048640	1	35	0.0289631965668	0.21988385965	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048640
+cell part morphogenesis	Gene Ontology	GO:0032990	3	805	0.029291346773	0.220128909082	7223|9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032990
+protein kinase C-activating G-protein coupled receptor signaling pathway	Gene Ontology	GO:0007205	1	37	0.0305474563165	0.22502284653	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007205
+proteinaceous extracellular matrix	Gene Ontology	GO:0005578	2	332	0.0309631942639	0.22584918169	341640|10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005578
+plasma membrane	Gene Ontology	GO:0005886	8	4478	0.0331984767963	0.23438246748	11193|9201|26960|341640|7223|23111|160851|161003	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005886
+negative regulation of BMP signaling pathway	Gene Ontology	GO:0030514	1	41	0.0337082312101	0.23438246748	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030514
+regulation of mitochondrial membrane potential	Gene Ontology	GO:0051881	1	43	0.0352847547636	0.238653250401	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051881
+cell periphery	Gene Ontology	GO:0071944	8	4563	0.0364017920877	0.240217135731	11193|9201|26960|341640|7223|23111|160851|161003	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0071944
+negative regulation of axonogenesis	Gene Ontology	GO:0050771	1	47	0.0384300950564	0.248626006278	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050771
+transferase activity, transferring phosphorus-containing groups	Gene Ontology	GO:0016772	3	907	0.0394216755327	0.251230588353	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016772
+neuron development	Gene Ontology	GO:0048666	3	918	0.0406071325315	0.251230588353	7223|9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048666
+intracellular organelle	Gene Ontology	GO:0043229	15	11038	0.0415387323406	0.251230588353	29880|4081|11193|54937|1997|26960|10129|11340|23111|57511|160851|55578|51569|10631|7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043229
+regulation of Notch signaling pathway	Gene Ontology	GO:0008593	1	51	0.0415651874812	0.251230588353	10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008593
+cell part	Gene Ontology	GO:0044464	19	14923	0.0418490791419	0.251230588353	29880|4081|11193|54937|9201|1997|7223|26960|341640|10129|161003|11340|23111|57511|160851|55578|51569|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044464
+cell	Gene Ontology	GO:0005623	19	14924	0.0418717647255	0.251230588353	29880|4081|11193|54937|9201|1997|7223|26960|341640|10129|161003|11340|23111|57511|160851|55578|51569|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005623
+lipid particle	Gene Ontology	GO:0005811	1	53	0.043128901174	0.254665892646	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005811
+cell growth	Gene Ontology	GO:0016049	2	402	0.0436754850448	0.255443841247	9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016049
+calcium ion import	Gene Ontology	GO:0070509	1	55	0.0446900654032	0.255443841247	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0070509
+extracellular matrix	Gene Ontology	GO:0031012	2	408	0.0448416879384	0.255443841247	341640|10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031012
+calcium channel complex	Gene Ontology	GO:0034704	1	59	0.0478047620794	0.265423455127	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0034704
+caveola	Gene Ontology	GO:0005901	1	60	0.0485818493157	0.265771293316	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005901
+plasma membrane raft	Gene Ontology	GO:0044853	1	60	0.0485818493157	0.265771293316	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044853
+regulation of extent of cell growth	Gene Ontology	GO:0061387	1	62	0.050134123089	0.270288315784	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0061387
+nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	Gene Ontology	GO:0000288	1	62	0.050134123089	0.270288315784	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000288
+protein serine/threonine kinase activity	Gene Ontology	GO:0004674	2	442	0.0516621431939	0.272787897009	9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0004674
+cortical cytoskeleton	Gene Ontology	GO:0030863	1	64	0.0516838660372	0.272787897009	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030863
+beta-catenin binding	Gene Ontology	GO:0008013	1	66	0.053231082284	0.278900881826	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008013
+membrane region	Gene Ontology	GO:0098589	3	1032	0.0539288279018	0.279019344935	29880|7223|161003	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0098589
+oogenesis	Gene Ontology	GO:0048477	1	67	0.0540037441809	0.279019344935	54937	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048477
+central nervous system neuron development	Gene Ontology	GO:0021954	1	72	0.0578576119478	0.290375691317	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0021954
+axon extension	Gene Ontology	GO:0048675	1	72	0.0578576119478	0.290375691317	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048675
+anion binding	Gene Ontology	GO:0043168	5	2521	0.058153196245	0.290375691317	160851|7223|9201|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043168
+oligodendrocyte differentiation	Gene Ontology	GO:0048709	1	74	0.0593947624878	0.291250205569	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048709
+regulation of BMP signaling pathway	Gene Ontology	GO:0030510	1	74	0.0593947624878	0.291250205569	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030510
+cellular component organization or biogenesis	Gene Ontology	GO:0071840	8	5064	0.0595027301701	0.291250205569	9201|7223|11340|23111|160851|55578|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0071840
+neuron projection extension	Gene Ontology	GO:1990138	1	76	0.0609294068427	0.295846729146	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1990138
+intracellular part	Gene Ontology	GO:0044424	16	12674	0.061453183491	0.295846729146	29880|4081|11193|54937|1997|7223|26960|10129|11340|23111|57511|160851|55578|51569|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044424
+histone acetyltransferase complex	Gene Ontology	GO:0000123	1	77	0.0616957904769	0.295846729146	55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000123
+sensory organ development	Gene Ontology	GO:0007423	2	493	0.0625274123955	0.295846729146	4081|341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007423
+cell development	Gene Ontology	GO:0048468	4	1808	0.0628276655982	0.295846729146	7223|54937|9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048468
+acid secretion	Gene Ontology	GO:0046717	1	80	0.0639911933232	0.299109472218	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0046717
+cell projection organization	Gene Ontology	GO:0030030	3	1118	0.0651863602808	0.300596939066	7223|9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030030
+intracellular	Gene Ontology	GO:0005622	16	12803	0.0658565874567	0.300596939066	29880|4081|11193|54937|1997|7223|26960|10129|11340|23111|57511|160851|55578|51569|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005622
+alcohol binding	Gene Ontology	GO:0043178	1	85	0.0678044017242	0.302074699897	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043178
+protein acetyltransferase complex	Gene Ontology	GO:0031248	1	85	0.0678044017242	0.302074699897	55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031248
+acetyltransferase complex	Gene Ontology	GO:1902493	1	85	0.0678044017242	0.302074699897	55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1902493
+nuclear speck	Gene Ontology	GO:0016607	1	85	0.0678044017242	0.302074699897	11193	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016607
+neuron differentiation	Gene Ontology	GO:0030182	3	1144	0.0687854922443	0.304592844792	7223|9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030182
+cellular developmental process	Gene Ontology	GO:0048869	6	3488	0.0694058106587	0.304592844792	54937|9201|1997|7223|23111|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048869
+intracellular membrane-bounded organelle	Gene Ontology	GO:0043231	13	9949	0.0695978274391	0.304592844792	29880|4081|11193|54937|1997|26960|11340|23111|57511|160851|51569|10631|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043231
+basement membrane	Gene Ontology	GO:0005604	1	92	0.073116827612	0.311588482162	341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005604
+dendrite morphogenesis	Gene Ontology	GO:0048813	1	94	0.0746290992512	0.311588482162	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048813
+midbody	Gene Ontology	GO:0030496	1	94	0.0746290992512	0.311588482162	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030496
+regulation of cell size	Gene Ontology	GO:0008361	1	94	0.0746290992512	0.311588482162	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008361
+nucleoplasm part	Gene Ontology	GO:0044451	2	548	0.0750172746399	0.311588482162	11193|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044451
+determination of left/right symmetry	Gene Ontology	GO:0007368	1	95	0.0753843102006	0.311588482162	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007368
+protein N-linked glycosylation via asparagine	Gene Ontology	GO:0018279	1	96	0.0761389052398	0.312613695869	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0018279
+peptidyl-asparagine modification	Gene Ontology	GO:0018196	1	97	0.0768928848709	0.312613695869	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0018196
+membrane-bounded organelle	Gene Ontology	GO:0043227	14	11130	0.0779650095151	0.314653267917	29880|4081|11193|54937|1997|26960|341640|11340|23111|57511|160851|51569|10631|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043227
+neuromuscular process	Gene Ontology	GO:0050905	1	99	0.0783989999141	0.314653267917	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050905
+negative regulation of neurogenesis	Gene Ontology	GO:0050768	1	101	0.0799026593377	0.316210524188	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050768
+female gamete generation	Gene Ontology	GO:0007292	1	102	0.0806535694427	0.317412430466	54937	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007292
+calcium channel activity	Gene Ontology	GO:0005262	1	104	0.0821535529366	0.317412430466	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005262
+determination of bilateral symmetry	Gene Ontology	GO:0009855	1	105	0.0829026273233	0.317412430466	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009855
+cell cortex part	Gene Ontology	GO:0044448	1	105	0.0829026273233	0.317412430466	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044448
+generation of neurons	Gene Ontology	GO:0048699	3	1244	0.0834345446985	0.317412430466	7223|9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048699
+negative regulation of cell projection organization	Gene Ontology	GO:0031345	1	106	0.083651090801	0.317412430466	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031345
+specification of symmetry	Gene Ontology	GO:0009799	1	106	0.083651090801	0.317412430466	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009799
+protein N-linked glycosylation	Gene Ontology	GO:0006487	1	106	0.083651090801	0.317412430466	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006487
+negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	Gene Ontology	GO:0090101	1	107	0.0843989438676	0.317412430466	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0090101
+protein kinase activity	Gene Ontology	GO:0004672	2	590	0.0850384005066	0.317412430466	9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0004672
+transferase activity	Gene Ontology	GO:0016740	4	2015	0.0853259221684	0.317412430466	29880|160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016740
+T cell receptor signaling pathway	Gene Ontology	GO:0050852	1	110	0.0866388455735	0.320354699457	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050852
+Golgi apparatus	Gene Ontology	GO:0005794	3	1267	0.0869780232397	0.320354699457	26960|57511|10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005794
+regulation of axonogenesis	Gene Ontology	GO:0050770	1	114	0.0896168655596	0.327335946193	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050770
+protein binding	Gene Ontology	GO:0005515	11	8463	0.0920274465773	0.330053654165	11193|54937|1997|84078|26960|7223|11340|23111|89890|10631|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005515
+ribonucleoprotein complex	Gene Ontology	GO:0030529	2	620	0.0924284967176	0.330053654165	11193|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030529
+rRNA processing	Gene Ontology	GO:0006364	1	120	0.0940657121213	0.330053654165	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006364
+BMP signaling pathway	Gene Ontology	GO:0030509	1	121	0.0948050714833	0.330053654165	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030509
+neurogenesis	Gene Ontology	GO:0022008	3	1319	0.0952179822414	0.330053654165	7223|9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022008
+binding	Gene Ontology	GO:0005488	15	12527	0.0954264530141	0.330053654165	11193|54937|9201|1997|84078|26960|341640|7223|11340|23111|160851|55578|89890|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005488
+extracellular matrix part	Gene Ontology	GO:0044420	1	122	0.0955438278539	0.330053654165	341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044420
+calcium ion transmembrane transporter activity	Gene Ontology	GO:0015085	1	122	0.0955438278539	0.330053654165	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0015085
+receptor signaling protein activity	Gene Ontology	GO:0005057	1	123	0.0962819817246	0.330109651627	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005057
+rRNA metabolic process	Gene Ontology	GO:0016072	1	126	0.0984928332451	0.330857256499	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016072
+mRNA metabolic process	Gene Ontology	GO:0016071	2	645	0.0987235362133	0.330857256499	11193|11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016071
+monocarboxylic acid transport	Gene Ontology	GO:0015718	1	128	0.0999637307507	0.332089777629	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0015718
+carbohydrate derivative binding	Gene Ontology	GO:0097367	4	2146	0.101320510141	0.332089777629	160851|9201|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0097367
+cell communication	Gene Ontology	GO:0007154	8	5722	0.101366727105	0.332089777629	9201|1997|341640|23111|160851|161003|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007154
+regulation of developmental growth	Gene Ontology	GO:0048638	1	131	0.102165581531	0.332089777629	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048638
+single-organism carbohydrate metabolic process	Gene Ontology	GO:0044723	2	659	0.102299977508	0.332089777629	29880|57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044723
+UDP-glycosyltransferase activity	Gene Ontology	GO:0008194	1	132	0.102898334951	0.332089777629	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008194
+mitochondrial outer membrane	Gene Ontology	GO:0005741	1	134	0.104362049454	0.334678296526	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005741
+neuron migration	Gene Ontology	GO:0001764	1	135	0.105093011512	0.335575968089	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001764
+system development	Gene Ontology	GO:0048731	6	3930	0.106473213375	0.335913312993	4081|9201|341640|7223|23111|10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048731
+heparin binding	Gene Ontology	GO:0008201	1	137	0.10655314767	0.335913312993	10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008201
+homophilic cell adhesion via plasma membrane adhesion molecules	Gene Ontology	GO:0007156	1	140	0.108738889296	0.335998574733	341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007156
+negative regulation of cell development	Gene Ontology	GO:0010721	1	140	0.108738889296	0.335998574733	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0010721
+intracellular organelle part	Gene Ontology	GO:0044446	8	5823	0.108958171383	0.335998574733	29880|11193|26960|23111|57511|160851|10631|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044446
+amino acid transport	Gene Ontology	GO:0006865	1	141	0.109466281748	0.335998574733	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006865
+antigen receptor-mediated signaling pathway	Gene Ontology	GO:0050851	1	142	0.110193080961	0.335998574733	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050851
+ligand-gated ion channel activity	Gene Ontology	GO:0015276	1	142	0.110193080961	0.335998574733	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0015276
+ligand-gated channel activity	Gene Ontology	GO:0022834	1	142	0.110193080961	0.335998574733	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022834
+response to endoplasmic reticulum stress	Gene Ontology	GO:0034976	1	146	0.113094355093	0.336407432861	51569	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0034976
+organelle outer membrane	Gene Ontology	GO:0031968	1	147	0.113818195359	0.336407432861	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031968
+cation channel complex	Gene Ontology	GO:0034703	1	148	0.114541445281	0.336407432861	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0034703
+RNA processing	Gene Ontology	GO:0006396	2	711	0.115881719923	0.336407432861	11193|11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006396
+ATP binding	Gene Ontology	GO:0005524	3	1442	0.115895091303	0.336407432861	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005524
+cellular component organization	Gene Ontology	GO:0016043	7	4960	0.115935039964	0.336407432861	9201|7223|23111|160851|55578|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016043
+divalent inorganic cation transmembrane transporter activity	Gene Ontology	GO:0072509	1	150	0.115986176019	0.336407432861	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0072509
+negative regulation of cell growth	Gene Ontology	GO:0030308	1	151	0.116707657796	0.336407432861	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030308
+spliceosomal complex	Gene Ontology	GO:0005681	1	151	0.116707657796	0.336407432861	11193	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005681
+RNA polymerase II core promoter proximal region sequence-specific DNA binding transcription factor activity involved in positive regulation of transcription	Gene Ontology	GO:0001077	1	152	0.117428551152	0.336407432861	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001077
+dendrite development	Gene Ontology	GO:0016358	1	154	0.118868574518	0.336407432861	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016358
+outer membrane	Gene Ontology	GO:0019867	1	154	0.118868574518	0.336407432861	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0019867
+basolateral plasma membrane	Gene Ontology	GO:0016323	1	155	0.119587705486	0.336407432861	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016323
+nuclear membrane	Gene Ontology	GO:0031965	1	155	0.119587705486	0.336407432861	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031965
+cellular process	Gene Ontology	GO:0009987	16	14057	0.119757057084	0.336407432861	29880|4081|11193|54937|9201|1997|341640|7223|161003|11340|23111|160851|55578|51569|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009987
+adenyl ribonucleotide binding	Gene Ontology	GO:0032559	3	1477	0.122062593658	0.340129474464	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032559
+organelle part	Gene Ontology	GO:0044422	8	6000	0.122988168179	0.340676140491	29880|11193|26960|23111|57511|160851|10631|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044422
+glial cell differentiation	Gene Ontology	GO:0010001	1	160	0.123174572301	0.340676140491	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0010001
+endomembrane system	Gene Ontology	GO:0012505	5	3195	0.1239370542	0.340978037316	29880|160851|26960|57511|10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0012505
+cell surface receptor signaling pathway	Gene Ontology	GO:0007166	5	3200	0.124518196561	0.340978037316	160851|1997|23111|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007166
+cell adhesion molecule binding	Gene Ontology	GO:0050839	1	163	0.125319679143	0.340978037316	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050839
+adenyl nucleotide binding	Gene Ontology	GO:0030554	3	1496	0.125459970476	0.340978037316	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030554
+calcium ion transmembrane transport	Gene Ontology	GO:0070588	1	164	0.126033548739	0.340978037316	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0070588
+Notch signaling pathway	Gene Ontology	GO:0007219	1	164	0.126033548739	0.340978037316	10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007219
+RNA polymerase II core promoter proximal region sequence-specific DNA binding	Gene Ontology	GO:0000978	1	167	0.128171666121	0.345506230413	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000978
+autophagy	Gene Ontology	GO:0006914	1	170	0.130304556347	0.348123871849	55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006914
+ribosome biogenesis	Gene Ontology	GO:0042254	1	170	0.130304556347	0.348123871849	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0042254
+signal transduction	Gene Ontology	GO:0007165	7	5126	0.13088378926	0.348123871849	9201|1997|23111|160851|161003|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007165
+gastrulation	Gene Ontology	GO:0007369	1	171	0.131014360373	0.348123871849	55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007369
+central nervous system neuron differentiation	Gene Ontology	GO:0021953	1	173	0.132432232186	0.349395676407	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0021953
+core promoter proximal region sequence-specific DNA binding	Gene Ontology	GO:0000987	1	176	0.134554706379	0.352290847334	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000987
+inner ear development	Gene Ontology	GO:0048839	1	176	0.134554706379	0.352290847334	341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048839
+cell differentiation	Gene Ontology	GO:0030154	5	3288	0.134950122971	0.352290847334	7223|54937|9201|23111|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030154
+core promoter proximal region DNA binding	Gene Ontology	GO:0001159	1	178	0.135966805647	0.353703858047	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001159
+cellular response to stimulus	Gene Ontology	GO:0051716	8	6160	0.136445808642	0.35371317641	9201|1997|23111|160851|161003|51569|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051716
+cell cortex	Gene Ontology	GO:0005938	1	181	0.138080638653	0.356540606202	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005938
+gliogenesis	Gene Ontology	GO:0042063	1	183	0.139486988861	0.356540606202	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0042063
+glycosaminoglycan binding	Gene Ontology	GO:0005539	1	184	0.14018930383	0.356540606202	10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005539
+regulation of transmembrane receptor protein serine/threonine kinase signaling pathway	Gene Ontology	GO:0090092	1	184	0.14018930383	0.356540606202	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0090092
+small conjugating protein ligase binding	Gene Ontology	GO:0044389	1	185	0.140891045999	0.356540606202	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044389
+ubiquitin protein ligase binding	Gene Ontology	GO:0031625	1	185	0.140891045999	0.356540606202	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031625
+nuclear-transcribed mRNA catabolic process	Gene Ontology	GO:0000956	1	185	0.140891045999	0.356540606202	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000956
+organelle envelope	Gene Ontology	GO:0031967	2	811	0.143136844185	0.359287755153	160851|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031967
+envelope	Gene Ontology	GO:0031975	2	815	0.144253723662	0.359287755153	160851|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031975
+transferase activity, transferring hexosyl groups	Gene Ontology	GO:0016758	1	190	0.14439118117	0.359287755153	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016758
+cell-cell adhesion via plasma-membrane adhesion molecules	Gene Ontology	GO:0098742	1	192	0.145787241948	0.361552360032	341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0098742
+cell-cell adhesion	Gene Ontology	GO:0098609	1	193	0.146484418492	0.36186173323	341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0098609
+endosomal transport	Gene Ontology	GO:0016197	1	194	0.147181026422	0.36186173323	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016197
+cellular macromolecule metabolic process	Gene Ontology	GO:0044260	9	7285	0.147371109098	0.36186173323	29880|11193|54937|9201|1997|11340|55578|51569|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044260
+germ cell development	Gene Ontology	GO:0007281	1	196	0.148572538301	0.363425294066	54937	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007281
+central nervous system development	Gene Ontology	GO:0007417	2	834	0.14958347631	0.363425294066	7223|9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007417
+mRNA catabolic process	Gene Ontology	GO:0006402	1	198	0.149961781288	0.363425294066	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006402
+ear development	Gene Ontology	GO:0043583	1	201	0.15204139968	0.365859583422	341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043583
+sulfur compound binding	Gene Ontology	GO:1901681	1	202	0.152733475366	0.365859583422	10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1901681
+nucleus	Gene Ontology	GO:0005634	8	6348	0.153162060498	0.365859583422	4081|11193|54937|1997|11340|160851|51569|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005634
+carbohydrate metabolic process	Gene Ontology	GO:0005975	2	847	0.153252628951	0.365859583422	29880|57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005975
+RNA polymerase II transcription regulatory region sequence-specific DNA binding transcription factor activity involved in positive regulation of transcription	Gene Ontology	GO:0001228	1	203	0.153424986596	0.365859583422	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001228
+RNA polymerase II core promoter proximal region sequence-specific DNA binding transcription factor activity	Gene Ontology	GO:0000982	1	205	0.154806317533	0.367974122188	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000982
+growth	Gene Ontology	GO:0040007	2	855	0.155519243517	0.368051442038	9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0040007
+membrane	Gene Ontology	GO:0016020	10	8410	0.156114537673	0.368051442038	29880|11193|9201|26960|341640|7223|23111|57511|160851|161003	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016020
+tissue development	Gene Ontology	GO:0009888	3	1663	0.15668591906	0.368051442038	341640|23111|10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009888
+small molecule binding	Gene Ontology	GO:0036094	4	2541	0.156817617105	0.368051442038	160851|7223|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0036094
+post-translational protein modification	Gene Ontology	GO:0043687	1	209	0.157562226167	0.368376908194	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043687
+immune response-activating cell surface receptor signaling pathway	Gene Ontology	GO:0002429	1	210	0.158249799074	0.368376908194	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0002429
+nuclear body	Gene Ontology	GO:0016604	1	211	0.158936811197	0.368376908194	11193	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016604
+negative regulation of growth	Gene Ontology	GO:0045926	1	212	0.159623262991	0.368818967905	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0045926
+macromolecular complex	Gene Ontology	GO:0032991	6	4459	0.161637960959	0.371168651092	11193|7223|11340|57511|122011|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032991
+Golgi vesicle transport	Gene Ontology	GO:0048193	1	216	0.162363476019	0.371687465103	57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048193
+connective tissue development	Gene Ontology	GO:0061448	1	219	0.164412774688	0.375224246528	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0061448
+negative regulation of signal transduction	Gene Ontology	GO:0009968	2	889	0.165221491808	0.375308218	23111|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009968
+negative regulation of immune system process	Gene Ontology	GO:0002683	1	223	0.167137381439	0.377964169577	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0002683
+regulation of cellular component size	Gene Ontology	GO:0032535	1	226	0.169175008758	0.38053668739	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032535
+single-organism process	Gene Ontology	GO:0044699	14	12786	0.169297907965	0.38053668739	29880|4081|161003|54937|9201|1997|341640|7223|23111|57511|160851|55578|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044699
+RNA catabolic process	Gene Ontology	GO:0006401	1	228	0.170530658635	0.3813727392	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006401
+mRNA splicing, via spliceosome	Gene Ontology	GO:0000398	1	229	0.171207654426	0.3813727392	11193	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000398
+RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	Gene Ontology	GO:0000377	1	229	0.171207654426	0.3813727392	11193	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000377
+RNA splicing, via transesterification reactions	Gene Ontology	GO:0000375	1	234	0.174584359913	0.386464497769	11193	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000375
+cytoplasm	Gene Ontology	GO:0005737	11	9687	0.175051795361	0.386464497769	29880|26960|7223|10129|11340|23111|57511|160851|51569|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005737
+response to stimulus	Gene Ontology	GO:0050896	9	7614	0.175883226565	0.387151244273	9201|1997|7223|23111|160851|161003|51569|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050896
+ncRNA processing	Gene Ontology	GO:0034470	1	239	0.17794731744	0.389555145914	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0034470
+purine ribonucleoside triphosphate binding	Gene Ontology	GO:0035639	3	1771	0.178022512918	0.389555145914	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0035639
+purine ribonucleoside binding	Gene Ontology	GO:0032550	3	1780	0.179835559434	0.389560495692	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032550
+platelet activation	Gene Ontology	GO:0030168	1	242	0.179958516213	0.389560495692	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030168
+purine nucleoside binding	Gene Ontology	GO:0001883	3	1783	0.180441026242	0.389560495692	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001883
+cellular process involved in reproduction in multicellular organism	Gene Ontology	GO:0022412	1	243	0.180627822526	0.389560495692	54937	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022412
+ribonucleoside binding	Gene Ontology	GO:0032549	3	1784	0.180642971793	0.389560495692	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032549
+nucleoside binding	Gene Ontology	GO:0001882	3	1794	0.182665789815	0.391305613133	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001882
+single organism signaling	Gene Ontology	GO:0044700	7	5642	0.182921688489	0.391305613133	9201|1997|23111|160851|161003|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044700
+signaling	Gene Ontology	GO:0023052	7	5643	0.183030044853	0.391305613133	9201|1997|23111|160851|161003|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0023052
+regulation of cell morphogenesis involved in differentiation	Gene Ontology	GO:0010769	1	249	0.184632212123	0.393599902062	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0010769
+heterocyclic compound binding	Gene Ontology	GO:1901363	7	5672	0.186183989262	0.394938953449	11193|54937|9201|1997|11340|160851|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1901363
+purine ribonucleotide binding	Gene Ontology	GO:0032555	3	1812	0.186322006264	0.394938953449	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032555
+ribonucleotide binding	Gene Ontology	GO:0032553	3	1828	0.189587894084	0.39780090036	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032553
+carboxylic acid transport	Gene Ontology	GO:0046942	1	258	0.190602158079	0.39780090036	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0046942
+purine nucleotide binding	Gene Ontology	GO:0017076	3	1833	0.190611483386	0.39780090036	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0017076
+ion channel complex	Gene Ontology	GO:0034702	1	259	0.191262783229	0.39780090036	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0034702
+protein glycosylation	Gene Ontology	GO:0006486	1	260	0.191922869558	0.39780090036	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006486
+organic acid transport	Gene Ontology	GO:0015849	1	260	0.191922869558	0.39780090036	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0015849
+macromolecule glycosylation	Gene Ontology	GO:0043413	1	260	0.191922869558	0.39780090036	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043413
+negative regulation of signaling	Gene Ontology	GO:0023057	2	981	0.191949627996	0.39780090036	23111|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0023057
+negative regulation of cell communication	Gene Ontology	GO:0010648	2	983	0.192537106817	0.397910020756	23111|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0010648
+organic cyclic compound binding	Gene Ontology	GO:0097159	7	5741	0.193776876767	0.398419661702	11193|54937|9201|1997|11340|160851|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0097159
+transferase activity, transferring glycosyl groups	Gene Ontology	GO:0016757	1	263	0.193899900007	0.398419661702	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016757
+phosphorylation	Gene Ontology	GO:0016310	3	1854	0.194925748467	0.398419661702	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016310
+regulation of neuron projection development	Gene Ontology	GO:0010975	1	272	0.199802036939	0.407267713651	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0010975
+cation channel activity	Gene Ontology	GO:0005261	1	278	0.203712783949	0.414104675568	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005261
+camera-type eye development	Gene Ontology	GO:0043010	1	282	0.206309332077	0.417490016349	4081	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043010
+nuclear envelope	Gene Ontology	GO:0005635	1	283	0.206957146003	0.417490016349	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005635
+RNA polymerase II regulatory region sequence-specific DNA binding	Gene Ontology	GO:0000977	1	284	0.207604431551	0.417490016349	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000977
+ion binding	Gene Ontology	GO:0043167	7	5869	0.20817930299	0.417490016349	11193|9201|341640|7223|160851|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043167
+cell adhesion	Gene Ontology	GO:0007155	2	1036	0.208183865679	0.417490016349	341640|10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007155
+transmembrane transporter complex	Gene Ontology	GO:1902495	1	287	0.209543122221	0.418128593915	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1902495
+biological adhesion	Gene Ontology	GO:0022610	2	1041	0.209666980023	0.418128593915	341640|10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022610
+RNA polymerase II regulatory region DNA binding	Gene Ontology	GO:0001012	1	288	0.210188298554	0.418128593915	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001012
+ribonucleoprotein complex biogenesis	Gene Ontology	GO:0022613	1	289	0.210832948657	0.418292570135	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022613
+transporter complex	Gene Ontology	GO:1990351	1	292	0.212763745875	0.421000603541	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1990351
+organ development	Gene Ontology	GO:0048513	4	2898	0.214504135637	0.422198616174	4081|9201|23111|341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048513
+nervous system development	Gene Ontology	GO:0007399	3	1958	0.216623729556	0.425054750834	7223|9201|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007399
+negative regulation of response to stimulus	Gene Ontology	GO:0048585	2	1066	0.217097856609	0.425054750834	23111|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048585
+organelle membrane	Gene Ontology	GO:0031090	3	1965	0.218102249327	0.425900455378	29880|160851|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031090
+transmembrane receptor protein serine/threonine kinase signaling pathway	Gene Ontology	GO:0007178	1	303	0.219803035541	0.42698030925	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007178
+cytoplasmic part	Gene Ontology	GO:0044444	8	7041	0.222307351227	0.428488780603	29880|26960|7223|11340|23111|57511|160851|10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044444
+response to virus	Gene Ontology	GO:0009615	1	309	0.223616100466	0.429680223203	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009615
+macromolecule metabolic process	Gene Ontology	GO:0043170	9	8158	0.227924261796	0.435032339315	29880|11193|54937|9201|1997|11340|55578|51569|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043170
+gated channel activity	Gene Ontology	GO:0022836	1	316	0.228041145609	0.435032339315	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022836
+regulation of cell growth	Gene Ontology	GO:0001558	1	319	0.229929869855	0.437513614251	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001558
+eye development	Gene Ontology	GO:0001654	1	322	0.231813976249	0.439429417985	4081	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001654
+cellular protein modification process	Gene Ontology	GO:0006464	4	3011	0.233860556409	0.440486718908	29880|9201|51569|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006464
+protein modification process	Gene Ontology	GO:0036211	4	3011	0.233860556409	0.440486718908	29880|9201|51569|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0036211
+calcium ion transport	Gene Ontology	GO:0006816	1	328	0.235568380579	0.440635515463	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006816
+regulation of cellular process	Gene Ontology	GO:0050794	10	9319	0.236183776483	0.440635515463	4081|161003|54937|9201|1997|23111|160851|55578|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050794
+glycoprotein biosynthetic process	Gene Ontology	GO:0009101	1	329	0.236192329509	0.440635515463	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009101
+immune response-regulating cell surface receptor signaling pathway	Gene Ontology	GO:0002768	1	330	0.23681576951	0.440635515463	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0002768
+ncRNA metabolic process	Gene Ontology	GO:0034660	1	334	0.239304448531	0.443996283559	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0034660
+Wnt signaling pathway	Gene Ontology	GO:0016055	1	336	0.240545745244	0.444084452759	122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016055
+transcription regulatory region sequence-specific DNA binding	Gene Ontology	GO:0000976	1	337	0.241165634348	0.44412681177	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000976
+cell-cell junction	Gene Ontology	GO:0005911	1	344	0.245490723809	0.450975551886	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005911
+divalent metal ion transport	Gene Ontology	GO:0070838	1	346	0.24672193283	0.451010117998	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0070838
+regulation of membrane potential	Gene Ontology	GO:0042391	1	346	0.24672193283	0.451010117998	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0042391
+divalent inorganic cation transport	Gene Ontology	GO:0072511	1	350	0.249178331082	0.45327305214	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0072511
+regulation of anatomical structure size	Gene Ontology	GO:0090066	1	350	0.249178331082	0.45327305214	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0090066
+RNA splicing	Gene Ontology	GO:0008380	1	353	0.251015375327	0.454980308857	11193	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008380
+immune response-activating signal transduction	Gene Ontology	GO:0002757	1	355	0.252237575487	0.454980308857	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0002757
+RNA metabolic process	Gene Ontology	GO:0016070	5	4141	0.252562994029	0.454980308857	11193|54937|11340|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016070
+macromolecule modification	Gene Ontology	GO:0043412	4	3135	0.255556587082	0.458739673562	29880|9201|51569|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043412
+organic anion transport	Gene Ontology	GO:0015711	1	361	0.255892230914	0.458739673562	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0015711
+regulation of cell projection organization	Gene Ontology	GO:0031344	1	362	0.256499602422	0.458739673562	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031344
+extracellular matrix organization	Gene Ontology	GO:0030198	1	369	0.26073735393	0.460723672116	10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030198
+neuron projection guidance	Gene Ontology	GO:0097485	1	370	0.261340773402	0.460723672116	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0097485
+axon guidance	Gene Ontology	GO:0007411	1	370	0.261340773402	0.460723672116	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007411
+extracellular structure organization	Gene Ontology	GO:0043062	1	370	0.261340773402	0.460723672116	10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043062
+forebrain development	Gene Ontology	GO:0030900	1	371	0.261943700679	0.460723672116	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030900
+cilium	Gene Ontology	GO:0005929	1	376	0.264950968182	0.464642759604	161003	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005929
+single-organism intracellular transport	Gene Ontology	GO:1902582	2	1234	0.26743140518	0.464642759604	9201|57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1902582
+regulation of cell morphogenesis	Gene Ontology	GO:0022604	1	382	0.268543530416	0.464642759604	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022604
+ion channel activity	Gene Ontology	GO:0005216	1	382	0.268543530416	0.464642759604	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005216
+glycoprotein metabolic process	Gene Ontology	GO:0009100	1	385	0.270333226238	0.466544573334	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009100
+protein oligomerization	Gene Ontology	GO:0051259	1	387	0.271523925072	0.466544573334	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051259
+metal ion transmembrane transporter activity	Gene Ontology	GO:0046873	1	389	0.272712682232	0.467388139122	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0046873
+sequence-specific DNA binding RNA polymerase II transcription factor activity	Gene Ontology	GO:0000981	1	390	0.273306333674	0.467388139122	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000981
+substrate-specific channel activity	Gene Ontology	GO:0022838	1	391	0.273899500883	0.467388139122	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022838
+plasma membrane region	Gene Ontology	GO:0098590	1	396	0.27685808725	0.470279490671	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0098590
+regulation of neuron differentiation	Gene Ontology	GO:0045664	1	403	0.280979880632	0.47431218042	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0045664
+activation of immune response	Gene Ontology	GO:0002253	1	406	0.282739168791	0.47431218042	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0002253
+cellular metabolic process	Gene Ontology	GO:0044237	10	9801	0.283783690051	0.47431218042	29880|11193|54937|9201|1997|11340|160851|55578|51569|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044237
+regulation of biological process	Gene Ontology	GO:0050789	10	9806	0.284291759269	0.47431218042	4081|161003|54937|9201|1997|23111|160851|55578|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050789
+regulation of RNA biosynthetic process	Gene Ontology	GO:2001141	4	3298	0.284642441062	0.47431218042	54937|23111|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:2001141
+nucleotide binding	Gene Ontology	GO:0000166	3	2277	0.285627773564	0.47431218042	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000166
+nucleoside phosphate binding	Gene Ontology	GO:1901265	3	2278	0.285847764698	0.47431218042	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1901265
+channel activity	Gene Ontology	GO:0015267	1	412	0.286244850818	0.47431218042	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0015267
+passive transmembrane transporter activity	Gene Ontology	GO:0022803	1	412	0.286244850818	0.47431218042	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022803
+morphogenesis of an epithelium	Gene Ontology	GO:0002009	1	415	0.287991265681	0.47614555926	341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0002009
+protein kinase binding	Gene Ontology	GO:0019901	1	432	0.297807264141	0.490055302171	26960	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0019901
+mRNA processing	Gene Ontology	GO:0006397	1	433	0.29838044608	0.490055302171	11193	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006397
+regulation of RNA metabolic process	Gene Ontology	GO:0051252	4	3382	0.299819112576	0.490708369174	54937|23111|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051252
+pattern specification process	Gene Ontology	GO:0007389	1	436	0.300097188137	0.490708369174	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007389
+skeletal system development	Gene Ontology	GO:0001501	1	438	0.301239350184	0.49149578188	10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001501
+primary metabolic process	Gene Ontology	GO:0044238	10	9985	0.30264326518	0.492089172723	29880|11193|54937|9201|1997|11340|57511|55578|51569|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044238
+regulation of signal transduction	Gene Ontology	GO:0009966	3	2356	0.30304217153	0.492089172723	1997|23111|10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009966
+metabolic process	Gene Ontology	GO:0008152	11	11120	0.303587271881	0.492089172723	29880|11193|54937|9201|1997|11340|57511|160851|55578|51569|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008152
+spermatogenesis	Gene Ontology	GO:0007283	1	452	0.309182501943	0.498812392467	54937	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007283
+enzyme binding	Gene Ontology	GO:0019899	2	1375	0.309686520109	0.498812392467	26960|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0019899
+male gamete generation	Gene Ontology	GO:0048232	1	453	0.309746405	0.498812392467	54937	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048232
+nuclear part	Gene Ontology	GO:0044428	3	2392	0.310995049144	0.498957703255	160851|11193|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044428
+nucleoplasm	Gene Ontology	GO:0005654	2	1380	0.31117792246	0.498957703255	11193|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005654
+immune response-regulating signaling pathway	Gene Ontology	GO:0002764	1	462	0.314800878183	0.502399361595	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0002764
+protein phosphorylation	Gene Ontology	GO:0006468	2	1394	0.315350136915	0.502399361595	9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006468
+negative regulation of cellular component organization	Gene Ontology	GO:0051129	1	471	0.319818364994	0.507345124852	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051129
+inorganic cation transmembrane transporter activity	Gene Ontology	GO:0022890	1	478	0.323695457116	0.512403021477	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022890
+kinase binding	Gene Ontology	GO:0019900	1	481	0.32535030015	0.51348784882	26960	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0019900
+anion transport	Gene Ontology	GO:0006820	1	482	0.325901014807	0.51348784882	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006820
+regulation of cytokine production	Gene Ontology	GO:0001817	1	483	0.326451280231	0.51348784882	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001817
+positive regulation of immune response	Gene Ontology	GO:0050778	1	487	0.328647856916	0.515806805599	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050778
+bounding membrane of organelle	Gene Ontology	GO:0098588	2	1441	0.329312140671	0.515806805599	29880|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0098588
+locomotion	Gene Ontology	GO:0040011	2	1453	0.332864623201	0.520210301171	7223|9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0040011
+biological regulation	Gene Ontology	GO:0065007	10	10284	0.33390425991	0.520210301171	4081|161003|54937|9201|1997|23111|160851|55578|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0065007
+organic substance metabolic process	Gene Ontology	GO:0071704	10	10287	0.334221134355	0.520210301171	29880|11193|54937|9201|1997|11340|57511|55578|51569|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0071704
+inorganic cation transmembrane transport	Gene Ontology	GO:0098662	1	501	0.336279655049	0.5223216354	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0098662
+regulation of neurogenesis	Gene Ontology	GO:0050767	1	504	0.337903727222	0.523188514561	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050767
+transcription cofactor activity	Gene Ontology	GO:0003712	1	505	0.338444201643	0.523188514561	55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003712
+intracellular transport	Gene Ontology	GO:0046907	2	1474	0.33906816646	0.523188514561	9201|57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0046907
+nucleic acid metabolic process	Gene Ontology	GO:0090304	5	4699	0.339650608243	0.523188514561	11193|54937|11340|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0090304
+mitochondrial membrane	Gene Ontology	GO:0031966	1	509	0.340601694063	0.523569546245	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031966
+transcription regulatory region DNA binding	Gene Ontology	GO:0044212	1	512	0.342215197899	0.52496516956	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044212
+single-organism cellular process	Gene Ontology	GO:0044763	11	11521	0.343431610784	0.52574715725	29880|54937|9201|1997|341640|7223|23111|160851|161003|10631|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044763
+regulatory region nucleic acid binding	Gene Ontology	GO:0001067	1	519	0.345964713681	0.527454399547	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001067
+regulatory region DNA binding	Gene Ontology	GO:0000975	1	519	0.345964713681	0.527454399547	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000975
+tissue morphogenesis	Gene Ontology	GO:0048729	1	524	0.348629855688	0.530430700679	341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048729
+endoplasmic reticulum membrane	Gene Ontology	GO:0005789	1	528	0.350754153239	0.532573653081	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005789
+regulation of macromolecule biosynthetic process	Gene Ontology	GO:0010556	4	3669	0.352192419781	0.53319069278	54937|23111|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0010556
+regulation of transcription from RNA polymerase II promoter	Gene Ontology	GO:0006357	2	1529	0.355227344202	0.53319069278	23111|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006357
+mitochondrial envelope	Gene Ontology	GO:0005740	1	538	0.356034657879	0.53319069278	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005740
+transcription factor binding transcription factor activity	Gene Ontology	GO:0000989	1	538	0.356034657879	0.53319069278	55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000989
+negative regulation of cell differentiation	Gene Ontology	GO:0045596	1	540	0.357085597438	0.53319069278	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0045596
+protein binding transcription factor activity	Gene Ontology	GO:0000988	1	541	0.357610424325	0.53319069278	55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000988
+cytokine production	Gene Ontology	GO:0001816	1	541	0.357610424325	0.53319069278	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001816
+nuclear outer membrane-endoplasmic reticulum membrane network	Gene Ontology	GO:0042175	1	544	0.359182337599	0.534463318347	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0042175
+blood coagulation	Gene Ontology	GO:0007596	1	546	0.360228143781	0.534949578789	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007596
+coagulation	Gene Ontology	GO:0050817	1	549	0.361793656015	0.536204143576	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050817
+hemostasis	Gene Ontology	GO:0007599	1	551	0.362835203529	0.536678710588	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007599
+synapse	Gene Ontology	GO:0045202	1	554	0.364394340769	0.537915455422	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0045202
+regulation of signaling	Gene Ontology	GO:0023051	3	2640	0.365751696719	0.538397789016	1997|23111|10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0023051
+regulation of growth	Gene Ontology	GO:0040008	1	558	0.366467261421	0.538397789016	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0040008
+regulation of cell communication	Gene Ontology	GO:0010646	3	2647	0.367290418266	0.538397789016	1997|23111|10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0010646
+embryonic morphogenesis	Gene Ontology	GO:0048598	1	562	0.368533426301	0.538681471843	55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048598
+regulation of nervous system development	Gene Ontology	GO:0051960	1	567	0.371106665608	0.541379135711	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051960
+transferase complex	Gene Ontology	GO:1990234	1	570	0.372645576681	0.542244797833	55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1990234
+gamete generation	Gene Ontology	GO:0007276	1	571	0.373157710337	0.542244797833	54937	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007276
+cellular component movement	Gene Ontology	GO:0006928	2	1600	0.375872145085	0.545124514509	7223|9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006928
+regulation of cellular biosynthetic process	Gene Ontology	GO:0031326	4	3815	0.378906817794	0.547255703065	54937|23111|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031326
+protein complex	Gene Ontology	GO:0043234	4	3819	0.379637617041	0.547255703065	7223|11340|57511|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043234
+nucleic acid binding	Gene Ontology	GO:0003676	4	3821	0.380002982975	0.547255703065	11193|54937|11340|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003676
+cation transmembrane transport	Gene Ontology	GO:0098655	1	585	0.380283868931	0.547255703065	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0098655
+inorganic ion transmembrane transport	Gene Ontology	GO:0098660	1	587	0.381295261332	0.54765188114	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0098660
+cellular protein metabolic process	Gene Ontology	GO:0044267	4	3842	0.38383788823	0.549534911968	29880|9201|51569|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044267
+cation transmembrane transporter activity	Gene Ontology	GO:0008324	1	594	0.384822162816	0.549534911968	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008324
+regulation of biosynthetic process	Gene Ontology	GO:0009889	4	3863	0.38766992971	0.552076841122	54937|23111|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009889
+cell surface	Gene Ontology	GO:0009986	1	602	0.388828312833	0.552076841122	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009986
+developmental process involved in reproduction	Gene Ontology	GO:0003006	1	605	0.390323888616	0.553144710725	54937	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003006
+brain development	Gene Ontology	GO:0007420	1	632	0.403620563748	0.570900569256	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007420
+chromatin organization	Gene Ontology	GO:0006325	1	643	0.408954284784	0.573674158115	55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006325
+taxis	Gene Ontology	GO:0042330	1	644	0.409436798332	0.573674158115	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0042330
+chemotaxis	Gene Ontology	GO:0006935	1	644	0.409436798332	0.573674158115	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006935
+regulation of cell development	Gene Ontology	GO:0060284	1	655	0.41471853787	0.579982316118	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0060284
+endosome	Gene Ontology	GO:0005768	1	659	0.416627444491	0.580469697942	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005768
+integral component of membrane	Gene Ontology	GO:0016021	5	5216	0.422054616709	0.585290336872	29880|7223|9201|341640|161003	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016021
+negative regulation of developmental process	Gene Ontology	GO:0051093	1	671	0.422316915751	0.585290336872	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051093
+regulation of body fluid levels	Gene Ontology	GO:0050878	1	675	0.424201057296	0.586087404005	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050878
+calcium ion binding	Gene Ontology	GO:0005509	1	676	0.424671132378	0.586087404005	341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005509
+protein modification by small protein conjugation	Gene Ontology	GO:0032446	1	682	0.427483540398	0.58656274574	51569	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032446
+endoplasmic reticulum part	Gene Ontology	GO:0044432	1	682	0.427483540398	0.58656274574	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044432
+wound healing	Gene Ontology	GO:0042060	1	684	0.428417953426	0.58656274574	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0042060
+positive regulation of immune system process	Gene Ontology	GO:0002684	1	685	0.428884588283	0.58656274574	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0002684
+response to external biotic stimulus	Gene Ontology	GO:0043207	1	694	0.433067208093	0.58984347324	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043207
+response to other organism	Gene Ontology	GO:0051707	1	694	0.433067208093	0.58984347324	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051707
+carbohydrate derivative biosynthetic process	Gene Ontology	GO:1901137	1	696	0.433992514263	0.58984347324	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1901137
+nitrogen compound transport	Gene Ontology	GO:0071705	1	697	0.434454601257	0.58984347324	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0071705
+multicellular organismal reproductive process	Gene Ontology	GO:0048609	1	702	0.436759387625	0.591892503449	54937	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048609
+regulation of nucleobase-containing compound metabolic process	Gene Ontology	GO:0019219	4	4146	0.43886822524	0.593669017415	54937|23111|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0019219
+intrinsic component of membrane	Gene Ontology	GO:0031224	5	5334	0.440690932243	0.595052728836	29880|7223|9201|341640|161003	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031224
+sexual reproduction	Gene Ontology	GO:0019953	1	713	0.441796931854	0.59546542989	54937	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0019953
+response to biotic stimulus	Gene Ontology	GO:0009607	1	725	0.447241099028	0.600401070346	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009607
+cell division	Gene Ontology	GO:0051301	1	725	0.447241099028	0.600401070346	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051301
+multicellular organism reproduction	Gene Ontology	GO:0032504	1	727	0.44814328756	0.600401070346	54937	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032504
+metal ion transport	Gene Ontology	GO:0030001	1	730	0.449493812074	0.600401070346	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030001
+regulation of anatomical structure morphogenesis	Gene Ontology	GO:0022603	1	730	0.449493812074	0.600401070346	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022603
+protein localization	Gene Ontology	GO:0008104	2	1869	0.451292472156	0.601723296208	26960|57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008104
+cytoskeleton	Gene Ontology	GO:0005856	2	1880	0.454267917792	0.60460703191	10129|7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005856
+regulation of nitrogen compound metabolic process	Gene Ontology	GO:0051171	4	4241	0.455792047984	0.604810733372	54937|23111|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051171
+regulation of response to stimulus	Gene Ontology	GO:0048583	3	3059	0.456046802986	0.604810733372	1997|23111|10631	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048583
+positive regulation of cell proliferation	Gene Ontology	GO:0008284	1	752	0.459297260096	0.606463820276	4081	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008284
+mitochondrial part	Gene Ontology	GO:0044429	1	752	0.459297260096	0.606463820276	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044429
+sequence-specific DNA binding	Gene Ontology	GO:0043565	1	753	0.459738702467	0.606463820276	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043565
+protein modification by small protein conjugation or removal	Gene Ontology	GO:0070647	1	763	0.464133366177	0.610097569674	51569	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0070647
+regulation of immune response	Gene Ontology	GO:0050776	1	763	0.464133366177	0.610097569674	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050776
+ion transmembrane transporter activity	Gene Ontology	GO:0015075	1	777	0.470225946032	0.617016056169	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0015075
+response to external stimulus	Gene Ontology	GO:0009605	2	1977	0.480095575494	0.627752386938	7223|9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009605
+ion transmembrane transport	Gene Ontology	GO:0034220	1	820	0.488509437114	0.637256000127	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0034220
+nuclear lumen	Gene Ontology	GO:0031981	2	2013	0.489488118419	0.637256000127	11193|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031981
+catalytic complex	Gene Ontology	GO:1902494	1	828	0.49184078501	0.63862049572	55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1902494
+substrate-specific transmembrane transporter activity	Gene Ontology	GO:0022891	1	833	0.493911858047	0.640192373497	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022891
+regulation of nucleic acid-templated transcription	Gene Ontology	GO:1903506	3	3258	0.497045820435	0.642017518061	54937|23111|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1903506
+regulation of transcription, DNA-templated	Gene Ontology	GO:0006355	3	3258	0.497045820435	0.642017518061	54937|23111|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006355
+cellular component biogenesis	Gene Ontology	GO:0044085	2	2063	0.502354612207	0.647205215112	160851|11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044085
+chromosome organization	Gene Ontology	GO:0051276	1	858	0.50414138171	0.647205215112	55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051276
+plasma membrane part	Gene Ontology	GO:0044459	2	2073	0.504902635465	0.647205215112	7223|9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044459
+positive regulation of transcription from RNA polymerase II promoter	Gene Ontology	GO:0045944	1	862	0.505758821112	0.647205215112	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0045944
+macromolecular complex subunit organization	Gene Ontology	GO:0043933	2	2077	0.50591946624	0.647205215112	160851|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043933
+macromolecule biosynthetic process	Gene Ontology	GO:0009059	4	4531	0.506281498919	0.647205215112	29880|54937|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009059
+cell activation	Gene Ontology	GO:0001775	1	870	0.508977900356	0.648843857578	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001775
+multi-organism reproductive process	Gene Ontology	GO:0044703	1	872	0.509779391099	0.648843857578	54937	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044703
+cellular macromolecule catabolic process	Gene Ontology	GO:0044265	1	873	0.51017964608	0.648843857578	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044265
+multi-organism process	Gene Ontology	GO:0051704	2	2100	0.511739751137	0.649717363219	54937|9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051704
+peptidyl-amino acid modification	Gene Ontology	GO:0018193	1	888	0.5161444309	0.654193282095	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0018193
+non-membrane-bounded organelle	Gene Ontology	GO:0043228	3	3365	0.51843645348	0.654867099132	10129|23111|7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043228
+intracellular non-membrane-bounded organelle	Gene Ontology	GO:0043232	3	3365	0.51843645348	0.654867099132	10129|23111|7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043232
+regulation of multicellular organismal process	Gene Ontology	GO:0051239	2	2139	0.52150502498	0.657626675567	23111|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051239
+reproduction	Gene Ontology	GO:0000003	1	905	0.522816819511	0.657763337477	54937	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0000003
+single-organism transport	Gene Ontology	GO:0044765	3	3395	0.524344963224	0.657763337477	7223|9201|57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044765
+transmembrane transporter activity	Gene Ontology	GO:0022857	1	911	0.525149761373	0.657763337477	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022857
+establishment of localization in cell	Gene Ontology	GO:0051649	2	2173	0.529910662692	0.658611451165	9201|57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051649
+macromolecule localization	Gene Ontology	GO:0033036	2	2173	0.529910662692	0.658611451165	26960|57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0033036
+protein metabolic process	Gene Ontology	GO:0019538	4	4674	0.530397387335	0.658611451165	29880|9201|51569|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0019538
+intracellular signal transduction	Gene Ontology	GO:0035556	2	2178	0.531138267069	0.658611451165	160851|9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0035556
+secretion	Gene Ontology	GO:0046903	1	932	0.533225664812	0.659125413444	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0046903
+RNA biosynthetic process	Gene Ontology	GO:0032774	3	3476	0.540095421906	0.665675647824	54937|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0032774
+cation transport	Gene Ontology	GO:0006812	1	951	0.54041410119	0.665675647824	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006812
+organic substance transport	Gene Ontology	GO:0071702	2	2220	0.541363361749	0.66574271263	7223|57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0071702
+response to wounding	Gene Ontology	GO:0009611	1	962	0.544525153972	0.668335886735	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009611
+substrate-specific transporter activity	Gene Ontology	GO:0022892	1	964	0.54526866028	0.668335886735	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022892
+embryo development	Gene Ontology	GO:0009790	1	973	0.548599458345	0.67131249508	55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009790
+enzyme linked receptor protein signaling pathway	Gene Ontology	GO:0007167	1	984	0.552637342574	0.673210356182	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007167
+nucleobase-containing compound metabolic process	Gene Ontology	GO:0006139	5	6085	0.554574035322	0.673210356182	11193|54937|11340|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006139
+regulation of cellular macromolecule biosynthetic process	Gene Ontology	GO:2000112	3	3554	0.554974645028	0.673210356182	54937|23111|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:2000112
+phosphate-containing compound metabolic process	Gene Ontology	GO:0006796	3	3557	0.555541151012	0.673210356182	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006796
+extracellular region part	Gene Ontology	GO:0044421	3	3562	0.556484367005	0.673210356182	341640|10631|51569	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044421
+single-organism localization	Gene Ontology	GO:1902578	3	3562	0.556484367005	0.673210356182	7223|9201|57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1902578
+gene expression	Gene Ontology	GO:0010467	4	4845	0.558450049375	0.674491618076	11193|54937|11340|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0010467
+membrane part	Gene Ontology	GO:0044425	5	6129	0.560902945668	0.676356226218	29880|7223|9201|341640|161003	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044425
+phosphorus metabolic process	Gene Ontology	GO:0006793	3	3601	0.56380000794	0.678749524122	160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006793
+cell migration	Gene Ontology	GO:0016477	1	1026	0.567725480904	0.68169414614	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016477
+epithelium development	Gene Ontology	GO:0060429	1	1027	0.568078455117	0.68169414614	341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0060429
+sequence-specific DNA binding transcription factor activity	Gene Ontology	GO:0003700	1	1041	0.572989958569	0.684693332209	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003700
+nucleic acid binding transcription factor activity	Gene Ontology	GO:0001071	1	1042	0.573338637052	0.684693332209	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0001071
+single organism reproductive process	Gene Ontology	GO:0044702	1	1042	0.573338637052	0.684693332209	54937	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044702
+DNA binding	Gene Ontology	GO:0003677	2	2366	0.575687333246	0.686396435793	54937|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003677
+heterocycle metabolic process	Gene Ontology	GO:0046483	5	6250	0.578069848941	0.688134348179	11193|54937|11340|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0046483
+cellular aromatic compound metabolic process	Gene Ontology	GO:0006725	5	6263	0.57989293581	0.689201827864	11193|54937|11340|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006725
+cell junction	Gene Ontology	GO:0030054	1	1066	0.58162209662	0.689897153976	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0030054
+protein dimerization activity	Gene Ontology	GO:0046983	1	1073	0.584007693319	0.689897153976	54937	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0046983
+protein complex assembly	Gene Ontology	GO:0006461	1	1077	0.585364783365	0.689897153976	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006461
+localization	Gene Ontology	GO:0051179	4	5017	0.585727714177	0.689897153976	26960|9201|7223|57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051179
+macromolecule catabolic process	Gene Ontology	GO:0009057	1	1079	0.586041668431	0.689897153976	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009057
+protein complex biogenesis	Gene Ontology	GO:0070271	1	1079	0.586041668431	0.689897153976	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0070271
+regulation of macromolecule metabolic process	Gene Ontology	GO:0060255	4	5052	0.591156964809	0.693723630628	54937|23111|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0060255
+cell motility	Gene Ontology	GO:0048870	1	1105	0.594741341443	0.695735154141	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048870
+localization of cell	Gene Ontology	GO:0051674	1	1105	0.594741341443	0.695735154141	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051674
+vesicle-mediated transport	Gene Ontology	GO:0016192	1	1127	0.601959743678	0.699273609719	57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016192
+cellular localization	Gene Ontology	GO:0051641	2	2486	0.602464144311	0.699273609719	9201|57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051641
+nucleobase-containing compound biosynthetic process	Gene Ontology	GO:0034654	3	3823	0.604005169088	0.699968607168	54937|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0034654
+organic cyclic compound metabolic process	Gene Ontology	GO:1901360	5	6464	0.607531534081	0.702419366203	11193|54937|11340|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1901360
+regulation of immune system process	Gene Ontology	GO:0002682	1	1149	0.609049661136	0.702419366203	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0002682
+cellular catabolic process	Gene Ontology	GO:0044248	2	2518	0.609385180125	0.702419366203	11340|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044248
+cellular nitrogen compound metabolic process	Gene Ontology	GO:0034641	5	6490	0.611029267971	0.702419366203	11193|54937|11340|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0034641
+positive regulation of nucleic acid-templated transcription	Gene Ontology	GO:1903508	1	1164	0.613811202413	0.702419366203	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1903508
+positive regulation of transcription, DNA-templated	Gene Ontology	GO:0045893	1	1164	0.613811202413	0.702419366203	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0045893
+G-protein coupled receptor signaling pathway	Gene Ontology	GO:0007186	1	1165	0.614126570115	0.702419366203	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0007186
+reproductive process	Gene Ontology	GO:0022414	1	1169	0.615385469478	0.702419366203	54937	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022414
+heterocycle biosynthetic process	Gene Ontology	GO:0018130	3	3890	0.615645806935	0.702419366203	54937|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0018130
+aromatic compound biosynthetic process	Gene Ontology	GO:0019438	3	3895	0.61650516953	0.702419366203	54937|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0019438
+transporter activity	Gene Ontology	GO:0005215	1	1178	0.61820300722	0.702585912252	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005215
+intracellular organelle lumen	Gene Ontology	GO:0070013	2	2561	0.618540016835	0.702585912252	11193|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0070013
+cytosol	Gene Ontology	GO:0005829	2	2571	0.620645204361	0.703902487873	26960|11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005829
+zinc ion binding	Gene Ontology	GO:0008270	1	1190	0.621927665624	0.704283383903	11193	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008270
+cellular nitrogen compound biosynthetic process	Gene Ontology	GO:0044271	3	3951	0.626040874319	0.70448215445	54937|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044271
+positive regulation of RNA biosynthetic process	Gene Ontology	GO:1902680	1	1205	0.626532467634	0.70448215445	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1902680
+regulation of gene expression	Gene Ontology	GO:0010468	3	3954	0.626547084392	0.70448215445	54937|23111|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0010468
+catalytic activity	Gene Ontology	GO:0003824	4	5301	0.628540306407	0.70448215445	29880|160851|9201|122011	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003824
+transmembrane transport	Gene Ontology	GO:0055085	1	1212	0.628662153273	0.70448215445	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0055085
+neurological system process	Gene Ontology	GO:0050877	1	1214	0.629268402789	0.70448215445	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050877
+metal ion binding	Gene Ontology	GO:0046872	3	3973	0.629742113982	0.70448215445	160851|11193|341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0046872
+organelle lumen	Gene Ontology	GO:0043233	2	2619	0.630625154387	0.70448215445	11193|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043233
+positive regulation of RNA metabolic process	Gene Ontology	GO:0051254	1	1227	0.633184987802	0.705880722958	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051254
+organic cyclic compound biosynthetic process	Gene Ontology	GO:1901362	3	4009	0.635743809592	0.705880722958	54937|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1901362
+cellular biosynthetic process	Gene Ontology	GO:0044249	4	5362	0.637357328497	0.705880722958	29880|54937|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044249
+regulation of cellular metabolic process	Gene Ontology	GO:0031323	4	5379	0.639790112968	0.705880722958	54937|23111|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031323
+transport	Gene Ontology	GO:0006810	3	4035	0.640035901473	0.705880722958	7223|9201|57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006810
+membrane-enclosed lumen	Gene Ontology	GO:0031974	2	2667	0.640398956072	0.705880722958	11193|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031974
+cation binding	Gene Ontology	GO:0043169	3	4043	0.641349367635	0.705880722958	160851|11193|341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043169
+macromolecular complex assembly	Gene Ontology	GO:0065003	1	1255	0.641480842374	0.705880722958	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0065003
+regulation of primary metabolic process	Gene Ontology	GO:0080090	4	5403	0.643206419288	0.705880722958	54937|23111|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0080090
+integral component of plasma membrane	Gene Ontology	GO:0005887	1	1263	0.643816462578	0.705880722958	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005887
+extracellular organelle	Gene Ontology	GO:0043230	2	2686	0.64421103614	0.705880722958	51569|341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0043230
+extracellular vesicular exosome	Gene Ontology	GO:0070062	2	2686	0.64421103614	0.705880722958	51569|341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0070062
+extracellular membrane-bounded organelle	Gene Ontology	GO:0065010	2	2686	0.64421103614	0.705880722958	51569|341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0065010
+positive regulation of gene expression	Gene Ontology	GO:0010628	1	1271	0.646136877641	0.706949760243	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0010628
+regulation of cell differentiation	Gene Ontology	GO:0045595	1	1283	0.649589206804	0.708232315436	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0045595
+organelle organization	Gene Ontology	GO:0006996	2	2716	0.650164880972	0.708232315436	23111|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006996
+organic substance biosynthetic process	Gene Ontology	GO:1901576	4	5467	0.652211840856	0.709423405844	29880|54937|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1901576
+establishment of localization	Gene Ontology	GO:0051234	3	4124	0.654457585182	0.710826924636	7223|9201|57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051234
+intrinsic component of plasma membrane	Gene Ontology	GO:0031226	1	1312	0.65779401809	0.713409255771	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031226
+nitrogen compound metabolic process	Gene Ontology	GO:0006807	5	6865	0.659397997471	0.71404891872	11193|54937|11340|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006807
+biosynthetic process	Gene Ontology	GO:0009058	4	5545	0.662979924895	0.715550439225	29880|54937|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009058
+regulation of cell proliferation	Gene Ontology	GO:0042127	1	1333	0.663615326701	0.715550439225	4081	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0042127
+regulation of multicellular organismal development	Gene Ontology	GO:2000026	1	1351	0.668526192497	0.719802441704	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:2000026
+positive regulation of macromolecule biosynthetic process	Gene Ontology	GO:0010557	1	1369	0.673365414136	0.723965127337	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0010557
+positive regulation of nucleobase-containing compound metabolic process	Gene Ontology	GO:0045935	1	1384	0.677344124668	0.726426637982	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0045935
+ion transport	Gene Ontology	GO:0006811	1	1385	0.677607643494	0.726426637982	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006811
+protein transport	Gene Ontology	GO:0015031	1	1393	0.679708066286	0.727629929952	57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0015031
+extracellular region	Gene Ontology	GO:0005576	3	4304	0.682342103633	0.729399784274	341640|10631|51569	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005576
+catabolic process	Gene Ontology	GO:0009056	2	2891	0.683322109729	0.729399784274	11340|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009056
+positive regulation of nitrogen compound metabolic process	Gene Ontology	GO:0051173	1	1413	0.684899489639	0.730036132223	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051173
+transition metal ion binding	Gene Ontology	GO:0046914	1	1427	0.688483372884	0.732300089957	11193	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0046914
+cellular response to stress	Gene Ontology	GO:0033554	1	1429	0.688992020121	0.732300089957	51569	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0033554
+endoplasmic reticulum	Gene Ontology	GO:0005783	1	1443	0.692529387964	0.734494852507	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005783
+nucleobase-containing compound catabolic process	Gene Ontology	GO:0034655	1	1445	0.693031433414	0.734494852507	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0034655
+protein complex subunit organization	Gene Ontology	GO:0071822	1	1453	0.695031436756	0.734705246303	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0071822
+cellular macromolecule biosynthetic process	Gene Ontology	GO:0034645	3	4391	0.695204964244	0.734705246303	29880|54937|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0034645
+positive regulation of cellular biosynthetic process	Gene Ontology	GO:0031328	1	1465	0.698007052679	0.736615287023	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031328
+cell projection	Gene Ontology	GO:0042995	1	1469	0.698992463223	0.736615287023	161003	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0042995
+positive regulation of biosynthetic process	Gene Ontology	GO:0009891	1	1489	0.703871527138	0.737773435856	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009891
+heterocycle catabolic process	Gene Ontology	GO:0046700	1	1490	0.704113395054	0.737773435856	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0046700
+cellular nitrogen compound catabolic process	Gene Ontology	GO:0044270	1	1490	0.704113395054	0.737773435856	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044270
+aromatic compound catabolic process	Gene Ontology	GO:0019439	1	1493	0.704837814975	0.737773435856	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0019439
+positive regulation of response to stimulus	Gene Ontology	GO:0048584	1	1494	0.705078894209	0.737773435856	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048584
+establishment of protein localization	Gene Ontology	GO:0045184	1	1498	0.706041245066	0.737773435856	57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0045184
+regulation of biological quality	Gene Ontology	GO:0065008	2	3060	0.712853736075	0.742879911292	160851|23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0065008
+organic cyclic compound catabolic process	Gene Ontology	GO:1901361	1	1527	0.71292507616	0.742879911292	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1901361
+RNA binding	Gene Ontology	GO:0003723	1	1536	0.715028504678	0.744029660811	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003723
+mitochondrion	Gene Ontology	GO:0005739	1	1551	0.718500049328	0.746597816621	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0005739
+regulation of metabolic process	Gene Ontology	GO:0019222	4	6010	0.722391610291	0.749594641641	54937|23111|1997|55578	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0019222
+molecular transducer activity	Gene Ontology	GO:0060089	1	1580	0.725092321321	0.750304154469	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0060089
+signal transducer activity	Gene Ontology	GO:0004871	1	1580	0.725092321321	0.750304154469	9201	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0004871
+membrane-bounded vesicle	Gene Ontology	GO:0031988	2	3218	0.73833917841	0.762950484357	51569|341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031988
+regulation of cellular component organization	Gene Ontology	GO:0051128	1	1652	0.740800033186	0.764431656991	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0051128
+transcription from RNA polymerase II promoter	Gene Ontology	GO:0006366	1	1677	0.746041649104	0.76877422013	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006366
+response to stress	Gene Ontology	GO:0006950	2	3359	0.759426255575	0.779476391226	160851|51569	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006950
+nucleic acid-templated transcription	Gene Ontology	GO:0097659	2	3360	0.759570408116	0.779476391226	54937|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0097659
+transcription, DNA-templated	Gene Ontology	GO:0006351	2	3360	0.759570408116	0.779476391226	54937|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0006351
+cell proliferation	Gene Ontology	GO:0008283	1	1753	0.761334583479	0.780210647532	4081	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008283
+negative regulation of cellular process	Gene Ontology	GO:0048523	2	3394	0.764427232357	0.78230242211	23111|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048523
+regulation of developmental process	Gene Ontology	GO:0050793	1	1775	0.765587212679	0.782413305266	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0050793
+system process	Gene Ontology	GO:0003008	1	1786	0.767685046404	0.783481035013	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0003008
+vesicle	Gene Ontology	GO:0031982	2	3448	0.771965712347	0.786770534228	51569|341640	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031982
+cellular component assembly	Gene Ontology	GO:0022607	1	1909	0.78990284001	0.803950359737	160851	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0022607
+cell death	Gene Ontology	GO:0008219	1	1964	0.799138003943	0.811795967896	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0008219
+death	Gene Ontology	GO:0016265	1	1968	0.799793608155	0.811795967896	23111	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0016265
+negative regulation of biological process	Gene Ontology	GO:0048519	2	3718	0.806570302614	0.817558998835	23111|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048519
+positive regulation of cellular process	Gene Ontology	GO:0048522	2	3814	0.817700337142	0.827712994332	4081|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048522
+carbohydrate derivative metabolic process	Gene Ontology	GO:1901135	1	2111	0.821878356914	0.830811817316	29880	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1901135
+positive regulation of macromolecule metabolic process	Gene Ontology	GO:0010604	1	2203	0.834782169224	0.842710900818	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0010604
+immune system process	Gene Ontology	GO:0002376	1	2256	0.841787328035	0.84863112745	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0002376
+positive regulation of cellular metabolic process	Gene Ontology	GO:0031325	1	2311	0.848743172335	0.85448568365	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0031325
+positive regulation of biological process	Gene Ontology	GO:0048518	2	4243	0.860714970184	0.865367483536	4081|1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0048518
+positive regulation of metabolic process	Gene Ontology	GO:0009893	1	2444	0.864326708089	0.867826006503	1997	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0009893
+organic substance catabolic process	Gene Ontology	GO:1901575	1	2657	0.886011016917	0.888399186774	11340	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:1901575
+single-organism metabolic process	Gene Ontology	GO:0044710	2	5422	0.935467257586	0.936726298309	29880|57511	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0044710
+response to chemical	Gene Ontology	GO:0042221	1	3647	0.949275776364	0.949275776364	7223	http://amigo.geneontology.org/cgi-bin/amigo/term_details?term=GO:0042221
+
+--------------------
