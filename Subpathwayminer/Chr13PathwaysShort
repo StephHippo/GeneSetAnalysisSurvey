@@ -1,0 +1,5 @@
+""	"pathwayName"	"annGeneRatio"	"annBgRatio"	"pvalue"	"qvalue"
+"path:00510"	"N-Glycan biosynthesis"	"1/4"	"48/25668"	"0.00745960963339154"	"1"
+"path:04340"	"Hedgehog signaling pathway"	"1/4"	"56/25668"	"0.0086988085831543"	"1"
+"path:04310"	"Wnt signaling pathway"	"1/4"	"151/25668"	"0.0233257646047907"	"1"
+"path:01100"	"Metabolic pathways"	"1/4"	"1120/25668"	"0.163450384784054"	"1"

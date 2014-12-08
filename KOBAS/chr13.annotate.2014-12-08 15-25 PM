@@ -1,0 +1,407 @@
+##hsa	Homo sapiens (human)
+##Method: ID mapping (entrez_gene_id)
+##Summary:	4 succeed, 0 fail
+
+#Query	Gene ID|Gene name|Hyperlink
+29880	hsa:29880|ALG5, bA421P11.2|http://www.genome.jp/dbget-bin/www_bget?hsa:29880
+57511	hsa:57511|COG6, CDG2L, COD2, SHNS|http://www.genome.jp/dbget-bin/www_bget?hsa:57511
+122011	hsa:122011|CSNK1A1L, CK1|http://www.genome.jp/dbget-bin/www_bget?hsa:122011
+9201	hsa:9201|DCLK1, CL1, CLICK1, DCAMKL1, DCDC3A, DCLK|http://www.genome.jp/dbget-bin/www_bget?hsa:9201
+
+--------------------
+
+////
+Query:              	29880
+Gene:               	hsa:29880	ALG5, bA421P11.2
+Entrez Gene ID:      	29880
+Pathway:            	Metabolic pathways	KEGG PATHWAY	hsa01100
+                    	Synthesis of dolichyl-phosphate-glucose	Reactome	REACT_22346
+                    	N-Glycan biosynthesis	KEGG PATHWAY	hsa00510
+                    	Asparagine N-linked glycosylation	Reactome	REACT_22426
+                    	Synthesis of substrates in N-glycan biosythesis	Reactome	REACT_22387
+                    	Metabolism of proteins	Reactome	REACT_17015
+                    	Post-translational protein modification	Reactome	REACT_22161
+                    	Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	Reactome	REACT_22433
+GO:                 	catalytic activity	Gene Ontology	GO:0003824
+                    	oligosaccharyl transferase activity	Gene Ontology	GO:0004576
+                    	dolichyl-phosphate beta-glucosyltransferase activity	Gene Ontology	GO:0004581
+                    	intracellular	Gene Ontology	GO:0005622
+                    	cell	Gene Ontology	GO:0005623
+                    	cytoplasm	Gene Ontology	GO:0005737
+                    	endoplasmic reticulum	Gene Ontology	GO:0005783
+                    	endoplasmic reticulum membrane	Gene Ontology	GO:0005789
+                    	carbohydrate metabolic process	Gene Ontology	GO:0005975
+                    	cellular protein modification process	Gene Ontology	GO:0006464
+                    	protein glycosylation	Gene Ontology	GO:0006486
+                    	protein N-linked glycosylation	Gene Ontology	GO:0006487
+                    	dolichol-linked oligosaccharide biosynthetic process	Gene Ontology	GO:0006488
+                    	multicellular organismal development	Gene Ontology	GO:0007275
+                    	determination of left/right symmetry	Gene Ontology	GO:0007368
+                    	pattern specification process	Gene Ontology	GO:0007389
+                    	metabolic process	Gene Ontology	GO:0008152
+                    	UDP-glycosyltransferase activity	Gene Ontology	GO:0008194
+                    	biosynthetic process	Gene Ontology	GO:0009058
+                    	macromolecule biosynthetic process	Gene Ontology	GO:0009059
+                    	glycoprotein metabolic process	Gene Ontology	GO:0009100
+                    	glycoprotein biosynthetic process	Gene Ontology	GO:0009101
+                    	specification of symmetry	Gene Ontology	GO:0009799
+                    	determination of bilateral symmetry	Gene Ontology	GO:0009855
+                    	cellular process	Gene Ontology	GO:0009987
+                    	endomembrane system	Gene Ontology	GO:0012505
+                    	membrane	Gene Ontology	GO:0016020
+                    	integral component of membrane	Gene Ontology	GO:0016021
+                    	transferase activity	Gene Ontology	GO:0016740
+                    	transferase activity, transferring glycosyl groups	Gene Ontology	GO:0016757
+                    	transferase activity, transferring hexosyl groups	Gene Ontology	GO:0016758
+                    	peptidyl-amino acid modification	Gene Ontology	GO:0018193
+                    	peptidyl-asparagine modification	Gene Ontology	GO:0018196
+                    	protein N-linked glycosylation via asparagine	Gene Ontology	GO:0018279
+                    	protein metabolic process	Gene Ontology	GO:0019538
+                    	organelle membrane	Gene Ontology	GO:0031090
+                    	intrinsic component of membrane	Gene Ontology	GO:0031224
+                    	multicellular organismal process	Gene Ontology	GO:0032501
+                    	developmental process	Gene Ontology	GO:0032502
+                    	cellular macromolecule biosynthetic process	Gene Ontology	GO:0034645
+                    	UDP-glucosyltransferase activity	Gene Ontology	GO:0035251
+                    	protein modification process	Gene Ontology	GO:0036211
+                    	nuclear outer membrane-endoplasmic reticulum membrane network	Gene Ontology	GO:0042175
+                    	macromolecule metabolic process	Gene Ontology	GO:0043170
+                    	organelle	Gene Ontology	GO:0043226
+                    	membrane-bounded organelle	Gene Ontology	GO:0043227
+                    	intracellular organelle	Gene Ontology	GO:0043229
+                    	intracellular membrane-bounded organelle	Gene Ontology	GO:0043231
+                    	macromolecule modification	Gene Ontology	GO:0043412
+                    	macromolecule glycosylation	Gene Ontology	GO:0043413
+                    	post-translational protein modification	Gene Ontology	GO:0043687
+                    	cellular metabolic process	Gene Ontology	GO:0044237
+                    	primary metabolic process	Gene Ontology	GO:0044238
+                    	cellular biosynthetic process	Gene Ontology	GO:0044249
+                    	cellular macromolecule metabolic process	Gene Ontology	GO:0044260
+                    	cellular protein metabolic process	Gene Ontology	GO:0044267
+                    	organelle part	Gene Ontology	GO:0044422
+                    	intracellular part	Gene Ontology	GO:0044424
+                    	membrane part	Gene Ontology	GO:0044425
+                    	endoplasmic reticulum part	Gene Ontology	GO:0044432
+                    	cytoplasmic part	Gene Ontology	GO:0044444
+                    	intracellular organelle part	Gene Ontology	GO:0044446
+                    	cell part	Gene Ontology	GO:0044464
+                    	single-organism process	Gene Ontology	GO:0044699
+                    	single-multicellular organism process	Gene Ontology	GO:0044707
+                    	single-organism metabolic process	Gene Ontology	GO:0044710
+                    	single-organism carbohydrate metabolic process	Gene Ontology	GO:0044723
+                    	single-organism cellular process	Gene Ontology	GO:0044763
+                    	single-organism developmental process	Gene Ontology	GO:0044767
+                    	glucosyltransferase activity	Gene Ontology	GO:0046527
+                    	glycosylation	Gene Ontology	GO:0070085
+                    	organic substance metabolic process	Gene Ontology	GO:0071704
+                    	bounding membrane of organelle	Gene Ontology	GO:0098588
+                    	membrane region	Gene Ontology	GO:0098589
+                    	carbohydrate derivative metabolic process	Gene Ontology	GO:1901135
+                    	carbohydrate derivative biosynthetic process	Gene Ontology	GO:1901137
+                    	organic substance biosynthetic process	Gene Ontology	GO:1901576
+////
+Query:              	57511
+Gene:               	hsa:57511	COG6, CDG2L, COD2, SHNS
+Entrez Gene ID:      	57511
+Disease:            	IMMUNE	GAD	
+                    	CARDIOVASCULAR	GAD	
+                    	Rheumatoid arthritis	NHGRI GWAS Catalog	
+                    	METABOLIC	GAD	
+                    	VISION	GAD	
+                    	BLOOD PRESSURE	GAD	
+                    	PSORIASIS	GAD	
+                    	Psoriasis	NHGRI GWAS Catalog	
+                    	Congenital disorder of glycosylation, type IIl	OMIM	614576
+                    	COLITIS, ULCERATIVE	GAD	
+                    	Shaheen syndrome	OMIM	615328
+                    	IRON	GAD	
+                    	ALANINE TRANSAMINASE	GAD	
+                    	CORNEA	GAD	
+GO:                 	intracellular	Gene Ontology	GO:0005622
+                    	cell	Gene Ontology	GO:0005623
+                    	cytoplasm	Gene Ontology	GO:0005737
+                    	Golgi apparatus	Gene Ontology	GO:0005794
+                    	carbohydrate metabolic process	Gene Ontology	GO:0005975
+                    	transport	Gene Ontology	GO:0006810
+                    	intra-Golgi vesicle-mediated transport	Gene Ontology	GO:0006891
+                    	protein localization	Gene Ontology	GO:0008104
+                    	metabolic process	Gene Ontology	GO:0008152
+                    	endomembrane system	Gene Ontology	GO:0012505
+                    	protein transport	Gene Ontology	GO:0015031
+                    	membrane	Gene Ontology	GO:0016020
+                    	vesicle-mediated transport	Gene Ontology	GO:0016192
+                    	Golgi transport complex	Gene Ontology	GO:0017119
+                    	macromolecular complex	Gene Ontology	GO:0032991
+                    	macromolecule localization	Gene Ontology	GO:0033036
+                    	organelle	Gene Ontology	GO:0043226
+                    	membrane-bounded organelle	Gene Ontology	GO:0043227
+                    	intracellular organelle	Gene Ontology	GO:0043229
+                    	intracellular membrane-bounded organelle	Gene Ontology	GO:0043231
+                    	protein complex	Gene Ontology	GO:0043234
+                    	primary metabolic process	Gene Ontology	GO:0044238
+                    	organelle part	Gene Ontology	GO:0044422
+                    	intracellular part	Gene Ontology	GO:0044424
+                    	Golgi apparatus part	Gene Ontology	GO:0044431
+                    	cytoplasmic part	Gene Ontology	GO:0044444
+                    	intracellular organelle part	Gene Ontology	GO:0044446
+                    	cell part	Gene Ontology	GO:0044464
+                    	single-organism process	Gene Ontology	GO:0044699
+                    	single-organism metabolic process	Gene Ontology	GO:0044710
+                    	single-organism carbohydrate metabolic process	Gene Ontology	GO:0044723
+                    	single-organism transport	Gene Ontology	GO:0044765
+                    	establishment of protein localization	Gene Ontology	GO:0045184
+                    	intracellular transport	Gene Ontology	GO:0046907
+                    	Golgi vesicle transport	Gene Ontology	GO:0048193
+                    	localization	Gene Ontology	GO:0051179
+                    	establishment of localization	Gene Ontology	GO:0051234
+                    	cellular localization	Gene Ontology	GO:0051641
+                    	establishment of localization in cell	Gene Ontology	GO:0051649
+                    	glycosylation	Gene Ontology	GO:0070085
+                    	organic substance transport	Gene Ontology	GO:0071702
+                    	organic substance metabolic process	Gene Ontology	GO:0071704
+                    	single-organism localization	Gene Ontology	GO:1902578
+                    	single-organism intracellular transport	Gene Ontology	GO:1902582
+////
+Query:              	122011
+Gene:               	hsa:122011	CSNK1A1L, CK1
+Entrez Gene ID:      	122011
+Pathway:            	Parkinson disease	PANTHER	P00049
+                    	Hedgehog signaling pathway	PANTHER	P00025
+                    	Wnt signaling pathway	PANTHER	P00057
+                    	Wnt signaling pathway	KEGG PATHWAY	hsa04310
+                    	Hedgehog signaling pathway	KEGG PATHWAY	hsa04340
+Disease:            	Amyotrophic lateral sclerosis (sporadic)	NHGRI GWAS Catalog	
+                    	CARDIOVASCULAR	GAD	
+                    	Palmitoleic acid (16:1n-7) plasma levels	NHGRI GWAS Catalog	
+                    	TUNICA MEDIA	GAD	
+                    	RESPIRATORY FUNCTION TESTS	GAD	
+GO:                 	nucleotide binding	Gene Ontology	GO:0000166
+                    	cell morphogenesis	Gene Ontology	GO:0000902
+                    	nucleoside binding	Gene Ontology	GO:0001882
+                    	purine nucleoside binding	Gene Ontology	GO:0001883
+                    	catalytic activity	Gene Ontology	GO:0003824
+                    	protein kinase activity	Gene Ontology	GO:0004672
+                    	protein serine/threonine kinase activity	Gene Ontology	GO:0004674
+                    	binding	Gene Ontology	GO:0005488
+                    	ATP binding	Gene Ontology	GO:0005524
+                    	intracellular	Gene Ontology	GO:0005622
+                    	cell	Gene Ontology	GO:0005623
+                    	cytoplasm	Gene Ontology	GO:0005737
+                    	cellular protein modification process	Gene Ontology	GO:0006464
+                    	protein phosphorylation	Gene Ontology	GO:0006468
+                    	phosphorus metabolic process	Gene Ontology	GO:0006793
+                    	phosphate-containing compound metabolic process	Gene Ontology	GO:0006796
+                    	cell communication	Gene Ontology	GO:0007154
+                    	signal transduction	Gene Ontology	GO:0007165
+                    	cell surface receptor signaling pathway	Gene Ontology	GO:0007166
+                    	metabolic process	Gene Ontology	GO:0008152
+                    	anatomical structure morphogenesis	Gene Ontology	GO:0009653
+                    	cellular process	Gene Ontology	GO:0009987
+                    	cellular component organization	Gene Ontology	GO:0016043
+                    	Wnt signaling pathway	Gene Ontology	GO:0016055
+                    	kinase activity	Gene Ontology	GO:0016301
+                    	phosphorylation	Gene Ontology	GO:0016310
+                    	transferase activity	Gene Ontology	GO:0016740
+                    	transferase activity, transferring phosphorus-containing groups	Gene Ontology	GO:0016772
+                    	phosphotransferase activity, alcohol group as acceptor	Gene Ontology	GO:0016773
+                    	purine nucleotide binding	Gene Ontology	GO:0017076
+                    	protein metabolic process	Gene Ontology	GO:0019538
+                    	signaling	Gene Ontology	GO:0023052
+                    	ribonucleoprotein complex	Gene Ontology	GO:0030529
+                    	adenyl nucleotide binding	Gene Ontology	GO:0030554
+                    	developmental process	Gene Ontology	GO:0032502
+                    	ribonucleoside binding	Gene Ontology	GO:0032549
+                    	purine ribonucleoside binding	Gene Ontology	GO:0032550
+                    	ribonucleotide binding	Gene Ontology	GO:0032553
+                    	purine ribonucleotide binding	Gene Ontology	GO:0032555
+                    	adenyl ribonucleotide binding	Gene Ontology	GO:0032559
+                    	cellular component morphogenesis	Gene Ontology	GO:0032989
+                    	macromolecular complex	Gene Ontology	GO:0032991
+                    	purine ribonucleoside triphosphate binding	Gene Ontology	GO:0035639
+                    	small molecule binding	Gene Ontology	GO:0036094
+                    	protein modification process	Gene Ontology	GO:0036211
+                    	ion binding	Gene Ontology	GO:0043167
+                    	anion binding	Gene Ontology	GO:0043168
+                    	macromolecule metabolic process	Gene Ontology	GO:0043170
+                    	macromolecule modification	Gene Ontology	GO:0043412
+                    	cellular metabolic process	Gene Ontology	GO:0044237
+                    	primary metabolic process	Gene Ontology	GO:0044238
+                    	cellular macromolecule metabolic process	Gene Ontology	GO:0044260
+                    	cellular protein metabolic process	Gene Ontology	GO:0044267
+                    	intracellular part	Gene Ontology	GO:0044424
+                    	cell part	Gene Ontology	GO:0044464
+                    	single-organism process	Gene Ontology	GO:0044699
+                    	single organism signaling	Gene Ontology	GO:0044700
+                    	single-organism cellular process	Gene Ontology	GO:0044763
+                    	single-organism developmental process	Gene Ontology	GO:0044767
+                    	anatomical structure development	Gene Ontology	GO:0048856
+                    	cellular developmental process	Gene Ontology	GO:0048869
+                    	regulation of biological process	Gene Ontology	GO:0050789
+                    	regulation of cellular process	Gene Ontology	GO:0050794
+                    	response to stimulus	Gene Ontology	GO:0050896
+                    	cellular response to stimulus	Gene Ontology	GO:0051716
+                    	biological regulation	Gene Ontology	GO:0065007
+                    	organic substance metabolic process	Gene Ontology	GO:0071704
+                    	cellular component organization or biogenesis	Gene Ontology	GO:0071840
+                    	organic cyclic compound binding	Gene Ontology	GO:0097159
+                    	carbohydrate derivative binding	Gene Ontology	GO:0097367
+                    	nucleoside phosphate binding	Gene Ontology	GO:1901265
+                    	heterocyclic compound binding	Gene Ontology	GO:1901363
+////
+Query:              	9201
+Gene:               	hsa:9201	DCLK1, CL1, CLICK1, DCAMKL1, DCDC3A, DCLK
+Entrez Gene ID:      	9201
+Disease:            	NEUROLOGICAL	GAD	
+                    	CARDIOVASCULAR	GAD	
+                    	VISION	GAD	
+                    	PSYCH	GAD	
+                    	STROKE	GAD	
+                    	HEART RATE	GAD	
+                    	DEVELOPMENTAL	GAD	
+                    	Height	NHGRI GWAS Catalog	
+                    	Non-alcoholic fatty liver disease	NHGRI GWAS Catalog	
+                    	Obesity-related traits	NHGRI GWAS Catalog	
+                    	Heart rate variability traits	NHGRI GWAS Catalog	
+                    	C-REACTIVE PROTEIN	GAD	
+                    	Vertical cup-disc ratio	NHGRI GWAS Catalog	
+                    	BODY HEIGHT	GAD	
+                    	ATTENTION DEFICIT DISORDER WITH HYPERACTIVITY	GAD	
+                    	OPTIC DISK	GAD	
+GO:                 	nucleotide binding	Gene Ontology	GO:0000166
+                    	cell morphogenesis	Gene Ontology	GO:0000902
+                    	cell morphogenesis involved in differentiation	Gene Ontology	GO:0000904
+                    	neuron migration	Gene Ontology	GO:0001764
+                    	nucleoside binding	Gene Ontology	GO:0001882
+                    	purine nucleoside binding	Gene Ontology	GO:0001883
+                    	catalytic activity	Gene Ontology	GO:0003824
+                    	protein kinase activity	Gene Ontology	GO:0004672
+                    	protein serine/threonine kinase activity	Gene Ontology	GO:0004674
+                    	signal transducer activity	Gene Ontology	GO:0004871
+                    	receptor signaling protein activity	Gene Ontology	GO:0005057
+                    	binding	Gene Ontology	GO:0005488
+                    	ATP binding	Gene Ontology	GO:0005524
+                    	cell	Gene Ontology	GO:0005623
+                    	plasma membrane	Gene Ontology	GO:0005886
+                    	integral component of plasma membrane	Gene Ontology	GO:0005887
+                    	cellular protein modification process	Gene Ontology	GO:0006464
+                    	protein phosphorylation	Gene Ontology	GO:0006468
+                    	phosphorus metabolic process	Gene Ontology	GO:0006793
+                    	phosphate-containing compound metabolic process	Gene Ontology	GO:0006796
+                    	transport	Gene Ontology	GO:0006810
+                    	cellular component movement	Gene Ontology	GO:0006928
+                    	cell communication	Gene Ontology	GO:0007154
+                    	signal transduction	Gene Ontology	GO:0007165
+                    	multicellular organismal development	Gene Ontology	GO:0007275
+                    	nervous system development	Gene Ontology	GO:0007399
+                    	axonogenesis	Gene Ontology	GO:0007409
+                    	central nervous system development	Gene Ontology	GO:0007417
+                    	brain development	Gene Ontology	GO:0007420
+                    	metabolic process	Gene Ontology	GO:0008152
+                    	response to external stimulus	Gene Ontology	GO:0009605
+                    	response to biotic stimulus	Gene Ontology	GO:0009607
+                    	response to virus	Gene Ontology	GO:0009615
+                    	anatomical structure morphogenesis	Gene Ontology	GO:0009653
+                    	cellular process	Gene Ontology	GO:0009987
+                    	membrane	Gene Ontology	GO:0016020
+                    	integral component of membrane	Gene Ontology	GO:0016021
+                    	cellular component organization	Gene Ontology	GO:0016043
+                    	cell growth	Gene Ontology	GO:0016049
+                    	endosomal transport	Gene Ontology	GO:0016197
+                    	kinase activity	Gene Ontology	GO:0016301
+                    	phosphorylation	Gene Ontology	GO:0016310
+                    	dendrite development	Gene Ontology	GO:0016358
+                    	cell migration	Gene Ontology	GO:0016477
+                    	transferase activity	Gene Ontology	GO:0016740
+                    	transferase activity, transferring phosphorus-containing groups	Gene Ontology	GO:0016772
+                    	phosphotransferase activity, alcohol group as acceptor	Gene Ontology	GO:0016773
+                    	purine nucleotide binding	Gene Ontology	GO:0017076
+                    	protein metabolic process	Gene Ontology	GO:0019538
+                    	central nervous system projection neuron axonogenesis	Gene Ontology	GO:0021952
+                    	central nervous system neuron differentiation	Gene Ontology	GO:0021953
+                    	central nervous system neuron development	Gene Ontology	GO:0021954
+                    	central nervous system neuron axonogenesis	Gene Ontology	GO:0021955
+                    	neurogenesis	Gene Ontology	GO:0022008
+                    	signaling	Gene Ontology	GO:0023052
+                    	cell projection organization	Gene Ontology	GO:0030030
+                    	cell differentiation	Gene Ontology	GO:0030154
+                    	neuron differentiation	Gene Ontology	GO:0030182
+                    	adenyl nucleotide binding	Gene Ontology	GO:0030554
+                    	forebrain development	Gene Ontology	GO:0030900
+                    	neuron projection development	Gene Ontology	GO:0031175
+                    	intrinsic component of membrane	Gene Ontology	GO:0031224
+                    	intrinsic component of plasma membrane	Gene Ontology	GO:0031226
+                    	multicellular organismal process	Gene Ontology	GO:0032501
+                    	developmental process	Gene Ontology	GO:0032502
+                    	ribonucleoside binding	Gene Ontology	GO:0032549
+                    	purine ribonucleoside binding	Gene Ontology	GO:0032550
+                    	ribonucleotide binding	Gene Ontology	GO:0032553
+                    	purine ribonucleotide binding	Gene Ontology	GO:0032555
+                    	adenyl ribonucleotide binding	Gene Ontology	GO:0032559
+                    	cellular component morphogenesis	Gene Ontology	GO:0032989
+                    	cell part morphogenesis	Gene Ontology	GO:0032990
+                    	intracellular signal transduction	Gene Ontology	GO:0035556
+                    	purine ribonucleoside triphosphate binding	Gene Ontology	GO:0035639
+                    	small molecule binding	Gene Ontology	GO:0036094
+                    	protein modification process	Gene Ontology	GO:0036211
+                    	growth	Gene Ontology	GO:0040007
+                    	locomotion	Gene Ontology	GO:0040011
+                    	ion binding	Gene Ontology	GO:0043167
+                    	anion binding	Gene Ontology	GO:0043168
+                    	macromolecule metabolic process	Gene Ontology	GO:0043170
+                    	response to external biotic stimulus	Gene Ontology	GO:0043207
+                    	macromolecule modification	Gene Ontology	GO:0043412
+                    	cellular metabolic process	Gene Ontology	GO:0044237
+                    	primary metabolic process	Gene Ontology	GO:0044238
+                    	cellular macromolecule metabolic process	Gene Ontology	GO:0044260
+                    	cellular protein metabolic process	Gene Ontology	GO:0044267
+                    	membrane part	Gene Ontology	GO:0044425
+                    	plasma membrane part	Gene Ontology	GO:0044459
+                    	cell part	Gene Ontology	GO:0044464
+                    	single-organism process	Gene Ontology	GO:0044699
+                    	single organism signaling	Gene Ontology	GO:0044700
+                    	single-multicellular organism process	Gene Ontology	GO:0044707
+                    	single-organism cellular process	Gene Ontology	GO:0044763
+                    	single-organism transport	Gene Ontology	GO:0044765
+                    	single-organism developmental process	Gene Ontology	GO:0044767
+                    	intracellular transport	Gene Ontology	GO:0046907
+                    	cell development	Gene Ontology	GO:0048468
+                    	organ development	Gene Ontology	GO:0048513
+                    	developmental cell growth	Gene Ontology	GO:0048588
+                    	developmental growth	Gene Ontology	GO:0048589
+                    	neuron development	Gene Ontology	GO:0048666
+                    	cell morphogenesis involved in neuron differentiation	Gene Ontology	GO:0048667
+                    	axon extension	Gene Ontology	GO:0048675
+                    	generation of neurons	Gene Ontology	GO:0048699
+                    	system development	Gene Ontology	GO:0048731
+                    	neuron projection morphogenesis	Gene Ontology	GO:0048812
+                    	dendrite morphogenesis	Gene Ontology	GO:0048813
+                    	anatomical structure development	Gene Ontology	GO:0048856
+                    	cell projection morphogenesis	Gene Ontology	GO:0048858
+                    	cellular developmental process	Gene Ontology	GO:0048869
+                    	cell motility	Gene Ontology	GO:0048870
+                    	regulation of biological process	Gene Ontology	GO:0050789
+                    	regulation of cellular process	Gene Ontology	GO:0050794
+                    	response to stimulus	Gene Ontology	GO:0050896
+                    	localization	Gene Ontology	GO:0051179
+                    	establishment of localization	Gene Ontology	GO:0051234
+                    	cellular localization	Gene Ontology	GO:0051641
+                    	establishment of localization in cell	Gene Ontology	GO:0051649
+                    	localization of cell	Gene Ontology	GO:0051674
+                    	multi-organism process	Gene Ontology	GO:0051704
+                    	response to other organism	Gene Ontology	GO:0051707
+                    	cellular response to stimulus	Gene Ontology	GO:0051716
+                    	molecular transducer activity	Gene Ontology	GO:0060089
+                    	developmental growth involved in morphogenesis	Gene Ontology	GO:0060560
+                    	axon development	Gene Ontology	GO:0061564
+                    	biological regulation	Gene Ontology	GO:0065007
+                    	organic substance metabolic process	Gene Ontology	GO:0071704
+                    	cellular component organization or biogenesis	Gene Ontology	GO:0071840
+                    	cell periphery	Gene Ontology	GO:0071944
+                    	organic cyclic compound binding	Gene Ontology	GO:0097159
+                    	carbohydrate derivative binding	Gene Ontology	GO:0097367
+                    	nucleoside phosphate binding	Gene Ontology	GO:1901265
+                    	heterocyclic compound binding	Gene Ontology	GO:1901363
+                    	single-organism localization	Gene Ontology	GO:1902578
+                    	single-organism intracellular transport	Gene Ontology	GO:1902582
+                    	neuron projection extension	Gene Ontology	GO:1990138
+////

@@ -1,0 +1,2286 @@
+##hsa	Homo sapiens (human)
+##Method: ID mapping (entrez_gene_id)
+##Summary:	10 succeed, 0 fail
+
+#Query	Gene ID|Gene name|Hyperlink
+317	hsa:317|APAF1, APAF-1, CED4|http://www.genome.jp/dbget-bin/www_bget?hsa:317
+498	hsa:498|ATP5A1, ATP5A, ATP5AL2, ATPM, HEL-S-123m, MC5DN4, MOM2, OMR, ORM, hATP1|http://www.genome.jp/dbget-bin/www_bget?hsa:498
+506	hsa:506|ATP5B, ATPMB, ATPSB, HEL-S-271|http://www.genome.jp/dbget-bin/www_bget?hsa:506
+509	hsa:509|ATP5C1, ATP5C, ATP5CL1|http://www.genome.jp/dbget-bin/www_bget?hsa:509
+513	hsa:513|ATP5D|http://www.genome.jp/dbget-bin/www_bget?hsa:513
+514	hsa:514|ATP5E, ATPE, MC5DN3|http://www.genome.jp/dbget-bin/www_bget?hsa:514
+515	hsa:515|ATP5F1, PIG47|http://www.genome.jp/dbget-bin/www_bget?hsa:515
+516	hsa:516|ATP5G1, ATP5A, ATP5G|http://www.genome.jp/dbget-bin/www_bget?hsa:516
+517	hsa:517|ATP5G2, ATP5A|http://www.genome.jp/dbget-bin/www_bget?hsa:517
+518	hsa:518|ATP5G3, P3|http://www.genome.jp/dbget-bin/www_bget?hsa:518
+
+--------------------
+
+////
+Query:              	317
+Gene:               	hsa:317	APAF1, APAF-1, CED4
+Entrez Gene ID:      	317
+Pathway:            	Caspase Cascade in Apoptosis	PID	caspase_pathway
+                    	HIV-1 Nef: Negative effector of Fas and TNF-alpha	PID	hivnefpathway
+                    	Huntington disease	PANTHER	P00029
+                    	Tuberculosis	KEGG PATHWAY	hsa05152
+                    	trefoil factors initiate mucosal healing	BioCarta	100018
+                    	Apoptosis signaling pathway	PANTHER	P00006
+                    	caspase cascade in apoptosis	BioCarta	100218
+                    	Alzheimer's disease	KEGG PATHWAY	hsa05010
+                    	Parkinson's disease	KEGG PATHWAY	hsa05012
+                    	apoptotic signaling in response to dna damage	BioCarta	100204
+                    	Huntington's disease	KEGG PATHWAY	hsa05016
+                    	role of mitochondria in apoptotic signaling	BioCarta	100106
+                    	p75(NTR)-mediated signaling	PID	p75ntrpathway
+                    	p53 pathway	PANTHER	P00059
+                    	FAS signaling pathway	PANTHER	P00020
+                    	p53 signaling pathway	KEGG PATHWAY	hsa04115
+                    	Apoptosis	KEGG PATHWAY	hsa04210
+                    	Amyotrophic lateral sclerosis (ALS)	KEGG PATHWAY	hsa05014
+                    	hiv-1 nef: negative effector of fas and tnf	BioCarta	100144
+                    	Hepatitis B	KEGG PATHWAY	hsa05161
+                    	west nile virus	BioCarta	100001
+                    	E2F transcription factor network	PID	e2f_pathway
+                    	Direct p53 effectors	PID	p53downstreampathway
+                    	stress induction of hsp regulation	BioCarta	100142
+                    	regulation of cell cycle progression by plk3	BioCarta	100068
+                    	Legionellosis	KEGG PATHWAY	hsa05134
+                    	Small cell lung cancer	KEGG PATHWAY	hsa05222
+                    	Apoptotic factor-mediated response	Reactome	REACT_963
+                    	Cytochrome c-mediated apoptotic response	Reactome	REACT_831
+                    	Activation of caspases through apoptosome-mediated cleavage	Reactome	REACT_607
+                    	Intrinsic Pathway for Apoptosis	Reactome	REACT_964
+                    	Formation of apoptosome	Reactome	REACT_89
+                    	Apoptosis	Reactome	REACT_578
+Disease:            	Depression	FunDO	1907
+                    	Intestinal disease	FunDO	1911
+                    	Cancer	FunDO	1934
+GO:                 	nucleotide binding	Gene Ontology	GO:0000166
+                    	DNA catabolic process, endonucleolytic	Gene Ontology	GO:0000737
+                    	embryonic epithelial tube formation	Gene Ontology	GO:0001838
+                    	neural tube formation	Gene Ontology	GO:0001841
+                    	neural tube closure	Gene Ontology	GO:0001843
+                    	nucleoside binding	Gene Ontology	GO:0001882
+                    	purine nucleoside binding	Gene Ontology	GO:0001883
+                    	morphogenesis of an epithelium	Gene Ontology	GO:0002009
+                    	binding	Gene Ontology	GO:0005488
+                    	protein binding	Gene Ontology	GO:0005515
+                    	ATP binding	Gene Ontology	GO:0005524
+                    	extracellular region	Gene Ontology	GO:0005576
+                    	intracellular	Gene Ontology	GO:0005622
+                    	cell	Gene Ontology	GO:0005623
+                    	nucleus	Gene Ontology	GO:0005634
+                    	cytoplasm	Gene Ontology	GO:0005737
+                    	cytosol	Gene Ontology	GO:0005829
+                    	nucleobase-containing compound metabolic process	Gene Ontology	GO:0006139
+                    	DNA metabolic process	Gene Ontology	GO:0006259
+                    	DNA catabolic process	Gene Ontology	GO:0006308
+                    	apoptotic DNA fragmentation	Gene Ontology	GO:0006309
+                    	proteolysis	Gene Ontology	GO:0006508
+                    	cellular aromatic compound metabolic process	Gene Ontology	GO:0006725
+                    	nitrogen compound metabolic process	Gene Ontology	GO:0006807
+                    	apoptotic process	Gene Ontology	GO:0006915
+                    	activation of cysteine-type endopeptidase activity involved in apoptotic process	Gene Ontology	GO:0006919
+                    	cellular component disassembly involved in execution phase of apoptosis	Gene Ontology	GO:0006921
+                    	cell communication	Gene Ontology	GO:0007154
+                    	signal transduction	Gene Ontology	GO:0007165
+                    	multicellular organismal development	Gene Ontology	GO:0007275
+                    	nervous system development	Gene Ontology	GO:0007399
+                    	central nervous system development	Gene Ontology	GO:0007417
+                    	brain development	Gene Ontology	GO:0007420
+                    	enzyme activator activity	Gene Ontology	GO:0008047
+                    	metabolic process	Gene Ontology	GO:0008152
+                    	cell death	Gene Ontology	GO:0008219
+                    	activation of cysteine-type endopeptidase activity involved in apoptotic process by cytochrome c	Gene Ontology	GO:0008635
+                    	cysteine-type endopeptidase activator activity involved in apoptotic process	Gene Ontology	GO:0008656
+                    	catabolic process	Gene Ontology	GO:0009056
+                    	macromolecule catabolic process	Gene Ontology	GO:0009057
+                    	response to biotic stimulus	Gene Ontology	GO:0009607
+                    	anatomical structure morphogenesis	Gene Ontology	GO:0009653
+                    	response to endogenous stimulus	Gene Ontology	GO:0009719
+                    	embryo development	Gene Ontology	GO:0009790
+                    	embryo development ending in birth or egg hatching	Gene Ontology	GO:0009792
+                    	tissue development	Gene Ontology	GO:0009888
+                    	regulation of catabolic process	Gene Ontology	GO:0009894
+                    	regulation of signal transduction	Gene Ontology	GO:0009966
+                    	positive regulation of signal transduction	Gene Ontology	GO:0009967
+                    	cellular process	Gene Ontology	GO:0009987
+                    	gene expression	Gene Ontology	GO:0010467
+                    	regulation of cell communication	Gene Ontology	GO:0010646
+                    	positive regulation of cell communication	Gene Ontology	GO:0010647
+                    	regulation of cell death	Gene Ontology	GO:0010941
+                    	positive regulation of cell death	Gene Ontology	GO:0010942
+                    	positive regulation of endopeptidase activity	Gene Ontology	GO:0010950
+                    	positive regulation of peptidase activity	Gene Ontology	GO:0010952
+                    	programmed cell death	Gene Ontology	GO:0012501
+                    	primary neural tube formation	Gene Ontology	GO:0014020
+                    	cellular component organization	Gene Ontology	GO:0016043
+                    	death	Gene Ontology	GO:0016265
+                    	morphogenesis of embryonic epithelium	Gene Ontology	GO:0016331
+                    	protein processing	Gene Ontology	GO:0016485
+                    	peptidase activator activity	Gene Ontology	GO:0016504
+                    	peptidase activator activity involved in apoptotic process	Gene Ontology	GO:0016505
+                    	purine nucleotide binding	Gene Ontology	GO:0017076
+                    	regulation of nucleobase-containing compound metabolic process	Gene Ontology	GO:0019219
+                    	regulation of metabolic process	Gene Ontology	GO:0019222
+                    	aromatic compound catabolic process	Gene Ontology	GO:0019439
+                    	protein metabolic process	Gene Ontology	GO:0019538
+                    	neural tube development	Gene Ontology	GO:0021915
+                    	cellular component disassembly	Gene Ontology	GO:0022411
+                    	regulation of signaling	Gene Ontology	GO:0023051
+                    	signaling	Gene Ontology	GO:0023052
+                    	positive regulation of signaling	Gene Ontology	GO:0023056
+                    	regulation of proteolysis	Gene Ontology	GO:0030162
+                    	enzyme regulator activity	Gene Ontology	GO:0030234
+                    	apoptotic nuclear changes	Gene Ontology	GO:0030262
+                    	adenyl nucleotide binding	Gene Ontology	GO:0030554
+                    	forebrain development	Gene Ontology	GO:0030900
+                    	regulation of cellular metabolic process	Gene Ontology	GO:0031323
+                    	regulation of cellular catabolic process	Gene Ontology	GO:0031329
+                    	zymogen activation	Gene Ontology	GO:0031638
+                    	vesicle	Gene Ontology	GO:0031982
+                    	membrane-bounded vesicle	Gene Ontology	GO:0031988
+                    	multicellular organismal process	Gene Ontology	GO:0032501
+                    	developmental process	Gene Ontology	GO:0032502
+                    	ribonucleoside binding	Gene Ontology	GO:0032549
+                    	purine ribonucleoside binding	Gene Ontology	GO:0032550
+                    	ribonucleotide binding	Gene Ontology	GO:0032553
+                    	purine ribonucleotide binding	Gene Ontology	GO:0032555
+                    	adenyl ribonucleotide binding	Gene Ontology	GO:0032559
+                    	macromolecular complex	Gene Ontology	GO:0032991
+                    	cellular nitrogen compound metabolic process	Gene Ontology	GO:0034641
+                    	nucleobase-containing compound catabolic process	Gene Ontology	GO:0034655
+                    	tube formation	Gene Ontology	GO:0035148
+                    	tube morphogenesis	Gene Ontology	GO:0035239
+                    	tube development	Gene Ontology	GO:0035295
+                    	intracellular signal transduction	Gene Ontology	GO:0035556
+                    	purine ribonucleoside triphosphate binding	Gene Ontology	GO:0035639
+                    	small molecule binding	Gene Ontology	GO:0036094
+                    	identical protein binding	Gene Ontology	GO:0042802
+                    	regulation of apoptotic process	Gene Ontology	GO:0042981
+                    	chordate embryonic development	Gene Ontology	GO:0043009
+                    	cysteine-type endopeptidase regulator activity involved in apoptotic process	Gene Ontology	GO:0043028
+                    	positive regulation of apoptotic process	Gene Ontology	GO:0043065
+                    	regulation of programmed cell death	Gene Ontology	GO:0043067
+                    	positive regulation of programmed cell death	Gene Ontology	GO:0043068
+                    	positive regulation of catalytic activity	Gene Ontology	GO:0043085
+                    	ion binding	Gene Ontology	GO:0043167
+                    	anion binding	Gene Ontology	GO:0043168
+                    	macromolecule metabolic process	Gene Ontology	GO:0043170
+                    	organelle	Gene Ontology	GO:0043226
+                    	membrane-bounded organelle	Gene Ontology	GO:0043227
+                    	intracellular organelle	Gene Ontology	GO:0043229
+                    	extracellular organelle	Gene Ontology	GO:0043230
+                    	intracellular membrane-bounded organelle	Gene Ontology	GO:0043231
+                    	protein complex	Gene Ontology	GO:0043234
+                    	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	Gene Ontology	GO:0043280
+                    	regulation of cysteine-type endopeptidase activity involved in apoptotic process	Gene Ontology	GO:0043281
+                    	apoptosome	Gene Ontology	GO:0043293
+                    	ADP binding	Gene Ontology	GO:0043531
+                    	positive regulation of molecular function	Gene Ontology	GO:0044093
+                    	cellular metabolic process	Gene Ontology	GO:0044237
+                    	primary metabolic process	Gene Ontology	GO:0044238
+                    	cellular catabolic process	Gene Ontology	GO:0044248
+                    	cellular macromolecule metabolic process	Gene Ontology	GO:0044260
+                    	cellular macromolecule catabolic process	Gene Ontology	GO:0044265
+                    	cellular nitrogen compound catabolic process	Gene Ontology	GO:0044270
+                    	extracellular region part	Gene Ontology	GO:0044421
+                    	intracellular part	Gene Ontology	GO:0044424
+                    	cytoplasmic part	Gene Ontology	GO:0044444
+                    	cytosolic part	Gene Ontology	GO:0044445
+                    	cell part	Gene Ontology	GO:0044464
+                    	single-organism process	Gene Ontology	GO:0044699
+                    	single organism signaling	Gene Ontology	GO:0044700
+                    	single-multicellular organism process	Gene Ontology	GO:0044707
+                    	single-organism cellular process	Gene Ontology	GO:0044763
+                    	single-organism developmental process	Gene Ontology	GO:0044767
+                    	heterocycle metabolic process	Gene Ontology	GO:0046483
+                    	heterocycle catabolic process	Gene Ontology	GO:0046700
+                    	organ development	Gene Ontology	GO:0048513
+                    	positive regulation of biological process	Gene Ontology	GO:0048518
+                    	positive regulation of cellular process	Gene Ontology	GO:0048522
+                    	regulation of response to stimulus	Gene Ontology	GO:0048583
+                    	positive regulation of response to stimulus	Gene Ontology	GO:0048584
+                    	embryonic morphogenesis	Gene Ontology	GO:0048598
+                    	anatomical structure formation involved in morphogenesis	Gene Ontology	GO:0048646
+                    	tissue morphogenesis	Gene Ontology	GO:0048729
+                    	system development	Gene Ontology	GO:0048731
+                    	anatomical structure development	Gene Ontology	GO:0048856
+                    	regulation of biological process	Gene Ontology	GO:0050789
+                    	regulation of catalytic activity	Gene Ontology	GO:0050790
+                    	regulation of cellular process	Gene Ontology	GO:0050794
+                    	response to stimulus	Gene Ontology	GO:0050896
+                    	regulation of DNA metabolic process	Gene Ontology	GO:0051052
+                    	regulation of cellular component organization	Gene Ontology	GO:0051128
+                    	regulation of nitrogen compound metabolic process	Gene Ontology	GO:0051171
+                    	regulation of protein metabolic process	Gene Ontology	GO:0051246
+                    	regulation of hydrolase activity	Gene Ontology	GO:0051336
+                    	positive regulation of hydrolase activity	Gene Ontology	GO:0051345
+                    	neuron apoptotic process	Gene Ontology	GO:0051402
+                    	protein maturation	Gene Ontology	GO:0051604
+                    	cellular response to stimulus	Gene Ontology	GO:0051716
+                    	regulation of peptidase activity	Gene Ontology	GO:0052547
+                    	regulation of endopeptidase activity	Gene Ontology	GO:0052548
+                    	regulation of macromolecule metabolic process	Gene Ontology	GO:0060255
+                    	epithelium development	Gene Ontology	GO:0060429
+                    	epithelial tube morphogenesis	Gene Ontology	GO:0060562
+                    	tube closure	Gene Ontology	GO:0060606
+                    	peptidase regulator activity	Gene Ontology	GO:0061134
+                    	biological regulation	Gene Ontology	GO:0065007
+                    	regulation of molecular function	Gene Ontology	GO:0065009
+                    	extracellular membrane-bounded organelle	Gene Ontology	GO:0065010
+                    	extracellular vesicular exosome	Gene Ontology	GO:0070062
+                    	neuron death	Gene Ontology	GO:0070997
+                    	cellular response to biotic stimulus	Gene Ontology	GO:0071216
+                    	cellular response to endogenous stimulus	Gene Ontology	GO:0071495
+                    	organic substance metabolic process	Gene Ontology	GO:0071704
+                    	cellular component organization or biogenesis	Gene Ontology	GO:0071840
+                    	epithelial tube formation	Gene Ontology	GO:0072175
+                    	response to cell cycle checkpoint signaling	Gene Ontology	GO:0072396
+                    	response to DNA integrity checkpoint signaling	Gene Ontology	GO:0072402
+                    	response to mitotic cell cycle checkpoint signaling	Gene Ontology	GO:0072414
+                    	response to DNA damage checkpoint signaling	Gene Ontology	GO:0072423
+                    	response to G1 DNA damage checkpoint signaling	Gene Ontology	GO:0072432
+                    	regulation of primary metabolic process	Gene Ontology	GO:0080090
+                    	nucleic acid metabolic process	Gene Ontology	GO:0090304
+                    	nucleic acid phosphodiester bond hydrolysis	Gene Ontology	GO:0090305
+                    	organic cyclic compound binding	Gene Ontology	GO:0097159
+                    	apoptotic signaling pathway	Gene Ontology	GO:0097190
+                    	intrinsic apoptotic signaling pathway	Gene Ontology	GO:0097193
+                    	execution phase of apoptosis	Gene Ontology	GO:0097194
+                    	activation of cysteine-type endopeptidase activity	Gene Ontology	GO:0097202
+                    	cell-type specific apoptotic process	Gene Ontology	GO:0097285
+                    	carbohydrate derivative binding	Gene Ontology	GO:0097367
+                    	regulation of execution phase of apoptosis	Gene Ontology	GO:1900117
+                    	nucleoside phosphate binding	Gene Ontology	GO:1901265
+                    	organic cyclic compound metabolic process	Gene Ontology	GO:1901360
+                    	organic cyclic compound catabolic process	Gene Ontology	GO:1901361
+                    	heterocyclic compound binding	Gene Ontology	GO:1901363
+                    	organic substance catabolic process	Gene Ontology	GO:1901575
+                    	regulation of apoptotic DNA fragmentation	Gene Ontology	GO:1902510
+                    	regulation of cysteine-type endopeptidase activity	Gene Ontology	GO:2000116
+                    	positive regulation of cysteine-type endopeptidase activity	Gene Ontology	GO:2001056
+                    	regulation of apoptotic signaling pathway	Gene Ontology	GO:2001233
+                    	positive regulation of apoptotic signaling pathway	Gene Ontology	GO:2001235
+////
+Query:              	498
+Gene:               	hsa:498	ATP5A1, ATP5A, ATP5AL2, ATPM, HEL-S-123m, MC5DN4, MOM2, OMR, ORM, hATP1
+Entrez Gene ID:      	498
+Pathway:            	Metabolic pathways	KEGG PATHWAY	hsa01100
+                    	Oxidative phosphorylation	KEGG PATHWAY	hsa00190
+                    	Alzheimer's disease	KEGG PATHWAY	hsa05010
+                    	Parkinson's disease	KEGG PATHWAY	hsa05012
+                    	Huntington's disease	KEGG PATHWAY	hsa05016
+                    	ATP synthesis	PANTHER	P02721
+                    	Metabolism of proteins	Reactome	REACT_17015
+                    	Metabolism	Reactome	REACT_111217
+                    	The citric acid (TCA) cycle and respiratory electron transport	Reactome	REACT_111083
+                    	Mitochondrial protein import	Reactome	REACT_118595
+                    	Formation of ATP by chemiosmotic coupling	Reactome	REACT_6759
+                    	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	Reactome	REACT_6305
+Disease:            	Rabies	FunDO	2120
+                    	DEVELOPMENTAL	GAD	
+                    	Alzheimer's disease	FunDO	1740
+                    	Congenital disorders of metabolism	KEGG DISEASE	
+                    	Mitochondrial diseases	KEGG DISEASE	
+                    	ATP synthase deficiency	KEGG DISEASE	H01369
+                    	BODY HEIGHT	GAD	
+                    	Mitochondrial complex (ATP synthase) deficiency, nuclear type 4	OMIM	615228
+GO:                 	nucleotide binding	Gene Ontology	GO:0000166
+                    	nucleoside binding	Gene Ontology	GO:0001882
+                    	purine nucleoside binding	Gene Ontology	GO:0001883
+                    	endothelial cell proliferation	Gene Ontology	GO:0001935
+                    	regulation of endothelial cell proliferation	Gene Ontology	GO:0001936
+                    	negative regulation of endothelial cell proliferation	Gene Ontology	GO:0001937
+                    	nucleic acid binding	Gene Ontology	GO:0003676
+                    	RNA binding	Gene Ontology	GO:0003723
+                    	catalytic activity	Gene Ontology	GO:0003824
+                    	receptor binding	Gene Ontology	GO:0005102
+                    	transporter activity	Gene Ontology	GO:0005215
+                    	binding	Gene Ontology	GO:0005488
+                    	protein binding	Gene Ontology	GO:0005515
+                    	ATP binding	Gene Ontology	GO:0005524
+                    	extracellular region	Gene Ontology	GO:0005576
+                    	intracellular	Gene Ontology	GO:0005622
+                    	cell	Gene Ontology	GO:0005623
+                    	nucleus	Gene Ontology	GO:0005634
+                    	cytoplasm	Gene Ontology	GO:0005737
+                    	mitochondrion	Gene Ontology	GO:0005739
+                    	mitochondrial envelope	Gene Ontology	GO:0005740
+                    	mitochondrial inner membrane	Gene Ontology	GO:0005743
+                    	mitochondrial proton-transporting ATP synthase complex	Gene Ontology	GO:0005753
+                    	mitochondrial matrix	Gene Ontology	GO:0005759
+                    	plasma membrane	Gene Ontology	GO:0005886
+                    	generation of precursor metabolites and energy	Gene Ontology	GO:0006091
+                    	nucleobase-containing compound metabolic process	Gene Ontology	GO:0006139
+                    	purine nucleoside catabolic process	Gene Ontology	GO:0006152
+                    	purine nucleotide metabolic process	Gene Ontology	GO:0006163
+                    	purine nucleotide biosynthetic process	Gene Ontology	GO:0006164
+                    	purine nucleotide catabolic process	Gene Ontology	GO:0006195
+                    	ATP catabolic process	Gene Ontology	GO:0006200
+                    	lipid metabolic process	Gene Ontology	GO:0006629
+                    	cellular aromatic compound metabolic process	Gene Ontology	GO:0006725
+                    	nucleoside phosphate metabolic process	Gene Ontology	GO:0006753
+                    	ATP biosynthetic process	Gene Ontology	GO:0006754
+                    	phosphorus metabolic process	Gene Ontology	GO:0006793
+                    	phosphate-containing compound metabolic process	Gene Ontology	GO:0006796
+                    	nitrogen compound metabolic process	Gene Ontology	GO:0006807
+                    	transport	Gene Ontology	GO:0006810
+                    	ion transport	Gene Ontology	GO:0006811
+                    	cation transport	Gene Ontology	GO:0006812
+                    	hydrogen transport	Gene Ontology	GO:0006818
+                    	mitochondrial transport	Gene Ontology	GO:0006839
+                    	multicellular organismal development	Gene Ontology	GO:0007275
+                    	metabolic process	Gene Ontology	GO:0008152
+                    	COP9 signalosome	Gene Ontology	GO:0008180
+                    	cell proliferation	Gene Ontology	GO:0008283
+                    	negative regulation of cell proliferation	Gene Ontology	GO:0008285
+                    	cation transmembrane transporter activity	Gene Ontology	GO:0008324
+                    	catabolic process	Gene Ontology	GO:0009056
+                    	biosynthetic process	Gene Ontology	GO:0009058
+                    	nucleoside metabolic process	Gene Ontology	GO:0009116
+                    	nucleotide metabolic process	Gene Ontology	GO:0009117
+                    	ribonucleoside metabolic process	Gene Ontology	GO:0009119
+                    	nucleoside monophosphate metabolic process	Gene Ontology	GO:0009123
+                    	nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009124
+                    	nucleoside monophosphate catabolic process	Gene Ontology	GO:0009125
+                    	purine nucleoside monophosphate metabolic process	Gene Ontology	GO:0009126
+                    	purine nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009127
+                    	purine nucleoside monophosphate catabolic process	Gene Ontology	GO:0009128
+                    	nucleoside triphosphate metabolic process	Gene Ontology	GO:0009141
+                    	nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009142
+                    	nucleoside triphosphate catabolic process	Gene Ontology	GO:0009143
+                    	purine nucleoside triphosphate metabolic process	Gene Ontology	GO:0009144
+                    	purine nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009145
+                    	purine nucleoside triphosphate catabolic process	Gene Ontology	GO:0009146
+                    	purine ribonucleotide metabolic process	Gene Ontology	GO:0009150
+                    	purine ribonucleotide biosynthetic process	Gene Ontology	GO:0009152
+                    	purine ribonucleotide catabolic process	Gene Ontology	GO:0009154
+                    	ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009156
+                    	ribonucleoside monophosphate catabolic process	Gene Ontology	GO:0009158
+                    	ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009161
+                    	nucleoside biosynthetic process	Gene Ontology	GO:0009163
+                    	nucleoside catabolic process	Gene Ontology	GO:0009164
+                    	nucleotide biosynthetic process	Gene Ontology	GO:0009165
+                    	nucleotide catabolic process	Gene Ontology	GO:0009166
+                    	purine ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009167
+                    	purine ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009168
+                    	purine ribonucleoside monophosphate catabolic process	Gene Ontology	GO:0009169
+                    	ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009199
+                    	ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009201
+                    	ribonucleoside triphosphate catabolic process	Gene Ontology	GO:0009203
+                    	purine ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009205
+                    	purine ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009206
+                    	purine ribonucleoside triphosphate catabolic process	Gene Ontology	GO:0009207
+                    	ribonucleotide metabolic process	Gene Ontology	GO:0009259
+                    	ribonucleotide biosynthetic process	Gene Ontology	GO:0009260
+                    	ribonucleotide catabolic process	Gene Ontology	GO:0009261
+                    	embryo development	Gene Ontology	GO:0009790
+                    	cellular process	Gene Ontology	GO:0009987
+                    	ion transmembrane transporter activity	Gene Ontology	GO:0015075
+                    	monovalent inorganic cation transmembrane transporter activity	Gene Ontology	GO:0015077
+                    	hydrogen ion transmembrane transporter activity	Gene Ontology	GO:0015078
+                    	primary active transmembrane transporter activity	Gene Ontology	GO:0015399
+                    	P-P-bond-hydrolysis-driven transmembrane transporter activity	Gene Ontology	GO:0015405
+                    	monovalent inorganic cation transport	Gene Ontology	GO:0015672
+                    	energy derivation by oxidation of organic compounds	Gene Ontology	GO:0015980
+                    	energy coupled proton transport, down electrochemical gradient	Gene Ontology	GO:0015985
+                    	ATP synthesis coupled proton transport	Gene Ontology	GO:0015986
+                    	energy coupled proton transmembrane transport, against electrochemical gradient	Gene Ontology	GO:0015988
+                    	ATP hydrolysis coupled proton transport	Gene Ontology	GO:0015991
+                    	proton transport	Gene Ontology	GO:0015992
+                    	membrane	Gene Ontology	GO:0016020
+                    	pyrophosphatase activity	Gene Ontology	GO:0016462
+                    	proton-transporting two-sector ATPase complex	Gene Ontology	GO:0016469
+                    	hydrolase activity	Gene Ontology	GO:0016787
+                    	hydrolase activity, acting on acid anhydrides	Gene Ontology	GO:0016817
+                    	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	Gene Ontology	GO:0016818
+                    	hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances	Gene Ontology	GO:0016820
+                    	ATPase activity	Gene Ontology	GO:0016887
+                    	purine nucleotide binding	Gene Ontology	GO:0017076
+                    	nucleoside-triphosphatase activity	Gene Ontology	GO:0017111
+                    	heterocycle biosynthetic process	Gene Ontology	GO:0018130
+                    	aromatic compound biosynthetic process	Gene Ontology	GO:0019438
+                    	aromatic compound catabolic process	Gene Ontology	GO:0019439
+                    	organophosphate metabolic process	Gene Ontology	GO:0019637
+                    	ribose phosphate metabolic process	Gene Ontology	GO:0019693
+                    	cation-transporting ATPase activity	Gene Ontology	GO:0019829
+                    	organelle inner membrane	Gene Ontology	GO:0019866
+                    	active transmembrane transporter activity	Gene Ontology	GO:0022804
+                    	transmembrane transporter activity	Gene Ontology	GO:0022857
+                    	inorganic cation transmembrane transporter activity	Gene Ontology	GO:0022890
+                    	substrate-specific transmembrane transporter activity	Gene Ontology	GO:0022891
+                    	substrate-specific transporter activity	Gene Ontology	GO:0022892
+                    	electron transport chain	Gene Ontology	GO:0022900
+                    	respiratory electron transport chain	Gene Ontology	GO:0022904
+                    	adenyl nucleotide binding	Gene Ontology	GO:0030554
+                    	organelle membrane	Gene Ontology	GO:0031090
+                    	mitochondrial membrane	Gene Ontology	GO:0031966
+                    	organelle envelope	Gene Ontology	GO:0031967
+                    	membrane-enclosed lumen	Gene Ontology	GO:0031974
+                    	envelope	Gene Ontology	GO:0031975
+                    	vesicle	Gene Ontology	GO:0031982
+                    	membrane-bounded vesicle	Gene Ontology	GO:0031988
+                    	multicellular organismal process	Gene Ontology	GO:0032501
+                    	developmental process	Gene Ontology	GO:0032502
+                    	ribonucleoside binding	Gene Ontology	GO:0032549
+                    	purine ribonucleoside binding	Gene Ontology	GO:0032550
+                    	ribonucleotide binding	Gene Ontology	GO:0032553
+                    	purine ribonucleotide binding	Gene Ontology	GO:0032555
+                    	adenyl ribonucleotide binding	Gene Ontology	GO:0032559
+                    	macromolecular complex	Gene Ontology	GO:0032991
+                    	proton-transporting two-sector ATPase complex, catalytic domain	Gene Ontology	GO:0033178
+                    	ion transmembrane transport	Gene Ontology	GO:0034220
+                    	cellular nitrogen compound metabolic process	Gene Ontology	GO:0034641
+                    	nucleobase-containing compound biosynthetic process	Gene Ontology	GO:0034654
+                    	nucleobase-containing compound catabolic process	Gene Ontology	GO:0034655
+                    	purine ribonucleoside triphosphate binding	Gene Ontology	GO:0035639
+                    	small molecule binding	Gene Ontology	GO:0036094
+                    	hydrogen-exporting ATPase activity	Gene Ontology	GO:0036442
+                    	regulation of cell proliferation	Gene Ontology	GO:0042127
+                    	purine nucleoside metabolic process	Gene Ontology	GO:0042278
+                    	MHC protein binding	Gene Ontology	GO:0042287
+                    	MHC class I protein binding	Gene Ontology	GO:0042288
+                    	purine nucleoside biosynthetic process	Gene Ontology	GO:0042451
+                    	ribonucleoside catabolic process	Gene Ontology	GO:0042454
+                    	ribonucleoside biosynthetic process	Gene Ontology	GO:0042455
+                    	ATPase activity, coupled	Gene Ontology	GO:0042623
+                    	ATPase activity, coupled to transmembrane movement of ions	Gene Ontology	GO:0042625
+                    	ATPase activity, coupled to transmembrane movement of substances	Gene Ontology	GO:0042626
+                    	mitochondrial ATP synthesis coupled proton transport	Gene Ontology	GO:0042776
+                    	ion binding	Gene Ontology	GO:0043167
+                    	anion binding	Gene Ontology	GO:0043168
+                    	organelle	Gene Ontology	GO:0043226
+                    	membrane-bounded organelle	Gene Ontology	GO:0043227
+                    	intracellular organelle	Gene Ontology	GO:0043229
+                    	extracellular organelle	Gene Ontology	GO:0043230
+                    	intracellular membrane-bounded organelle	Gene Ontology	GO:0043231
+                    	organelle lumen	Gene Ontology	GO:0043233
+                    	protein complex	Gene Ontology	GO:0043234
+                    	ATPase activity, coupled to movement of substances	Gene Ontology	GO:0043492
+                    	cellular metabolic process	Gene Ontology	GO:0044237
+                    	primary metabolic process	Gene Ontology	GO:0044238
+                    	cellular catabolic process	Gene Ontology	GO:0044248
+                    	cellular biosynthetic process	Gene Ontology	GO:0044249
+                    	cellular nitrogen compound catabolic process	Gene Ontology	GO:0044270
+                    	cellular nitrogen compound biosynthetic process	Gene Ontology	GO:0044271
+                    	small molecule metabolic process	Gene Ontology	GO:0044281
+                    	extracellular region part	Gene Ontology	GO:0044421
+                    	organelle part	Gene Ontology	GO:0044422
+                    	intracellular part	Gene Ontology	GO:0044424
+                    	membrane part	Gene Ontology	GO:0044425
+                    	nuclear part	Gene Ontology	GO:0044428
+                    	mitochondrial part	Gene Ontology	GO:0044429
+                    	cytoplasmic part	Gene Ontology	GO:0044444
+                    	intracellular organelle part	Gene Ontology	GO:0044446
+                    	mitochondrial membrane part	Gene Ontology	GO:0044455
+                    	cell part	Gene Ontology	GO:0044464
+                    	single-organism process	Gene Ontology	GO:0044699
+                    	single-multicellular organism process	Gene Ontology	GO:0044707
+                    	single-organism metabolic process	Gene Ontology	GO:0044710
+                    	single-organism biosynthetic process	Gene Ontology	GO:0044711
+                    	single-organism catabolic process	Gene Ontology	GO:0044712
+                    	single-organism cellular process	Gene Ontology	GO:0044763
+                    	single-organism transport	Gene Ontology	GO:0044765
+                    	single-organism developmental process	Gene Ontology	GO:0044767
+                    	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	Gene Ontology	GO:0044769
+                    	poly(A) RNA binding	Gene Ontology	GO:0044822
+                    	proton-transporting ATP synthase complex	Gene Ontology	GO:0045259
+                    	proton-transporting ATP synthase complex, catalytic core F(1)	Gene Ontology	GO:0045261
+                    	cellular respiration	Gene Ontology	GO:0045333
+                    	ATP metabolic process	Gene Ontology	GO:0046034
+                    	purine ribonucleoside metabolic process	Gene Ontology	GO:0046128
+                    	purine ribonucleoside biosynthetic process	Gene Ontology	GO:0046129
+                    	purine ribonucleoside catabolic process	Gene Ontology	GO:0046130
+                    	ribose phosphate biosynthetic process	Gene Ontology	GO:0046390
+                    	organophosphate catabolic process	Gene Ontology	GO:0046434
+                    	heterocycle metabolic process	Gene Ontology	GO:0046483
+                    	heterocycle catabolic process	Gene Ontology	GO:0046700
+                    	intracellular transport	Gene Ontology	GO:0046907
+                    	proton-transporting ATP synthase activity, rotational mechanism	Gene Ontology	GO:0046933
+                    	proton-transporting ATPase activity, rotational mechanism	Gene Ontology	GO:0046961
+                    	negative regulation of biological process	Gene Ontology	GO:0048519
+                    	negative regulation of cellular process	Gene Ontology	GO:0048523
+                    	anatomical structure development	Gene Ontology	GO:0048856
+                    	epithelial cell proliferation	Gene Ontology	GO:0050673
+                    	regulation of epithelial cell proliferation	Gene Ontology	GO:0050678
+                    	negative regulation of epithelial cell proliferation	Gene Ontology	GO:0050680
+                    	regulation of biological process	Gene Ontology	GO:0050789
+                    	regulation of cellular process	Gene Ontology	GO:0050794
+                    	localization	Gene Ontology	GO:0051179
+                    	establishment of localization	Gene Ontology	GO:0051234
+                    	cellular localization	Gene Ontology	GO:0051641
+                    	establishment of localization in cell	Gene Ontology	GO:0051649
+                    	transmembrane transport	Gene Ontology	GO:0055085
+                    	nucleobase-containing small molecule metabolic process	Gene Ontology	GO:0055086
+                    	oxidation-reduction process	Gene Ontology	GO:0055114
+                    	biological regulation	Gene Ontology	GO:0065007
+                    	extracellular membrane-bounded organelle	Gene Ontology	GO:0065010
+                    	intracellular organelle lumen	Gene Ontology	GO:0070013
+                    	extracellular vesicular exosome	Gene Ontology	GO:0070062
+                    	organic substance metabolic process	Gene Ontology	GO:0071704
+                    	cell periphery	Gene Ontology	GO:0071944
+                    	purine-containing compound metabolic process	Gene Ontology	GO:0072521
+                    	purine-containing compound biosynthetic process	Gene Ontology	GO:0072522
+                    	purine-containing compound catabolic process	Gene Ontology	GO:0072523
+                    	organophosphate biosynthetic process	Gene Ontology	GO:0090407
+                    	organic cyclic compound binding	Gene Ontology	GO:0097159
+                    	carbohydrate derivative binding	Gene Ontology	GO:0097367
+                    	cation transmembrane transport	Gene Ontology	GO:0098655
+                    	inorganic ion transmembrane transport	Gene Ontology	GO:0098660
+                    	inorganic cation transmembrane transport	Gene Ontology	GO:0098662
+                    	carbohydrate derivative metabolic process	Gene Ontology	GO:1901135
+                    	carbohydrate derivative catabolic process	Gene Ontology	GO:1901136
+                    	carbohydrate derivative biosynthetic process	Gene Ontology	GO:1901137
+                    	nucleoside phosphate binding	Gene Ontology	GO:1901265
+                    	nucleoside phosphate catabolic process	Gene Ontology	GO:1901292
+                    	nucleoside phosphate biosynthetic process	Gene Ontology	GO:1901293
+                    	organic cyclic compound metabolic process	Gene Ontology	GO:1901360
+                    	organic cyclic compound catabolic process	Gene Ontology	GO:1901361
+                    	organic cyclic compound biosynthetic process	Gene Ontology	GO:1901362
+                    	heterocyclic compound binding	Gene Ontology	GO:1901363
+                    	organonitrogen compound metabolic process	Gene Ontology	GO:1901564
+                    	organonitrogen compound catabolic process	Gene Ontology	GO:1901565
+                    	organonitrogen compound biosynthetic process	Gene Ontology	GO:1901566
+                    	organic substance catabolic process	Gene Ontology	GO:1901575
+                    	organic substance biosynthetic process	Gene Ontology	GO:1901576
+                    	glycosyl compound metabolic process	Gene Ontology	GO:1901657
+                    	glycosyl compound catabolic process	Gene Ontology	GO:1901658
+                    	glycosyl compound biosynthetic process	Gene Ontology	GO:1901659
+                    	single-organism localization	Gene Ontology	GO:1902578
+                    	single-organism intracellular transport	Gene Ontology	GO:1902582
+                    	hydrogen ion transmembrane transport	Gene Ontology	GO:1902600
+////
+Query:              	506
+Gene:               	hsa:506	ATP5B, ATPMB, ATPSB, HEL-S-271
+Entrez Gene ID:      	506
+Pathway:            	Metabolic pathways	KEGG PATHWAY	hsa01100
+                    	Oxidative phosphorylation	KEGG PATHWAY	hsa00190
+                    	Alzheimer's disease	KEGG PATHWAY	hsa05010
+                    	Parkinson's disease	KEGG PATHWAY	hsa05012
+                    	Huntington's disease	KEGG PATHWAY	hsa05016
+                    	Mitochondrial biogenesis	Reactome	REACT_200788
+                    	ATP synthesis	PANTHER	P02721
+                    	Organelle biogenesis and maintenance	Reactome	REACT_200751
+                    	Metabolism of proteins	Reactome	REACT_17015
+                    	Metabolism	Reactome	REACT_111217
+                    	The citric acid (TCA) cycle and respiratory electron transport	Reactome	REACT_111083
+                    	Mitochondrial protein import	Reactome	REACT_118595
+                    	Transcriptional activation of mitochondrial biogenesis	Reactome	REACT_200608
+                    	Formation of ATP by chemiosmotic coupling	Reactome	REACT_6759
+                    	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	Reactome	REACT_6305
+Disease:            	Hypertension	FunDO	2091
+GO:                 	nucleotide binding	Gene Ontology	GO:0000166
+                    	mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)	Gene Ontology	GO:0000275
+                    	ossification	Gene Ontology	GO:0001503
+                    	angiogenesis	Gene Ontology	GO:0001525
+                    	blood vessel development	Gene Ontology	GO:0001568
+                    	osteoblast differentiation	Gene Ontology	GO:0001649
+                    	nucleoside binding	Gene Ontology	GO:0001882
+                    	purine nucleoside binding	Gene Ontology	GO:0001883
+                    	vasculature development	Gene Ontology	GO:0001944
+                    	catalytic activity	Gene Ontology	GO:0003824
+                    	receptor binding	Gene Ontology	GO:0005102
+                    	transporter activity	Gene Ontology	GO:0005215
+                    	binding	Gene Ontology	GO:0005488
+                    	protein binding	Gene Ontology	GO:0005515
+                    	ATP binding	Gene Ontology	GO:0005524
+                    	extracellular region	Gene Ontology	GO:0005576
+                    	intracellular	Gene Ontology	GO:0005622
+                    	cell	Gene Ontology	GO:0005623
+                    	nucleus	Gene Ontology	GO:0005634
+                    	cytoplasm	Gene Ontology	GO:0005737
+                    	mitochondrion	Gene Ontology	GO:0005739
+                    	mitochondrial envelope	Gene Ontology	GO:0005740
+                    	mitochondrial inner membrane	Gene Ontology	GO:0005743
+                    	mitochondrial proton-transporting ATP synthase complex	Gene Ontology	GO:0005753
+                    	mitochondrial proton-transporting ATP synthase, catalytic core	Gene Ontology	GO:0005754
+                    	mitochondrial matrix	Gene Ontology	GO:0005759
+                    	plasma membrane	Gene Ontology	GO:0005886
+                    	generation of precursor metabolites and energy	Gene Ontology	GO:0006091
+                    	nucleobase-containing compound metabolic process	Gene Ontology	GO:0006139
+                    	purine nucleoside catabolic process	Gene Ontology	GO:0006152
+                    	purine nucleotide metabolic process	Gene Ontology	GO:0006163
+                    	purine nucleotide biosynthetic process	Gene Ontology	GO:0006164
+                    	purine nucleotide catabolic process	Gene Ontology	GO:0006195
+                    	ATP catabolic process	Gene Ontology	GO:0006200
+                    	lipid metabolic process	Gene Ontology	GO:0006629
+                    	cellular aromatic compound metabolic process	Gene Ontology	GO:0006725
+                    	nucleoside phosphate metabolic process	Gene Ontology	GO:0006753
+                    	ATP biosynthetic process	Gene Ontology	GO:0006754
+                    	phosphorus metabolic process	Gene Ontology	GO:0006793
+                    	phosphate-containing compound metabolic process	Gene Ontology	GO:0006796
+                    	nitrogen compound metabolic process	Gene Ontology	GO:0006807
+                    	transport	Gene Ontology	GO:0006810
+                    	ion transport	Gene Ontology	GO:0006811
+                    	cation transport	Gene Ontology	GO:0006812
+                    	hydrogen transport	Gene Ontology	GO:0006818
+                    	mitochondrial transport	Gene Ontology	GO:0006839
+                    	cellular ion homeostasis	Gene Ontology	GO:0006873
+                    	regulation of pH	Gene Ontology	GO:0006885
+                    	cellular component movement	Gene Ontology	GO:0006928
+                    	substrate-dependent cell migration	Gene Ontology	GO:0006929
+                    	negative regulation of cell adhesion involved in substrate-bound cell migration	Gene Ontology	GO:0006933
+                    	cell adhesion	Gene Ontology	GO:0007155
+                    	negative regulation of cell adhesion	Gene Ontology	GO:0007162
+                    	multicellular organismal development	Gene Ontology	GO:0007275
+                    	metabolic process	Gene Ontology	GO:0008152
+                    	cation transmembrane transporter activity	Gene Ontology	GO:0008324
+                    	catabolic process	Gene Ontology	GO:0009056
+                    	biosynthetic process	Gene Ontology	GO:0009058
+                    	nucleoside metabolic process	Gene Ontology	GO:0009116
+                    	nucleotide metabolic process	Gene Ontology	GO:0009117
+                    	ribonucleoside metabolic process	Gene Ontology	GO:0009119
+                    	nucleoside monophosphate metabolic process	Gene Ontology	GO:0009123
+                    	nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009124
+                    	nucleoside monophosphate catabolic process	Gene Ontology	GO:0009125
+                    	purine nucleoside monophosphate metabolic process	Gene Ontology	GO:0009126
+                    	purine nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009127
+                    	purine nucleoside monophosphate catabolic process	Gene Ontology	GO:0009128
+                    	nucleoside triphosphate metabolic process	Gene Ontology	GO:0009141
+                    	nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009142
+                    	nucleoside triphosphate catabolic process	Gene Ontology	GO:0009143
+                    	purine nucleoside triphosphate metabolic process	Gene Ontology	GO:0009144
+                    	purine nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009145
+                    	purine nucleoside triphosphate catabolic process	Gene Ontology	GO:0009146
+                    	purine ribonucleotide metabolic process	Gene Ontology	GO:0009150
+                    	purine ribonucleotide biosynthetic process	Gene Ontology	GO:0009152
+                    	purine ribonucleotide catabolic process	Gene Ontology	GO:0009154
+                    	ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009156
+                    	ribonucleoside monophosphate catabolic process	Gene Ontology	GO:0009158
+                    	ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009161
+                    	nucleoside biosynthetic process	Gene Ontology	GO:0009163
+                    	nucleoside catabolic process	Gene Ontology	GO:0009164
+                    	nucleotide biosynthetic process	Gene Ontology	GO:0009165
+                    	nucleotide catabolic process	Gene Ontology	GO:0009166
+                    	purine ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009167
+                    	purine ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009168
+                    	purine ribonucleoside monophosphate catabolic process	Gene Ontology	GO:0009169
+                    	ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009199
+                    	ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009201
+                    	ribonucleoside triphosphate catabolic process	Gene Ontology	GO:0009203
+                    	purine ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009205
+                    	purine ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009206
+                    	purine ribonucleoside triphosphate catabolic process	Gene Ontology	GO:0009207
+                    	ribonucleotide metabolic process	Gene Ontology	GO:0009259
+                    	ribonucleotide biosynthetic process	Gene Ontology	GO:0009260
+                    	ribonucleotide catabolic process	Gene Ontology	GO:0009261
+                    	nucleoid	Gene Ontology	GO:0009295
+                    	anatomical structure morphogenesis	Gene Ontology	GO:0009653
+                    	cell surface	Gene Ontology	GO:0009986
+                    	cellular process	Gene Ontology	GO:0009987
+                    	ion transmembrane transporter activity	Gene Ontology	GO:0015075
+                    	monovalent inorganic cation transmembrane transporter activity	Gene Ontology	GO:0015077
+                    	hydrogen ion transmembrane transporter activity	Gene Ontology	GO:0015078
+                    	primary active transmembrane transporter activity	Gene Ontology	GO:0015399
+                    	P-P-bond-hydrolysis-driven transmembrane transporter activity	Gene Ontology	GO:0015405
+                    	monovalent inorganic cation transport	Gene Ontology	GO:0015672
+                    	energy derivation by oxidation of organic compounds	Gene Ontology	GO:0015980
+                    	energy coupled proton transport, down electrochemical gradient	Gene Ontology	GO:0015985
+                    	ATP synthesis coupled proton transport	Gene Ontology	GO:0015986
+                    	energy coupled proton transmembrane transport, against electrochemical gradient	Gene Ontology	GO:0015988
+                    	ATP hydrolysis coupled proton transport	Gene Ontology	GO:0015991
+                    	proton transport	Gene Ontology	GO:0015992
+                    	membrane	Gene Ontology	GO:0016020
+                    	pyrophosphatase activity	Gene Ontology	GO:0016462
+                    	proton-transporting two-sector ATPase complex	Gene Ontology	GO:0016469
+                    	cell migration	Gene Ontology	GO:0016477
+                    	hydrolase activity	Gene Ontology	GO:0016787
+                    	hydrolase activity, acting on acid anhydrides	Gene Ontology	GO:0016817
+                    	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	Gene Ontology	GO:0016818
+                    	hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances	Gene Ontology	GO:0016820
+                    	ATPase activity	Gene Ontology	GO:0016887
+                    	purine nucleotide binding	Gene Ontology	GO:0017076
+                    	nucleoside-triphosphatase activity	Gene Ontology	GO:0017111
+                    	heterocycle biosynthetic process	Gene Ontology	GO:0018130
+                    	aromatic compound biosynthetic process	Gene Ontology	GO:0019438
+                    	aromatic compound catabolic process	Gene Ontology	GO:0019439
+                    	organophosphate metabolic process	Gene Ontology	GO:0019637
+                    	ribose phosphate metabolic process	Gene Ontology	GO:0019693
+                    	cellular homeostasis	Gene Ontology	GO:0019725
+                    	cation-transporting ATPase activity	Gene Ontology	GO:0019829
+                    	organelle inner membrane	Gene Ontology	GO:0019866
+                    	biological adhesion	Gene Ontology	GO:0022610
+                    	active transmembrane transporter activity	Gene Ontology	GO:0022804
+                    	transmembrane transporter activity	Gene Ontology	GO:0022857
+                    	inorganic cation transmembrane transporter activity	Gene Ontology	GO:0022890
+                    	substrate-specific transmembrane transporter activity	Gene Ontology	GO:0022891
+                    	substrate-specific transporter activity	Gene Ontology	GO:0022892
+                    	electron transport chain	Gene Ontology	GO:0022900
+                    	respiratory electron transport chain	Gene Ontology	GO:0022904
+                    	cellular cation homeostasis	Gene Ontology	GO:0030003
+                    	cellular monovalent inorganic cation homeostasis	Gene Ontology	GO:0030004
+                    	cell differentiation	Gene Ontology	GO:0030154
+                    	regulation of cell adhesion	Gene Ontology	GO:0030155
+                    	adenyl nucleotide binding	Gene Ontology	GO:0030554
+                    	regulation of cellular pH	Gene Ontology	GO:0030641
+                    	organelle membrane	Gene Ontology	GO:0031090
+                    	mitochondrial membrane	Gene Ontology	GO:0031966
+                    	organelle envelope	Gene Ontology	GO:0031967
+                    	membrane-enclosed lumen	Gene Ontology	GO:0031974
+                    	envelope	Gene Ontology	GO:0031975
+                    	vesicle	Gene Ontology	GO:0031982
+                    	membrane-bounded vesicle	Gene Ontology	GO:0031988
+                    	multicellular organismal process	Gene Ontology	GO:0032501
+                    	developmental process	Gene Ontology	GO:0032502
+                    	ribonucleoside binding	Gene Ontology	GO:0032549
+                    	purine ribonucleoside binding	Gene Ontology	GO:0032550
+                    	ribonucleotide binding	Gene Ontology	GO:0032553
+                    	purine ribonucleotide binding	Gene Ontology	GO:0032555
+                    	adenyl ribonucleotide binding	Gene Ontology	GO:0032559
+                    	macromolecular complex	Gene Ontology	GO:0032991
+                    	proton-transporting two-sector ATPase complex, catalytic domain	Gene Ontology	GO:0033178
+                    	ion transmembrane transport	Gene Ontology	GO:0034220
+                    	cellular nitrogen compound metabolic process	Gene Ontology	GO:0034641
+                    	nucleobase-containing compound biosynthetic process	Gene Ontology	GO:0034654
+                    	nucleobase-containing compound catabolic process	Gene Ontology	GO:0034655
+                    	purine ribonucleoside triphosphate binding	Gene Ontology	GO:0035639
+                    	small molecule binding	Gene Ontology	GO:0036094
+                    	hydrogen-exporting ATPase activity	Gene Ontology	GO:0036442
+                    	locomotion	Gene Ontology	GO:0040011
+                    	purine nucleoside metabolic process	Gene Ontology	GO:0042278
+                    	MHC protein binding	Gene Ontology	GO:0042287
+                    	MHC class I protein binding	Gene Ontology	GO:0042288
+                    	purine nucleoside biosynthetic process	Gene Ontology	GO:0042451
+                    	ribonucleoside catabolic process	Gene Ontology	GO:0042454
+                    	ribonucleoside biosynthetic process	Gene Ontology	GO:0042455
+                    	homeostatic process	Gene Ontology	GO:0042592
+                    	ATPase activity, coupled	Gene Ontology	GO:0042623
+                    	ATPase activity, coupled to transmembrane movement of ions	Gene Ontology	GO:0042625
+                    	ATPase activity, coupled to transmembrane movement of substances	Gene Ontology	GO:0042626
+                    	mitochondrial nucleoid	Gene Ontology	GO:0042645
+                    	mitochondrial ATP synthesis coupled proton transport	Gene Ontology	GO:0042776
+                    	ion binding	Gene Ontology	GO:0043167
+                    	anion binding	Gene Ontology	GO:0043168
+                    	organelle	Gene Ontology	GO:0043226
+                    	membrane-bounded organelle	Gene Ontology	GO:0043227
+                    	non-membrane-bounded organelle	Gene Ontology	GO:0043228
+                    	intracellular organelle	Gene Ontology	GO:0043229
+                    	extracellular organelle	Gene Ontology	GO:0043230
+                    	intracellular membrane-bounded organelle	Gene Ontology	GO:0043231
+                    	intracellular non-membrane-bounded organelle	Gene Ontology	GO:0043232
+                    	organelle lumen	Gene Ontology	GO:0043233
+                    	protein complex	Gene Ontology	GO:0043234
+                    	ATPase activity, coupled to movement of substances	Gene Ontology	GO:0043492
+                    	cellular metabolic process	Gene Ontology	GO:0044237
+                    	primary metabolic process	Gene Ontology	GO:0044238
+                    	cellular catabolic process	Gene Ontology	GO:0044248
+                    	cellular biosynthetic process	Gene Ontology	GO:0044249
+                    	cellular nitrogen compound catabolic process	Gene Ontology	GO:0044270
+                    	cellular nitrogen compound biosynthetic process	Gene Ontology	GO:0044271
+                    	small molecule metabolic process	Gene Ontology	GO:0044281
+                    	extracellular region part	Gene Ontology	GO:0044421
+                    	organelle part	Gene Ontology	GO:0044422
+                    	intracellular part	Gene Ontology	GO:0044424
+                    	membrane part	Gene Ontology	GO:0044425
+                    	mitochondrial part	Gene Ontology	GO:0044429
+                    	cytoplasmic part	Gene Ontology	GO:0044444
+                    	intracellular organelle part	Gene Ontology	GO:0044446
+                    	mitochondrial membrane part	Gene Ontology	GO:0044455
+                    	cell part	Gene Ontology	GO:0044464
+                    	single-organism process	Gene Ontology	GO:0044699
+                    	single-multicellular organism process	Gene Ontology	GO:0044707
+                    	single-organism metabolic process	Gene Ontology	GO:0044710
+                    	single-organism biosynthetic process	Gene Ontology	GO:0044711
+                    	single-organism catabolic process	Gene Ontology	GO:0044712
+                    	single-organism cellular process	Gene Ontology	GO:0044763
+                    	single-organism transport	Gene Ontology	GO:0044765
+                    	single-organism developmental process	Gene Ontology	GO:0044767
+                    	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	Gene Ontology	GO:0044769
+                    	proton-transporting ATP synthase complex	Gene Ontology	GO:0045259
+                    	proton-transporting ATP synthase complex, catalytic core F(1)	Gene Ontology	GO:0045261
+                    	proton-transporting ATP synthase, catalytic core	Gene Ontology	GO:0045267
+                    	cellular respiration	Gene Ontology	GO:0045333
+                    	ATP metabolic process	Gene Ontology	GO:0046034
+                    	purine ribonucleoside metabolic process	Gene Ontology	GO:0046128
+                    	purine ribonucleoside biosynthetic process	Gene Ontology	GO:0046129
+                    	purine ribonucleoside catabolic process	Gene Ontology	GO:0046130
+                    	ribose phosphate biosynthetic process	Gene Ontology	GO:0046390
+                    	organophosphate catabolic process	Gene Ontology	GO:0046434
+                    	heterocycle metabolic process	Gene Ontology	GO:0046483
+                    	heterocycle catabolic process	Gene Ontology	GO:0046700
+                    	intracellular transport	Gene Ontology	GO:0046907
+                    	proton-transporting ATP synthase activity, rotational mechanism	Gene Ontology	GO:0046933
+                    	proton-transporting ATPase activity, rotational mechanism	Gene Ontology	GO:0046961
+                    	blood vessel morphogenesis	Gene Ontology	GO:0048514
+                    	negative regulation of biological process	Gene Ontology	GO:0048519
+                    	negative regulation of cellular process	Gene Ontology	GO:0048523
+                    	anatomical structure formation involved in morphogenesis	Gene Ontology	GO:0048646
+                    	system development	Gene Ontology	GO:0048731
+                    	anatomical structure development	Gene Ontology	GO:0048856
+                    	cellular developmental process	Gene Ontology	GO:0048869
+                    	cell motility	Gene Ontology	GO:0048870
+                    	chemical homeostasis	Gene Ontology	GO:0048878
+                    	regulation of biological process	Gene Ontology	GO:0050789
+                    	regulation of cellular process	Gene Ontology	GO:0050794
+                    	ion homeostasis	Gene Ontology	GO:0050801
+                    	localization	Gene Ontology	GO:0051179
+                    	establishment of localization	Gene Ontology	GO:0051234
+                    	regulation of intracellular pH	Gene Ontology	GO:0051453
+                    	cellular localization	Gene Ontology	GO:0051641
+                    	establishment of localization in cell	Gene Ontology	GO:0051649
+                    	localization of cell	Gene Ontology	GO:0051674
+                    	monovalent inorganic cation homeostasis	Gene Ontology	GO:0055067
+                    	cation homeostasis	Gene Ontology	GO:0055080
+                    	cellular chemical homeostasis	Gene Ontology	GO:0055082
+                    	transmembrane transport	Gene Ontology	GO:0055085
+                    	nucleobase-containing small molecule metabolic process	Gene Ontology	GO:0055086
+                    	oxidation-reduction process	Gene Ontology	GO:0055114
+                    	biological regulation	Gene Ontology	GO:0065007
+                    	regulation of biological quality	Gene Ontology	GO:0065008
+                    	extracellular membrane-bounded organelle	Gene Ontology	GO:0065010
+                    	intracellular organelle lumen	Gene Ontology	GO:0070013
+                    	extracellular vesicular exosome	Gene Ontology	GO:0070062
+                    	organic substance metabolic process	Gene Ontology	GO:0071704
+                    	cell periphery	Gene Ontology	GO:0071944
+                    	cardiovascular system development	Gene Ontology	GO:0072358
+                    	circulatory system development	Gene Ontology	GO:0072359
+                    	purine-containing compound metabolic process	Gene Ontology	GO:0072521
+                    	purine-containing compound biosynthetic process	Gene Ontology	GO:0072522
+                    	purine-containing compound catabolic process	Gene Ontology	GO:0072523
+                    	organophosphate biosynthetic process	Gene Ontology	GO:0090407
+                    	organic cyclic compound binding	Gene Ontology	GO:0097159
+                    	carbohydrate derivative binding	Gene Ontology	GO:0097367
+                    	cation transmembrane transport	Gene Ontology	GO:0098655
+                    	inorganic ion transmembrane transport	Gene Ontology	GO:0098660
+                    	inorganic cation transmembrane transport	Gene Ontology	GO:0098662
+                    	carbohydrate derivative metabolic process	Gene Ontology	GO:1901135
+                    	carbohydrate derivative catabolic process	Gene Ontology	GO:1901136
+                    	carbohydrate derivative biosynthetic process	Gene Ontology	GO:1901137
+                    	nucleoside phosphate binding	Gene Ontology	GO:1901265
+                    	nucleoside phosphate catabolic process	Gene Ontology	GO:1901292
+                    	nucleoside phosphate biosynthetic process	Gene Ontology	GO:1901293
+                    	organic cyclic compound metabolic process	Gene Ontology	GO:1901360
+                    	organic cyclic compound catabolic process	Gene Ontology	GO:1901361
+                    	organic cyclic compound biosynthetic process	Gene Ontology	GO:1901362
+                    	heterocyclic compound binding	Gene Ontology	GO:1901363
+                    	organonitrogen compound metabolic process	Gene Ontology	GO:1901564
+                    	organonitrogen compound catabolic process	Gene Ontology	GO:1901565
+                    	organonitrogen compound biosynthetic process	Gene Ontology	GO:1901566
+                    	organic substance catabolic process	Gene Ontology	GO:1901575
+                    	organic substance biosynthetic process	Gene Ontology	GO:1901576
+                    	glycosyl compound metabolic process	Gene Ontology	GO:1901657
+                    	glycosyl compound catabolic process	Gene Ontology	GO:1901658
+                    	glycosyl compound biosynthetic process	Gene Ontology	GO:1901659
+                    	single-organism localization	Gene Ontology	GO:1902578
+                    	single-organism intracellular transport	Gene Ontology	GO:1902582
+                    	hydrogen ion transmembrane transport	Gene Ontology	GO:1902600
+////
+Query:              	509
+Gene:               	hsa:509	ATP5C1, ATP5C, ATP5CL1
+Entrez Gene ID:      	509
+Pathway:            	Metabolic pathways	KEGG PATHWAY	hsa01100
+                    	Oxidative phosphorylation	KEGG PATHWAY	hsa00190
+                    	Alzheimer's disease	KEGG PATHWAY	hsa05010
+                    	Parkinson's disease	KEGG PATHWAY	hsa05012
+                    	Huntington's disease	KEGG PATHWAY	hsa05016
+                    	ATP synthesis	PANTHER	P02721
+                    	Metabolism	Reactome	REACT_111217
+                    	The citric acid (TCA) cycle and respiratory electron transport	Reactome	REACT_111083
+                    	Formation of ATP by chemiosmotic coupling	Reactome	REACT_6759
+                    	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	Reactome	REACT_6305
+GO:                 	mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)	Gene Ontology	GO:0000275
+                    	nucleic acid binding	Gene Ontology	GO:0003676
+                    	RNA binding	Gene Ontology	GO:0003723
+                    	catalytic activity	Gene Ontology	GO:0003824
+                    	transporter activity	Gene Ontology	GO:0005215
+                    	binding	Gene Ontology	GO:0005488
+                    	extracellular region	Gene Ontology	GO:0005576
+                    	intracellular	Gene Ontology	GO:0005622
+                    	cell	Gene Ontology	GO:0005623
+                    	cytoplasm	Gene Ontology	GO:0005737
+                    	mitochondrion	Gene Ontology	GO:0005739
+                    	mitochondrial envelope	Gene Ontology	GO:0005740
+                    	mitochondrial inner membrane	Gene Ontology	GO:0005743
+                    	mitochondrial proton-transporting ATP synthase complex	Gene Ontology	GO:0005753
+                    	mitochondrial matrix	Gene Ontology	GO:0005759
+                    	generation of precursor metabolites and energy	Gene Ontology	GO:0006091
+                    	oxidative phosphorylation	Gene Ontology	GO:0006119
+                    	nucleobase-containing compound metabolic process	Gene Ontology	GO:0006139
+                    	purine nucleoside catabolic process	Gene Ontology	GO:0006152
+                    	purine nucleotide metabolic process	Gene Ontology	GO:0006163
+                    	purine nucleotide biosynthetic process	Gene Ontology	GO:0006164
+                    	purine nucleotide catabolic process	Gene Ontology	GO:0006195
+                    	ATP catabolic process	Gene Ontology	GO:0006200
+                    	cellular aromatic compound metabolic process	Gene Ontology	GO:0006725
+                    	nucleoside phosphate metabolic process	Gene Ontology	GO:0006753
+                    	ATP biosynthetic process	Gene Ontology	GO:0006754
+                    	phosphorus metabolic process	Gene Ontology	GO:0006793
+                    	phosphate-containing compound metabolic process	Gene Ontology	GO:0006796
+                    	nitrogen compound metabolic process	Gene Ontology	GO:0006807
+                    	transport	Gene Ontology	GO:0006810
+                    	ion transport	Gene Ontology	GO:0006811
+                    	cation transport	Gene Ontology	GO:0006812
+                    	hydrogen transport	Gene Ontology	GO:0006818
+                    	mitochondrial transport	Gene Ontology	GO:0006839
+                    	metabolic process	Gene Ontology	GO:0008152
+                    	cation transmembrane transporter activity	Gene Ontology	GO:0008324
+                    	catabolic process	Gene Ontology	GO:0009056
+                    	biosynthetic process	Gene Ontology	GO:0009058
+                    	nucleoside metabolic process	Gene Ontology	GO:0009116
+                    	nucleotide metabolic process	Gene Ontology	GO:0009117
+                    	ribonucleoside metabolic process	Gene Ontology	GO:0009119
+                    	nucleoside monophosphate metabolic process	Gene Ontology	GO:0009123
+                    	nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009124
+                    	nucleoside monophosphate catabolic process	Gene Ontology	GO:0009125
+                    	purine nucleoside monophosphate metabolic process	Gene Ontology	GO:0009126
+                    	purine nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009127
+                    	purine nucleoside monophosphate catabolic process	Gene Ontology	GO:0009128
+                    	nucleoside triphosphate metabolic process	Gene Ontology	GO:0009141
+                    	nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009142
+                    	nucleoside triphosphate catabolic process	Gene Ontology	GO:0009143
+                    	purine nucleoside triphosphate metabolic process	Gene Ontology	GO:0009144
+                    	purine nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009145
+                    	purine nucleoside triphosphate catabolic process	Gene Ontology	GO:0009146
+                    	purine ribonucleotide metabolic process	Gene Ontology	GO:0009150
+                    	purine ribonucleotide biosynthetic process	Gene Ontology	GO:0009152
+                    	purine ribonucleotide catabolic process	Gene Ontology	GO:0009154
+                    	ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009156
+                    	ribonucleoside monophosphate catabolic process	Gene Ontology	GO:0009158
+                    	ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009161
+                    	nucleoside biosynthetic process	Gene Ontology	GO:0009163
+                    	nucleoside catabolic process	Gene Ontology	GO:0009164
+                    	nucleotide biosynthetic process	Gene Ontology	GO:0009165
+                    	nucleotide catabolic process	Gene Ontology	GO:0009166
+                    	purine ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009167
+                    	purine ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009168
+                    	purine ribonucleoside monophosphate catabolic process	Gene Ontology	GO:0009169
+                    	ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009199
+                    	ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009201
+                    	ribonucleoside triphosphate catabolic process	Gene Ontology	GO:0009203
+                    	purine ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009205
+                    	purine ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009206
+                    	purine ribonucleoside triphosphate catabolic process	Gene Ontology	GO:0009207
+                    	ribonucleotide metabolic process	Gene Ontology	GO:0009259
+                    	ribonucleotide biosynthetic process	Gene Ontology	GO:0009260
+                    	ribonucleotide catabolic process	Gene Ontology	GO:0009261
+                    	cellular process	Gene Ontology	GO:0009987
+                    	ion transmembrane transporter activity	Gene Ontology	GO:0015075
+                    	monovalent inorganic cation transmembrane transporter activity	Gene Ontology	GO:0015077
+                    	hydrogen ion transmembrane transporter activity	Gene Ontology	GO:0015078
+                    	primary active transmembrane transporter activity	Gene Ontology	GO:0015399
+                    	P-P-bond-hydrolysis-driven transmembrane transporter activity	Gene Ontology	GO:0015405
+                    	monovalent inorganic cation transport	Gene Ontology	GO:0015672
+                    	energy derivation by oxidation of organic compounds	Gene Ontology	GO:0015980
+                    	energy coupled proton transport, down electrochemical gradient	Gene Ontology	GO:0015985
+                    	ATP synthesis coupled proton transport	Gene Ontology	GO:0015986
+                    	proton transport	Gene Ontology	GO:0015992
+                    	membrane	Gene Ontology	GO:0016020
+                    	phosphorylation	Gene Ontology	GO:0016310
+                    	pyrophosphatase activity	Gene Ontology	GO:0016462
+                    	proton-transporting two-sector ATPase complex	Gene Ontology	GO:0016469
+                    	hydrolase activity	Gene Ontology	GO:0016787
+                    	hydrolase activity, acting on acid anhydrides	Gene Ontology	GO:0016817
+                    	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	Gene Ontology	GO:0016818
+                    	hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances	Gene Ontology	GO:0016820
+                    	ATPase activity	Gene Ontology	GO:0016887
+                    	nucleoside-triphosphatase activity	Gene Ontology	GO:0017111
+                    	heterocycle biosynthetic process	Gene Ontology	GO:0018130
+                    	aromatic compound biosynthetic process	Gene Ontology	GO:0019438
+                    	aromatic compound catabolic process	Gene Ontology	GO:0019439
+                    	organophosphate metabolic process	Gene Ontology	GO:0019637
+                    	ribose phosphate metabolic process	Gene Ontology	GO:0019693
+                    	cation-transporting ATPase activity	Gene Ontology	GO:0019829
+                    	organelle inner membrane	Gene Ontology	GO:0019866
+                    	active transmembrane transporter activity	Gene Ontology	GO:0022804
+                    	transmembrane transporter activity	Gene Ontology	GO:0022857
+                    	inorganic cation transmembrane transporter activity	Gene Ontology	GO:0022890
+                    	substrate-specific transmembrane transporter activity	Gene Ontology	GO:0022891
+                    	substrate-specific transporter activity	Gene Ontology	GO:0022892
+                    	electron transport chain	Gene Ontology	GO:0022900
+                    	respiratory electron transport chain	Gene Ontology	GO:0022904
+                    	organelle membrane	Gene Ontology	GO:0031090
+                    	mitochondrial membrane	Gene Ontology	GO:0031966
+                    	organelle envelope	Gene Ontology	GO:0031967
+                    	membrane-enclosed lumen	Gene Ontology	GO:0031974
+                    	envelope	Gene Ontology	GO:0031975
+                    	vesicle	Gene Ontology	GO:0031982
+                    	membrane-bounded vesicle	Gene Ontology	GO:0031988
+                    	macromolecular complex	Gene Ontology	GO:0032991
+                    	proton-transporting two-sector ATPase complex, catalytic domain	Gene Ontology	GO:0033178
+                    	ion transmembrane transport	Gene Ontology	GO:0034220
+                    	cellular nitrogen compound metabolic process	Gene Ontology	GO:0034641
+                    	nucleobase-containing compound biosynthetic process	Gene Ontology	GO:0034654
+                    	nucleobase-containing compound catabolic process	Gene Ontology	GO:0034655
+                    	hydrogen-exporting ATPase activity	Gene Ontology	GO:0036442
+                    	purine nucleoside metabolic process	Gene Ontology	GO:0042278
+                    	purine nucleoside biosynthetic process	Gene Ontology	GO:0042451
+                    	ribonucleoside catabolic process	Gene Ontology	GO:0042454
+                    	ribonucleoside biosynthetic process	Gene Ontology	GO:0042455
+                    	ATPase activity, coupled	Gene Ontology	GO:0042623
+                    	ATPase activity, coupled to transmembrane movement of ions	Gene Ontology	GO:0042625
+                    	ATPase activity, coupled to transmembrane movement of substances	Gene Ontology	GO:0042626
+                    	mitochondrial ATP synthesis coupled proton transport	Gene Ontology	GO:0042776
+                    	organelle	Gene Ontology	GO:0043226
+                    	membrane-bounded organelle	Gene Ontology	GO:0043227
+                    	intracellular organelle	Gene Ontology	GO:0043229
+                    	extracellular organelle	Gene Ontology	GO:0043230
+                    	intracellular membrane-bounded organelle	Gene Ontology	GO:0043231
+                    	organelle lumen	Gene Ontology	GO:0043233
+                    	protein complex	Gene Ontology	GO:0043234
+                    	ATPase activity, coupled to movement of substances	Gene Ontology	GO:0043492
+                    	cellular metabolic process	Gene Ontology	GO:0044237
+                    	primary metabolic process	Gene Ontology	GO:0044238
+                    	cellular catabolic process	Gene Ontology	GO:0044248
+                    	cellular biosynthetic process	Gene Ontology	GO:0044249
+                    	cellular nitrogen compound catabolic process	Gene Ontology	GO:0044270
+                    	cellular nitrogen compound biosynthetic process	Gene Ontology	GO:0044271
+                    	small molecule metabolic process	Gene Ontology	GO:0044281
+                    	extracellular region part	Gene Ontology	GO:0044421
+                    	organelle part	Gene Ontology	GO:0044422
+                    	intracellular part	Gene Ontology	GO:0044424
+                    	membrane part	Gene Ontology	GO:0044425
+                    	mitochondrial part	Gene Ontology	GO:0044429
+                    	cytoplasmic part	Gene Ontology	GO:0044444
+                    	intracellular organelle part	Gene Ontology	GO:0044446
+                    	mitochondrial membrane part	Gene Ontology	GO:0044455
+                    	cell part	Gene Ontology	GO:0044464
+                    	single-organism process	Gene Ontology	GO:0044699
+                    	single-organism metabolic process	Gene Ontology	GO:0044710
+                    	single-organism biosynthetic process	Gene Ontology	GO:0044711
+                    	single-organism catabolic process	Gene Ontology	GO:0044712
+                    	single-organism cellular process	Gene Ontology	GO:0044763
+                    	single-organism transport	Gene Ontology	GO:0044765
+                    	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	Gene Ontology	GO:0044769
+                    	poly(A) RNA binding	Gene Ontology	GO:0044822
+                    	proton-transporting ATP synthase complex	Gene Ontology	GO:0045259
+                    	proton-transporting ATP synthase complex, catalytic core F(1)	Gene Ontology	GO:0045261
+                    	cellular respiration	Gene Ontology	GO:0045333
+                    	ATP metabolic process	Gene Ontology	GO:0046034
+                    	purine ribonucleoside metabolic process	Gene Ontology	GO:0046128
+                    	purine ribonucleoside biosynthetic process	Gene Ontology	GO:0046129
+                    	purine ribonucleoside catabolic process	Gene Ontology	GO:0046130
+                    	ribose phosphate biosynthetic process	Gene Ontology	GO:0046390
+                    	organophosphate catabolic process	Gene Ontology	GO:0046434
+                    	heterocycle metabolic process	Gene Ontology	GO:0046483
+                    	heterocycle catabolic process	Gene Ontology	GO:0046700
+                    	intracellular transport	Gene Ontology	GO:0046907
+                    	proton-transporting ATP synthase activity, rotational mechanism	Gene Ontology	GO:0046933
+                    	proton-transporting ATPase activity, rotational mechanism	Gene Ontology	GO:0046961
+                    	localization	Gene Ontology	GO:0051179
+                    	establishment of localization	Gene Ontology	GO:0051234
+                    	cellular localization	Gene Ontology	GO:0051641
+                    	establishment of localization in cell	Gene Ontology	GO:0051649
+                    	transmembrane transport	Gene Ontology	GO:0055085
+                    	nucleobase-containing small molecule metabolic process	Gene Ontology	GO:0055086
+                    	oxidation-reduction process	Gene Ontology	GO:0055114
+                    	extracellular membrane-bounded organelle	Gene Ontology	GO:0065010
+                    	intracellular organelle lumen	Gene Ontology	GO:0070013
+                    	extracellular vesicular exosome	Gene Ontology	GO:0070062
+                    	organic substance metabolic process	Gene Ontology	GO:0071704
+                    	purine-containing compound metabolic process	Gene Ontology	GO:0072521
+                    	purine-containing compound biosynthetic process	Gene Ontology	GO:0072522
+                    	purine-containing compound catabolic process	Gene Ontology	GO:0072523
+                    	organophosphate biosynthetic process	Gene Ontology	GO:0090407
+                    	organic cyclic compound binding	Gene Ontology	GO:0097159
+                    	cation transmembrane transport	Gene Ontology	GO:0098655
+                    	inorganic ion transmembrane transport	Gene Ontology	GO:0098660
+                    	inorganic cation transmembrane transport	Gene Ontology	GO:0098662
+                    	carbohydrate derivative metabolic process	Gene Ontology	GO:1901135
+                    	carbohydrate derivative catabolic process	Gene Ontology	GO:1901136
+                    	carbohydrate derivative biosynthetic process	Gene Ontology	GO:1901137
+                    	nucleoside phosphate catabolic process	Gene Ontology	GO:1901292
+                    	nucleoside phosphate biosynthetic process	Gene Ontology	GO:1901293
+                    	organic cyclic compound metabolic process	Gene Ontology	GO:1901360
+                    	organic cyclic compound catabolic process	Gene Ontology	GO:1901361
+                    	organic cyclic compound biosynthetic process	Gene Ontology	GO:1901362
+                    	heterocyclic compound binding	Gene Ontology	GO:1901363
+                    	organonitrogen compound metabolic process	Gene Ontology	GO:1901564
+                    	organonitrogen compound catabolic process	Gene Ontology	GO:1901565
+                    	organonitrogen compound biosynthetic process	Gene Ontology	GO:1901566
+                    	organic substance catabolic process	Gene Ontology	GO:1901575
+                    	organic substance biosynthetic process	Gene Ontology	GO:1901576
+                    	glycosyl compound metabolic process	Gene Ontology	GO:1901657
+                    	glycosyl compound catabolic process	Gene Ontology	GO:1901658
+                    	glycosyl compound biosynthetic process	Gene Ontology	GO:1901659
+                    	single-organism localization	Gene Ontology	GO:1902578
+                    	single-organism intracellular transport	Gene Ontology	GO:1902582
+                    	hydrogen ion transmembrane transport	Gene Ontology	GO:1902600
+////
+Query:              	513
+Gene:               	hsa:513	ATP5D
+Entrez Gene ID:      	513
+Pathway:            	Metabolic pathways	KEGG PATHWAY	hsa01100
+                    	Oxidative phosphorylation	KEGG PATHWAY	hsa00190
+                    	Alzheimer's disease	KEGG PATHWAY	hsa05010
+                    	Parkinson's disease	KEGG PATHWAY	hsa05012
+                    	Huntington's disease	KEGG PATHWAY	hsa05016
+                    	Metabolism	Reactome	REACT_111217
+                    	The citric acid (TCA) cycle and respiratory electron transport	Reactome	REACT_111083
+                    	Formation of ATP by chemiosmotic coupling	Reactome	REACT_6759
+                    	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	Reactome	REACT_6305
+GO:                 	nucleotide binding	Gene Ontology	GO:0000166
+                    	mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)	Gene Ontology	GO:0000275
+                    	nucleoside binding	Gene Ontology	GO:0001882
+                    	purine nucleoside binding	Gene Ontology	GO:0001883
+                    	catalytic activity	Gene Ontology	GO:0003824
+                    	transporter activity	Gene Ontology	GO:0005215
+                    	binding	Gene Ontology	GO:0005488
+                    	ATP binding	Gene Ontology	GO:0005524
+                    	intracellular	Gene Ontology	GO:0005622
+                    	cell	Gene Ontology	GO:0005623
+                    	cytoplasm	Gene Ontology	GO:0005737
+                    	mitochondrion	Gene Ontology	GO:0005739
+                    	mitochondrial envelope	Gene Ontology	GO:0005740
+                    	mitochondrial inner membrane	Gene Ontology	GO:0005743
+                    	mitochondrial proton-transporting ATP synthase complex	Gene Ontology	GO:0005753
+                    	mitochondrial matrix	Gene Ontology	GO:0005759
+                    	generation of precursor metabolites and energy	Gene Ontology	GO:0006091
+                    	oxidative phosphorylation	Gene Ontology	GO:0006119
+                    	nucleobase-containing compound metabolic process	Gene Ontology	GO:0006139
+                    	purine nucleoside catabolic process	Gene Ontology	GO:0006152
+                    	purine nucleotide metabolic process	Gene Ontology	GO:0006163
+                    	purine nucleotide biosynthetic process	Gene Ontology	GO:0006164
+                    	purine nucleotide catabolic process	Gene Ontology	GO:0006195
+                    	ATP catabolic process	Gene Ontology	GO:0006200
+                    	cellular aromatic compound metabolic process	Gene Ontology	GO:0006725
+                    	nucleoside phosphate metabolic process	Gene Ontology	GO:0006753
+                    	ATP biosynthetic process	Gene Ontology	GO:0006754
+                    	phosphorus metabolic process	Gene Ontology	GO:0006793
+                    	phosphate-containing compound metabolic process	Gene Ontology	GO:0006796
+                    	nitrogen compound metabolic process	Gene Ontology	GO:0006807
+                    	transport	Gene Ontology	GO:0006810
+                    	ion transport	Gene Ontology	GO:0006811
+                    	cation transport	Gene Ontology	GO:0006812
+                    	hydrogen transport	Gene Ontology	GO:0006818
+                    	mitochondrial transport	Gene Ontology	GO:0006839
+                    	metabolic process	Gene Ontology	GO:0008152
+                    	cation transmembrane transporter activity	Gene Ontology	GO:0008324
+                    	catabolic process	Gene Ontology	GO:0009056
+                    	biosynthetic process	Gene Ontology	GO:0009058
+                    	nucleoside metabolic process	Gene Ontology	GO:0009116
+                    	nucleotide metabolic process	Gene Ontology	GO:0009117
+                    	ribonucleoside metabolic process	Gene Ontology	GO:0009119
+                    	nucleoside monophosphate metabolic process	Gene Ontology	GO:0009123
+                    	nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009124
+                    	nucleoside monophosphate catabolic process	Gene Ontology	GO:0009125
+                    	purine nucleoside monophosphate metabolic process	Gene Ontology	GO:0009126
+                    	purine nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009127
+                    	purine nucleoside monophosphate catabolic process	Gene Ontology	GO:0009128
+                    	nucleoside triphosphate metabolic process	Gene Ontology	GO:0009141
+                    	nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009142
+                    	nucleoside triphosphate catabolic process	Gene Ontology	GO:0009143
+                    	purine nucleoside triphosphate metabolic process	Gene Ontology	GO:0009144
+                    	purine nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009145
+                    	purine nucleoside triphosphate catabolic process	Gene Ontology	GO:0009146
+                    	purine ribonucleotide metabolic process	Gene Ontology	GO:0009150
+                    	purine ribonucleotide biosynthetic process	Gene Ontology	GO:0009152
+                    	purine ribonucleotide catabolic process	Gene Ontology	GO:0009154
+                    	ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009156
+                    	ribonucleoside monophosphate catabolic process	Gene Ontology	GO:0009158
+                    	ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009161
+                    	nucleoside biosynthetic process	Gene Ontology	GO:0009163
+                    	nucleoside catabolic process	Gene Ontology	GO:0009164
+                    	nucleotide biosynthetic process	Gene Ontology	GO:0009165
+                    	nucleotide catabolic process	Gene Ontology	GO:0009166
+                    	purine ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009167
+                    	purine ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009168
+                    	purine ribonucleoside monophosphate catabolic process	Gene Ontology	GO:0009169
+                    	ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009199
+                    	ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009201
+                    	ribonucleoside triphosphate catabolic process	Gene Ontology	GO:0009203
+                    	purine ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009205
+                    	purine ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009206
+                    	purine ribonucleoside triphosphate catabolic process	Gene Ontology	GO:0009207
+                    	ribonucleotide metabolic process	Gene Ontology	GO:0009259
+                    	ribonucleotide biosynthetic process	Gene Ontology	GO:0009260
+                    	ribonucleotide catabolic process	Gene Ontology	GO:0009261
+                    	cellular process	Gene Ontology	GO:0009987
+                    	response to inorganic substance	Gene Ontology	GO:0010035
+                    	response to metal ion	Gene Ontology	GO:0010038
+                    	ion transmembrane transporter activity	Gene Ontology	GO:0015075
+                    	monovalent inorganic cation transmembrane transporter activity	Gene Ontology	GO:0015077
+                    	hydrogen ion transmembrane transporter activity	Gene Ontology	GO:0015078
+                    	primary active transmembrane transporter activity	Gene Ontology	GO:0015399
+                    	P-P-bond-hydrolysis-driven transmembrane transporter activity	Gene Ontology	GO:0015405
+                    	monovalent inorganic cation transport	Gene Ontology	GO:0015672
+                    	energy derivation by oxidation of organic compounds	Gene Ontology	GO:0015980
+                    	energy coupled proton transport, down electrochemical gradient	Gene Ontology	GO:0015985
+                    	ATP synthesis coupled proton transport	Gene Ontology	GO:0015986
+                    	proton transport	Gene Ontology	GO:0015992
+                    	membrane	Gene Ontology	GO:0016020
+                    	phosphorylation	Gene Ontology	GO:0016310
+                    	pyrophosphatase activity	Gene Ontology	GO:0016462
+                    	proton-transporting two-sector ATPase complex	Gene Ontology	GO:0016469
+                    	hydrolase activity	Gene Ontology	GO:0016787
+                    	hydrolase activity, acting on acid anhydrides	Gene Ontology	GO:0016817
+                    	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	Gene Ontology	GO:0016818
+                    	hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances	Gene Ontology	GO:0016820
+                    	ATPase activity	Gene Ontology	GO:0016887
+                    	purine nucleotide binding	Gene Ontology	GO:0017076
+                    	nucleoside-triphosphatase activity	Gene Ontology	GO:0017111
+                    	heterocycle biosynthetic process	Gene Ontology	GO:0018130
+                    	aromatic compound biosynthetic process	Gene Ontology	GO:0019438
+                    	aromatic compound catabolic process	Gene Ontology	GO:0019439
+                    	organophosphate metabolic process	Gene Ontology	GO:0019637
+                    	ribose phosphate metabolic process	Gene Ontology	GO:0019693
+                    	cation-transporting ATPase activity	Gene Ontology	GO:0019829
+                    	organelle inner membrane	Gene Ontology	GO:0019866
+                    	active transmembrane transporter activity	Gene Ontology	GO:0022804
+                    	transmembrane transporter activity	Gene Ontology	GO:0022857
+                    	inorganic cation transmembrane transporter activity	Gene Ontology	GO:0022890
+                    	substrate-specific transmembrane transporter activity	Gene Ontology	GO:0022891
+                    	substrate-specific transporter activity	Gene Ontology	GO:0022892
+                    	electron transport chain	Gene Ontology	GO:0022900
+                    	respiratory electron transport chain	Gene Ontology	GO:0022904
+                    	adenyl nucleotide binding	Gene Ontology	GO:0030554
+                    	organelle membrane	Gene Ontology	GO:0031090
+                    	mitochondrial membrane	Gene Ontology	GO:0031966
+                    	organelle envelope	Gene Ontology	GO:0031967
+                    	membrane-enclosed lumen	Gene Ontology	GO:0031974
+                    	envelope	Gene Ontology	GO:0031975
+                    	ribonucleoside binding	Gene Ontology	GO:0032549
+                    	purine ribonucleoside binding	Gene Ontology	GO:0032550
+                    	ribonucleotide binding	Gene Ontology	GO:0032553
+                    	purine ribonucleotide binding	Gene Ontology	GO:0032555
+                    	adenyl ribonucleotide binding	Gene Ontology	GO:0032559
+                    	macromolecular complex	Gene Ontology	GO:0032991
+                    	proton-transporting two-sector ATPase complex, catalytic domain	Gene Ontology	GO:0033178
+                    	ion transmembrane transport	Gene Ontology	GO:0034220
+                    	cellular nitrogen compound metabolic process	Gene Ontology	GO:0034641
+                    	nucleobase-containing compound biosynthetic process	Gene Ontology	GO:0034654
+                    	nucleobase-containing compound catabolic process	Gene Ontology	GO:0034655
+                    	purine ribonucleoside triphosphate binding	Gene Ontology	GO:0035639
+                    	small molecule binding	Gene Ontology	GO:0036094
+                    	hydrogen-exporting ATPase activity	Gene Ontology	GO:0036442
+                    	response to chemical	Gene Ontology	GO:0042221
+                    	purine nucleoside metabolic process	Gene Ontology	GO:0042278
+                    	purine nucleoside biosynthetic process	Gene Ontology	GO:0042451
+                    	ribonucleoside catabolic process	Gene Ontology	GO:0042454
+                    	ribonucleoside biosynthetic process	Gene Ontology	GO:0042455
+                    	ATPase activity, coupled	Gene Ontology	GO:0042623
+                    	ATPase activity, coupled to transmembrane movement of ions	Gene Ontology	GO:0042625
+                    	ATPase activity, coupled to transmembrane movement of substances	Gene Ontology	GO:0042626
+                    	mitochondrial ATP synthesis coupled proton transport	Gene Ontology	GO:0042776
+                    	ion binding	Gene Ontology	GO:0043167
+                    	anion binding	Gene Ontology	GO:0043168
+                    	organelle	Gene Ontology	GO:0043226
+                    	membrane-bounded organelle	Gene Ontology	GO:0043227
+                    	intracellular organelle	Gene Ontology	GO:0043229
+                    	intracellular membrane-bounded organelle	Gene Ontology	GO:0043231
+                    	organelle lumen	Gene Ontology	GO:0043233
+                    	protein complex	Gene Ontology	GO:0043234
+                    	ATPase activity, coupled to movement of substances	Gene Ontology	GO:0043492
+                    	ADP binding	Gene Ontology	GO:0043531
+                    	cellular metabolic process	Gene Ontology	GO:0044237
+                    	primary metabolic process	Gene Ontology	GO:0044238
+                    	cellular catabolic process	Gene Ontology	GO:0044248
+                    	cellular biosynthetic process	Gene Ontology	GO:0044249
+                    	cellular nitrogen compound catabolic process	Gene Ontology	GO:0044270
+                    	cellular nitrogen compound biosynthetic process	Gene Ontology	GO:0044271
+                    	small molecule metabolic process	Gene Ontology	GO:0044281
+                    	organelle part	Gene Ontology	GO:0044422
+                    	intracellular part	Gene Ontology	GO:0044424
+                    	membrane part	Gene Ontology	GO:0044425
+                    	mitochondrial part	Gene Ontology	GO:0044429
+                    	cytoplasmic part	Gene Ontology	GO:0044444
+                    	intracellular organelle part	Gene Ontology	GO:0044446
+                    	mitochondrial membrane part	Gene Ontology	GO:0044455
+                    	cell part	Gene Ontology	GO:0044464
+                    	single-organism process	Gene Ontology	GO:0044699
+                    	single-organism metabolic process	Gene Ontology	GO:0044710
+                    	single-organism biosynthetic process	Gene Ontology	GO:0044711
+                    	single-organism catabolic process	Gene Ontology	GO:0044712
+                    	single-organism cellular process	Gene Ontology	GO:0044763
+                    	single-organism transport	Gene Ontology	GO:0044765
+                    	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	Gene Ontology	GO:0044769
+                    	proton-transporting ATP synthase complex	Gene Ontology	GO:0045259
+                    	proton-transporting ATP synthase complex, catalytic core F(1)	Gene Ontology	GO:0045261
+                    	cellular respiration	Gene Ontology	GO:0045333
+                    	ATP metabolic process	Gene Ontology	GO:0046034
+                    	purine ribonucleoside metabolic process	Gene Ontology	GO:0046128
+                    	purine ribonucleoside biosynthetic process	Gene Ontology	GO:0046129
+                    	purine ribonucleoside catabolic process	Gene Ontology	GO:0046130
+                    	ribose phosphate biosynthetic process	Gene Ontology	GO:0046390
+                    	organophosphate catabolic process	Gene Ontology	GO:0046434
+                    	heterocycle metabolic process	Gene Ontology	GO:0046483
+                    	response to copper ion	Gene Ontology	GO:0046688
+                    	heterocycle catabolic process	Gene Ontology	GO:0046700
+                    	intracellular transport	Gene Ontology	GO:0046907
+                    	proton-transporting ATP synthase activity, rotational mechanism	Gene Ontology	GO:0046933
+                    	proton-transporting ATPase activity, rotational mechanism	Gene Ontology	GO:0046961
+                    	response to stimulus	Gene Ontology	GO:0050896
+                    	localization	Gene Ontology	GO:0051179
+                    	establishment of localization	Gene Ontology	GO:0051234
+                    	cellular localization	Gene Ontology	GO:0051641
+                    	establishment of localization in cell	Gene Ontology	GO:0051649
+                    	transmembrane transport	Gene Ontology	GO:0055085
+                    	nucleobase-containing small molecule metabolic process	Gene Ontology	GO:0055086
+                    	oxidation-reduction process	Gene Ontology	GO:0055114
+                    	intracellular organelle lumen	Gene Ontology	GO:0070013
+                    	organic substance metabolic process	Gene Ontology	GO:0071704
+                    	purine-containing compound metabolic process	Gene Ontology	GO:0072521
+                    	purine-containing compound biosynthetic process	Gene Ontology	GO:0072522
+                    	purine-containing compound catabolic process	Gene Ontology	GO:0072523
+                    	organophosphate biosynthetic process	Gene Ontology	GO:0090407
+                    	organic cyclic compound binding	Gene Ontology	GO:0097159
+                    	carbohydrate derivative binding	Gene Ontology	GO:0097367
+                    	cation transmembrane transport	Gene Ontology	GO:0098655
+                    	inorganic ion transmembrane transport	Gene Ontology	GO:0098660
+                    	inorganic cation transmembrane transport	Gene Ontology	GO:0098662
+                    	carbohydrate derivative metabolic process	Gene Ontology	GO:1901135
+                    	carbohydrate derivative catabolic process	Gene Ontology	GO:1901136
+                    	carbohydrate derivative biosynthetic process	Gene Ontology	GO:1901137
+                    	nucleoside phosphate binding	Gene Ontology	GO:1901265
+                    	nucleoside phosphate catabolic process	Gene Ontology	GO:1901292
+                    	nucleoside phosphate biosynthetic process	Gene Ontology	GO:1901293
+                    	organic cyclic compound metabolic process	Gene Ontology	GO:1901360
+                    	organic cyclic compound catabolic process	Gene Ontology	GO:1901361
+                    	organic cyclic compound biosynthetic process	Gene Ontology	GO:1901362
+                    	heterocyclic compound binding	Gene Ontology	GO:1901363
+                    	organonitrogen compound metabolic process	Gene Ontology	GO:1901564
+                    	organonitrogen compound catabolic process	Gene Ontology	GO:1901565
+                    	organonitrogen compound biosynthetic process	Gene Ontology	GO:1901566
+                    	organic substance catabolic process	Gene Ontology	GO:1901575
+                    	organic substance biosynthetic process	Gene Ontology	GO:1901576
+                    	glycosyl compound metabolic process	Gene Ontology	GO:1901657
+                    	glycosyl compound catabolic process	Gene Ontology	GO:1901658
+                    	glycosyl compound biosynthetic process	Gene Ontology	GO:1901659
+                    	single-organism localization	Gene Ontology	GO:1902578
+                    	single-organism intracellular transport	Gene Ontology	GO:1902582
+                    	hydrogen ion transmembrane transport	Gene Ontology	GO:1902600
+                    	response to transition metal nanoparticle	Gene Ontology	GO:1990267
+////
+Query:              	514
+Gene:               	hsa:514	ATP5E, ATPE, MC5DN3
+Entrez Gene ID:      	514
+Pathway:            	Metabolic pathways	KEGG PATHWAY	hsa01100
+                    	Oxidative phosphorylation	KEGG PATHWAY	hsa00190
+                    	Alzheimer's disease	KEGG PATHWAY	hsa05010
+                    	Parkinson's disease	KEGG PATHWAY	hsa05012
+                    	Huntington's disease	KEGG PATHWAY	hsa05016
+                    	Metabolism	Reactome	REACT_111217
+                    	The citric acid (TCA) cycle and respiratory electron transport	Reactome	REACT_111083
+                    	Formation of ATP by chemiosmotic coupling	Reactome	REACT_6759
+                    	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	Reactome	REACT_6305
+Disease:            	Congenital disorders of metabolism	KEGG DISEASE	
+                    	Mitochondrial diseases	KEGG DISEASE	
+                    	ATP synthase deficiency	KEGG DISEASE	H01369
+                    	Mitochondrial complex V (ATP synthase) deficiency, nuclear type 3	OMIM	614053
+GO:                 	mitochondrial proton-transporting ATP synthase complex, catalytic core F(1)	Gene Ontology	GO:0000275
+                    	catalytic activity	Gene Ontology	GO:0003824
+                    	transporter activity	Gene Ontology	GO:0005215
+                    	intracellular	Gene Ontology	GO:0005622
+                    	cell	Gene Ontology	GO:0005623
+                    	cytoplasm	Gene Ontology	GO:0005737
+                    	mitochondrion	Gene Ontology	GO:0005739
+                    	mitochondrial envelope	Gene Ontology	GO:0005740
+                    	mitochondrial inner membrane	Gene Ontology	GO:0005743
+                    	mitochondrial proton-transporting ATP synthase complex	Gene Ontology	GO:0005753
+                    	mitochondrial matrix	Gene Ontology	GO:0005759
+                    	generation of precursor metabolites and energy	Gene Ontology	GO:0006091
+                    	nucleobase-containing compound metabolic process	Gene Ontology	GO:0006139
+                    	purine nucleoside catabolic process	Gene Ontology	GO:0006152
+                    	purine nucleotide metabolic process	Gene Ontology	GO:0006163
+                    	purine nucleotide biosynthetic process	Gene Ontology	GO:0006164
+                    	purine nucleotide catabolic process	Gene Ontology	GO:0006195
+                    	ATP catabolic process	Gene Ontology	GO:0006200
+                    	cellular aromatic compound metabolic process	Gene Ontology	GO:0006725
+                    	nucleoside phosphate metabolic process	Gene Ontology	GO:0006753
+                    	ATP biosynthetic process	Gene Ontology	GO:0006754
+                    	phosphorus metabolic process	Gene Ontology	GO:0006793
+                    	phosphate-containing compound metabolic process	Gene Ontology	GO:0006796
+                    	nitrogen compound metabolic process	Gene Ontology	GO:0006807
+                    	transport	Gene Ontology	GO:0006810
+                    	ion transport	Gene Ontology	GO:0006811
+                    	cation transport	Gene Ontology	GO:0006812
+                    	hydrogen transport	Gene Ontology	GO:0006818
+                    	mitochondrial transport	Gene Ontology	GO:0006839
+                    	metabolic process	Gene Ontology	GO:0008152
+                    	cation transmembrane transporter activity	Gene Ontology	GO:0008324
+                    	catabolic process	Gene Ontology	GO:0009056
+                    	biosynthetic process	Gene Ontology	GO:0009058
+                    	nucleoside metabolic process	Gene Ontology	GO:0009116
+                    	nucleotide metabolic process	Gene Ontology	GO:0009117
+                    	ribonucleoside metabolic process	Gene Ontology	GO:0009119
+                    	nucleoside monophosphate metabolic process	Gene Ontology	GO:0009123
+                    	nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009124
+                    	nucleoside monophosphate catabolic process	Gene Ontology	GO:0009125
+                    	purine nucleoside monophosphate metabolic process	Gene Ontology	GO:0009126
+                    	purine nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009127
+                    	purine nucleoside monophosphate catabolic process	Gene Ontology	GO:0009128
+                    	nucleoside triphosphate metabolic process	Gene Ontology	GO:0009141
+                    	nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009142
+                    	nucleoside triphosphate catabolic process	Gene Ontology	GO:0009143
+                    	purine nucleoside triphosphate metabolic process	Gene Ontology	GO:0009144
+                    	purine nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009145
+                    	purine nucleoside triphosphate catabolic process	Gene Ontology	GO:0009146
+                    	purine ribonucleotide metabolic process	Gene Ontology	GO:0009150
+                    	purine ribonucleotide biosynthetic process	Gene Ontology	GO:0009152
+                    	purine ribonucleotide catabolic process	Gene Ontology	GO:0009154
+                    	ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009156
+                    	ribonucleoside monophosphate catabolic process	Gene Ontology	GO:0009158
+                    	ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009161
+                    	nucleoside biosynthetic process	Gene Ontology	GO:0009163
+                    	nucleoside catabolic process	Gene Ontology	GO:0009164
+                    	nucleotide biosynthetic process	Gene Ontology	GO:0009165
+                    	nucleotide catabolic process	Gene Ontology	GO:0009166
+                    	purine ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009167
+                    	purine ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009168
+                    	purine ribonucleoside monophosphate catabolic process	Gene Ontology	GO:0009169
+                    	ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009199
+                    	ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009201
+                    	ribonucleoside triphosphate catabolic process	Gene Ontology	GO:0009203
+                    	purine ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009205
+                    	purine ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009206
+                    	purine ribonucleoside triphosphate catabolic process	Gene Ontology	GO:0009207
+                    	ribonucleotide metabolic process	Gene Ontology	GO:0009259
+                    	ribonucleotide biosynthetic process	Gene Ontology	GO:0009260
+                    	ribonucleotide catabolic process	Gene Ontology	GO:0009261
+                    	cellular process	Gene Ontology	GO:0009987
+                    	ion transmembrane transporter activity	Gene Ontology	GO:0015075
+                    	monovalent inorganic cation transmembrane transporter activity	Gene Ontology	GO:0015077
+                    	hydrogen ion transmembrane transporter activity	Gene Ontology	GO:0015078
+                    	primary active transmembrane transporter activity	Gene Ontology	GO:0015399
+                    	P-P-bond-hydrolysis-driven transmembrane transporter activity	Gene Ontology	GO:0015405
+                    	monovalent inorganic cation transport	Gene Ontology	GO:0015672
+                    	energy derivation by oxidation of organic compounds	Gene Ontology	GO:0015980
+                    	energy coupled proton transport, down electrochemical gradient	Gene Ontology	GO:0015985
+                    	ATP synthesis coupled proton transport	Gene Ontology	GO:0015986
+                    	proton transport	Gene Ontology	GO:0015992
+                    	membrane	Gene Ontology	GO:0016020
+                    	pyrophosphatase activity	Gene Ontology	GO:0016462
+                    	proton-transporting two-sector ATPase complex	Gene Ontology	GO:0016469
+                    	hydrolase activity	Gene Ontology	GO:0016787
+                    	hydrolase activity, acting on acid anhydrides	Gene Ontology	GO:0016817
+                    	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	Gene Ontology	GO:0016818
+                    	hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances	Gene Ontology	GO:0016820
+                    	ATPase activity	Gene Ontology	GO:0016887
+                    	nucleoside-triphosphatase activity	Gene Ontology	GO:0017111
+                    	heterocycle biosynthetic process	Gene Ontology	GO:0018130
+                    	aromatic compound biosynthetic process	Gene Ontology	GO:0019438
+                    	aromatic compound catabolic process	Gene Ontology	GO:0019439
+                    	organophosphate metabolic process	Gene Ontology	GO:0019637
+                    	ribose phosphate metabolic process	Gene Ontology	GO:0019693
+                    	cation-transporting ATPase activity	Gene Ontology	GO:0019829
+                    	organelle inner membrane	Gene Ontology	GO:0019866
+                    	active transmembrane transporter activity	Gene Ontology	GO:0022804
+                    	transmembrane transporter activity	Gene Ontology	GO:0022857
+                    	inorganic cation transmembrane transporter activity	Gene Ontology	GO:0022890
+                    	substrate-specific transmembrane transporter activity	Gene Ontology	GO:0022891
+                    	substrate-specific transporter activity	Gene Ontology	GO:0022892
+                    	electron transport chain	Gene Ontology	GO:0022900
+                    	respiratory electron transport chain	Gene Ontology	GO:0022904
+                    	organelle membrane	Gene Ontology	GO:0031090
+                    	mitochondrial membrane	Gene Ontology	GO:0031966
+                    	organelle envelope	Gene Ontology	GO:0031967
+                    	membrane-enclosed lumen	Gene Ontology	GO:0031974
+                    	envelope	Gene Ontology	GO:0031975
+                    	macromolecular complex	Gene Ontology	GO:0032991
+                    	proton-transporting two-sector ATPase complex, catalytic domain	Gene Ontology	GO:0033178
+                    	ion transmembrane transport	Gene Ontology	GO:0034220
+                    	cellular nitrogen compound metabolic process	Gene Ontology	GO:0034641
+                    	nucleobase-containing compound biosynthetic process	Gene Ontology	GO:0034654
+                    	nucleobase-containing compound catabolic process	Gene Ontology	GO:0034655
+                    	hydrogen-exporting ATPase activity	Gene Ontology	GO:0036442
+                    	purine nucleoside metabolic process	Gene Ontology	GO:0042278
+                    	purine nucleoside biosynthetic process	Gene Ontology	GO:0042451
+                    	ribonucleoside catabolic process	Gene Ontology	GO:0042454
+                    	ribonucleoside biosynthetic process	Gene Ontology	GO:0042455
+                    	ATPase activity, coupled	Gene Ontology	GO:0042623
+                    	ATPase activity, coupled to transmembrane movement of ions	Gene Ontology	GO:0042625
+                    	ATPase activity, coupled to transmembrane movement of substances	Gene Ontology	GO:0042626
+                    	mitochondrial ATP synthesis coupled proton transport	Gene Ontology	GO:0042776
+                    	organelle	Gene Ontology	GO:0043226
+                    	membrane-bounded organelle	Gene Ontology	GO:0043227
+                    	intracellular organelle	Gene Ontology	GO:0043229
+                    	intracellular membrane-bounded organelle	Gene Ontology	GO:0043231
+                    	organelle lumen	Gene Ontology	GO:0043233
+                    	protein complex	Gene Ontology	GO:0043234
+                    	ATPase activity, coupled to movement of substances	Gene Ontology	GO:0043492
+                    	cellular metabolic process	Gene Ontology	GO:0044237
+                    	primary metabolic process	Gene Ontology	GO:0044238
+                    	cellular catabolic process	Gene Ontology	GO:0044248
+                    	cellular biosynthetic process	Gene Ontology	GO:0044249
+                    	cellular nitrogen compound catabolic process	Gene Ontology	GO:0044270
+                    	cellular nitrogen compound biosynthetic process	Gene Ontology	GO:0044271
+                    	small molecule metabolic process	Gene Ontology	GO:0044281
+                    	organelle part	Gene Ontology	GO:0044422
+                    	intracellular part	Gene Ontology	GO:0044424
+                    	membrane part	Gene Ontology	GO:0044425
+                    	mitochondrial part	Gene Ontology	GO:0044429
+                    	cytoplasmic part	Gene Ontology	GO:0044444
+                    	intracellular organelle part	Gene Ontology	GO:0044446
+                    	mitochondrial membrane part	Gene Ontology	GO:0044455
+                    	cell part	Gene Ontology	GO:0044464
+                    	single-organism process	Gene Ontology	GO:0044699
+                    	single-organism metabolic process	Gene Ontology	GO:0044710
+                    	single-organism biosynthetic process	Gene Ontology	GO:0044711
+                    	single-organism catabolic process	Gene Ontology	GO:0044712
+                    	single-organism cellular process	Gene Ontology	GO:0044763
+                    	single-organism transport	Gene Ontology	GO:0044765
+                    	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	Gene Ontology	GO:0044769
+                    	proton-transporting ATP synthase complex	Gene Ontology	GO:0045259
+                    	proton-transporting ATP synthase complex, catalytic core F(1)	Gene Ontology	GO:0045261
+                    	cellular respiration	Gene Ontology	GO:0045333
+                    	ATP metabolic process	Gene Ontology	GO:0046034
+                    	purine ribonucleoside metabolic process	Gene Ontology	GO:0046128
+                    	purine ribonucleoside biosynthetic process	Gene Ontology	GO:0046129
+                    	purine ribonucleoside catabolic process	Gene Ontology	GO:0046130
+                    	ribose phosphate biosynthetic process	Gene Ontology	GO:0046390
+                    	organophosphate catabolic process	Gene Ontology	GO:0046434
+                    	heterocycle metabolic process	Gene Ontology	GO:0046483
+                    	heterocycle catabolic process	Gene Ontology	GO:0046700
+                    	intracellular transport	Gene Ontology	GO:0046907
+                    	proton-transporting ATP synthase activity, rotational mechanism	Gene Ontology	GO:0046933
+                    	proton-transporting ATPase activity, rotational mechanism	Gene Ontology	GO:0046961
+                    	localization	Gene Ontology	GO:0051179
+                    	establishment of localization	Gene Ontology	GO:0051234
+                    	cellular localization	Gene Ontology	GO:0051641
+                    	establishment of localization in cell	Gene Ontology	GO:0051649
+                    	transmembrane transport	Gene Ontology	GO:0055085
+                    	nucleobase-containing small molecule metabolic process	Gene Ontology	GO:0055086
+                    	oxidation-reduction process	Gene Ontology	GO:0055114
+                    	intracellular organelle lumen	Gene Ontology	GO:0070013
+                    	organic substance metabolic process	Gene Ontology	GO:0071704
+                    	purine-containing compound metabolic process	Gene Ontology	GO:0072521
+                    	purine-containing compound biosynthetic process	Gene Ontology	GO:0072522
+                    	purine-containing compound catabolic process	Gene Ontology	GO:0072523
+                    	organophosphate biosynthetic process	Gene Ontology	GO:0090407
+                    	cation transmembrane transport	Gene Ontology	GO:0098655
+                    	inorganic ion transmembrane transport	Gene Ontology	GO:0098660
+                    	inorganic cation transmembrane transport	Gene Ontology	GO:0098662
+                    	carbohydrate derivative metabolic process	Gene Ontology	GO:1901135
+                    	carbohydrate derivative catabolic process	Gene Ontology	GO:1901136
+                    	carbohydrate derivative biosynthetic process	Gene Ontology	GO:1901137
+                    	nucleoside phosphate catabolic process	Gene Ontology	GO:1901292
+                    	nucleoside phosphate biosynthetic process	Gene Ontology	GO:1901293
+                    	organic cyclic compound metabolic process	Gene Ontology	GO:1901360
+                    	organic cyclic compound catabolic process	Gene Ontology	GO:1901361
+                    	organic cyclic compound biosynthetic process	Gene Ontology	GO:1901362
+                    	organonitrogen compound metabolic process	Gene Ontology	GO:1901564
+                    	organonitrogen compound catabolic process	Gene Ontology	GO:1901565
+                    	organonitrogen compound biosynthetic process	Gene Ontology	GO:1901566
+                    	organic substance catabolic process	Gene Ontology	GO:1901575
+                    	organic substance biosynthetic process	Gene Ontology	GO:1901576
+                    	glycosyl compound metabolic process	Gene Ontology	GO:1901657
+                    	glycosyl compound catabolic process	Gene Ontology	GO:1901658
+                    	glycosyl compound biosynthetic process	Gene Ontology	GO:1901659
+                    	single-organism localization	Gene Ontology	GO:1902578
+                    	single-organism intracellular transport	Gene Ontology	GO:1902582
+                    	hydrogen ion transmembrane transport	Gene Ontology	GO:1902600
+////
+Query:              	515
+Gene:               	hsa:515	ATP5F1, PIG47
+Entrez Gene ID:      	515
+Pathway:            	Metabolic pathways	KEGG PATHWAY	hsa01100
+                    	Oxidative phosphorylation	KEGG PATHWAY	hsa00190
+                    	Alzheimer's disease	KEGG PATHWAY	hsa05010
+                    	Parkinson's disease	KEGG PATHWAY	hsa05012
+                    	Huntington's disease	KEGG PATHWAY	hsa05016
+                    	Metabolism	Reactome	REACT_111217
+                    	The citric acid (TCA) cycle and respiratory electron transport	Reactome	REACT_111083
+                    	Formation of ATP by chemiosmotic coupling	Reactome	REACT_6759
+                    	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	Reactome	REACT_6305
+Disease:            	HEMATOLOGICAL	GAD	
+                    	CHEMDEPENDENCY	GAD	
+                    	SMOKING CESSATION	GAD	
+                    	HEMOGLOBIN A, GLYCOSYLATED	GAD	
+GO:                 	mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Gene Ontology	GO:0000276
+                    	catalytic activity	Gene Ontology	GO:0003824
+                    	transporter activity	Gene Ontology	GO:0005215
+                    	binding	Gene Ontology	GO:0005488
+                    	protein binding	Gene Ontology	GO:0005515
+                    	extracellular region	Gene Ontology	GO:0005576
+                    	intracellular	Gene Ontology	GO:0005622
+                    	cell	Gene Ontology	GO:0005623
+                    	nucleus	Gene Ontology	GO:0005634
+                    	cytoplasm	Gene Ontology	GO:0005737
+                    	mitochondrion	Gene Ontology	GO:0005739
+                    	mitochondrial envelope	Gene Ontology	GO:0005740
+                    	mitochondrial inner membrane	Gene Ontology	GO:0005743
+                    	mitochondrial proton-transporting ATP synthase complex	Gene Ontology	GO:0005753
+                    	mitochondrial matrix	Gene Ontology	GO:0005759
+                    	generation of precursor metabolites and energy	Gene Ontology	GO:0006091
+                    	nucleobase-containing compound metabolic process	Gene Ontology	GO:0006139
+                    	purine nucleoside catabolic process	Gene Ontology	GO:0006152
+                    	purine nucleotide metabolic process	Gene Ontology	GO:0006163
+                    	purine nucleotide biosynthetic process	Gene Ontology	GO:0006164
+                    	purine nucleotide catabolic process	Gene Ontology	GO:0006195
+                    	ATP catabolic process	Gene Ontology	GO:0006200
+                    	cellular aromatic compound metabolic process	Gene Ontology	GO:0006725
+                    	nucleoside phosphate metabolic process	Gene Ontology	GO:0006753
+                    	ATP biosynthetic process	Gene Ontology	GO:0006754
+                    	phosphorus metabolic process	Gene Ontology	GO:0006793
+                    	phosphate-containing compound metabolic process	Gene Ontology	GO:0006796
+                    	nitrogen compound metabolic process	Gene Ontology	GO:0006807
+                    	transport	Gene Ontology	GO:0006810
+                    	ion transport	Gene Ontology	GO:0006811
+                    	cation transport	Gene Ontology	GO:0006812
+                    	hydrogen transport	Gene Ontology	GO:0006818
+                    	mitochondrial transport	Gene Ontology	GO:0006839
+                    	multicellular organismal development	Gene Ontology	GO:0007275
+                    	nervous system development	Gene Ontology	GO:0007399
+                    	central nervous system development	Gene Ontology	GO:0007417
+                    	brain development	Gene Ontology	GO:0007420
+                    	metabolic process	Gene Ontology	GO:0008152
+                    	cation transmembrane transporter activity	Gene Ontology	GO:0008324
+                    	catabolic process	Gene Ontology	GO:0009056
+                    	biosynthetic process	Gene Ontology	GO:0009058
+                    	nucleoside metabolic process	Gene Ontology	GO:0009116
+                    	nucleotide metabolic process	Gene Ontology	GO:0009117
+                    	ribonucleoside metabolic process	Gene Ontology	GO:0009119
+                    	nucleoside monophosphate metabolic process	Gene Ontology	GO:0009123
+                    	nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009124
+                    	nucleoside monophosphate catabolic process	Gene Ontology	GO:0009125
+                    	purine nucleoside monophosphate metabolic process	Gene Ontology	GO:0009126
+                    	purine nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009127
+                    	purine nucleoside monophosphate catabolic process	Gene Ontology	GO:0009128
+                    	nucleoside triphosphate metabolic process	Gene Ontology	GO:0009141
+                    	nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009142
+                    	nucleoside triphosphate catabolic process	Gene Ontology	GO:0009143
+                    	purine nucleoside triphosphate metabolic process	Gene Ontology	GO:0009144
+                    	purine nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009145
+                    	purine nucleoside triphosphate catabolic process	Gene Ontology	GO:0009146
+                    	purine ribonucleotide metabolic process	Gene Ontology	GO:0009150
+                    	purine ribonucleotide biosynthetic process	Gene Ontology	GO:0009152
+                    	purine ribonucleotide catabolic process	Gene Ontology	GO:0009154
+                    	ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009156
+                    	ribonucleoside monophosphate catabolic process	Gene Ontology	GO:0009158
+                    	ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009161
+                    	nucleoside biosynthetic process	Gene Ontology	GO:0009163
+                    	nucleoside catabolic process	Gene Ontology	GO:0009164
+                    	nucleotide biosynthetic process	Gene Ontology	GO:0009165
+                    	nucleotide catabolic process	Gene Ontology	GO:0009166
+                    	purine ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009167
+                    	purine ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009168
+                    	purine ribonucleoside monophosphate catabolic process	Gene Ontology	GO:0009169
+                    	ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009199
+                    	ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009201
+                    	ribonucleoside triphosphate catabolic process	Gene Ontology	GO:0009203
+                    	purine ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009205
+                    	purine ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009206
+                    	purine ribonucleoside triphosphate catabolic process	Gene Ontology	GO:0009207
+                    	ribonucleotide metabolic process	Gene Ontology	GO:0009259
+                    	ribonucleotide biosynthetic process	Gene Ontology	GO:0009260
+                    	ribonucleotide catabolic process	Gene Ontology	GO:0009261
+                    	cellular process	Gene Ontology	GO:0009987
+                    	ion transmembrane transporter activity	Gene Ontology	GO:0015075
+                    	monovalent inorganic cation transmembrane transporter activity	Gene Ontology	GO:0015077
+                    	hydrogen ion transmembrane transporter activity	Gene Ontology	GO:0015078
+                    	primary active transmembrane transporter activity	Gene Ontology	GO:0015399
+                    	P-P-bond-hydrolysis-driven transmembrane transporter activity	Gene Ontology	GO:0015405
+                    	monovalent inorganic cation transport	Gene Ontology	GO:0015672
+                    	energy derivation by oxidation of organic compounds	Gene Ontology	GO:0015980
+                    	energy coupled proton transport, down electrochemical gradient	Gene Ontology	GO:0015985
+                    	ATP synthesis coupled proton transport	Gene Ontology	GO:0015986
+                    	proton transport	Gene Ontology	GO:0015992
+                    	membrane	Gene Ontology	GO:0016020
+                    	pyrophosphatase activity	Gene Ontology	GO:0016462
+                    	proton-transporting two-sector ATPase complex	Gene Ontology	GO:0016469
+                    	hydrolase activity	Gene Ontology	GO:0016787
+                    	hydrolase activity, acting on acid anhydrides	Gene Ontology	GO:0016817
+                    	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	Gene Ontology	GO:0016818
+                    	hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances	Gene Ontology	GO:0016820
+                    	ATPase activity	Gene Ontology	GO:0016887
+                    	nucleoside-triphosphatase activity	Gene Ontology	GO:0017111
+                    	heterocycle biosynthetic process	Gene Ontology	GO:0018130
+                    	aromatic compound biosynthetic process	Gene Ontology	GO:0019438
+                    	aromatic compound catabolic process	Gene Ontology	GO:0019439
+                    	organophosphate metabolic process	Gene Ontology	GO:0019637
+                    	ribose phosphate metabolic process	Gene Ontology	GO:0019693
+                    	cation-transporting ATPase activity	Gene Ontology	GO:0019829
+                    	organelle inner membrane	Gene Ontology	GO:0019866
+                    	diencephalon development	Gene Ontology	GO:0021536
+                    	subthalamus development	Gene Ontology	GO:0021539
+                    	substantia nigra development	Gene Ontology	GO:0021762
+                    	active transmembrane transporter activity	Gene Ontology	GO:0022804
+                    	transmembrane transporter activity	Gene Ontology	GO:0022857
+                    	inorganic cation transmembrane transporter activity	Gene Ontology	GO:0022890
+                    	substrate-specific transmembrane transporter activity	Gene Ontology	GO:0022891
+                    	substrate-specific transporter activity	Gene Ontology	GO:0022892
+                    	electron transport chain	Gene Ontology	GO:0022900
+                    	respiratory electron transport chain	Gene Ontology	GO:0022904
+                    	forebrain development	Gene Ontology	GO:0030900
+                    	organelle membrane	Gene Ontology	GO:0031090
+                    	mitochondrial membrane	Gene Ontology	GO:0031966
+                    	organelle envelope	Gene Ontology	GO:0031967
+                    	membrane-enclosed lumen	Gene Ontology	GO:0031974
+                    	envelope	Gene Ontology	GO:0031975
+                    	vesicle	Gene Ontology	GO:0031982
+                    	membrane-bounded vesicle	Gene Ontology	GO:0031988
+                    	multicellular organismal process	Gene Ontology	GO:0032501
+                    	developmental process	Gene Ontology	GO:0032502
+                    	macromolecular complex	Gene Ontology	GO:0032991
+                    	proton-transporting two-sector ATPase complex, proton-transporting domain	Gene Ontology	GO:0033177
+                    	ion transmembrane transport	Gene Ontology	GO:0034220
+                    	cellular nitrogen compound metabolic process	Gene Ontology	GO:0034641
+                    	nucleobase-containing compound biosynthetic process	Gene Ontology	GO:0034654
+                    	nucleobase-containing compound catabolic process	Gene Ontology	GO:0034655
+                    	purine nucleoside metabolic process	Gene Ontology	GO:0042278
+                    	purine nucleoside biosynthetic process	Gene Ontology	GO:0042451
+                    	ribonucleoside catabolic process	Gene Ontology	GO:0042454
+                    	ribonucleoside biosynthetic process	Gene Ontology	GO:0042455
+                    	ATPase activity, coupled	Gene Ontology	GO:0042623
+                    	ATPase activity, coupled to transmembrane movement of ions	Gene Ontology	GO:0042625
+                    	ATPase activity, coupled to transmembrane movement of substances	Gene Ontology	GO:0042626
+                    	mitochondrial ATP synthesis coupled proton transport	Gene Ontology	GO:0042776
+                    	organelle	Gene Ontology	GO:0043226
+                    	membrane-bounded organelle	Gene Ontology	GO:0043227
+                    	intracellular organelle	Gene Ontology	GO:0043229
+                    	extracellular organelle	Gene Ontology	GO:0043230
+                    	intracellular membrane-bounded organelle	Gene Ontology	GO:0043231
+                    	organelle lumen	Gene Ontology	GO:0043233
+                    	protein complex	Gene Ontology	GO:0043234
+                    	ATPase activity, coupled to movement of substances	Gene Ontology	GO:0043492
+                    	cellular metabolic process	Gene Ontology	GO:0044237
+                    	primary metabolic process	Gene Ontology	GO:0044238
+                    	cellular catabolic process	Gene Ontology	GO:0044248
+                    	cellular biosynthetic process	Gene Ontology	GO:0044249
+                    	cellular nitrogen compound catabolic process	Gene Ontology	GO:0044270
+                    	cellular nitrogen compound biosynthetic process	Gene Ontology	GO:0044271
+                    	small molecule metabolic process	Gene Ontology	GO:0044281
+                    	extracellular region part	Gene Ontology	GO:0044421
+                    	organelle part	Gene Ontology	GO:0044422
+                    	intracellular part	Gene Ontology	GO:0044424
+                    	membrane part	Gene Ontology	GO:0044425
+                    	mitochondrial part	Gene Ontology	GO:0044429
+                    	cytoplasmic part	Gene Ontology	GO:0044444
+                    	intracellular organelle part	Gene Ontology	GO:0044446
+                    	mitochondrial membrane part	Gene Ontology	GO:0044455
+                    	cell part	Gene Ontology	GO:0044464
+                    	single-organism process	Gene Ontology	GO:0044699
+                    	single-multicellular organism process	Gene Ontology	GO:0044707
+                    	single-organism metabolic process	Gene Ontology	GO:0044710
+                    	single-organism biosynthetic process	Gene Ontology	GO:0044711
+                    	single-organism catabolic process	Gene Ontology	GO:0044712
+                    	single-organism cellular process	Gene Ontology	GO:0044763
+                    	single-organism transport	Gene Ontology	GO:0044765
+                    	single-organism developmental process	Gene Ontology	GO:0044767
+                    	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	Gene Ontology	GO:0044769
+                    	proton-transporting ATP synthase complex	Gene Ontology	GO:0045259
+                    	proton-transporting ATP synthase complex, coupling factor F(o)	Gene Ontology	GO:0045263
+                    	cellular respiration	Gene Ontology	GO:0045333
+                    	ATP metabolic process	Gene Ontology	GO:0046034
+                    	purine ribonucleoside metabolic process	Gene Ontology	GO:0046128
+                    	purine ribonucleoside biosynthetic process	Gene Ontology	GO:0046129
+                    	purine ribonucleoside catabolic process	Gene Ontology	GO:0046130
+                    	ribose phosphate biosynthetic process	Gene Ontology	GO:0046390
+                    	organophosphate catabolic process	Gene Ontology	GO:0046434
+                    	heterocycle metabolic process	Gene Ontology	GO:0046483
+                    	heterocycle catabolic process	Gene Ontology	GO:0046700
+                    	intracellular transport	Gene Ontology	GO:0046907
+                    	proton-transporting ATP synthase activity, rotational mechanism	Gene Ontology	GO:0046933
+                    	organ development	Gene Ontology	GO:0048513
+                    	system development	Gene Ontology	GO:0048731
+                    	anatomical structure development	Gene Ontology	GO:0048856
+                    	neural nucleus development	Gene Ontology	GO:0048857
+                    	localization	Gene Ontology	GO:0051179
+                    	establishment of localization	Gene Ontology	GO:0051234
+                    	cellular localization	Gene Ontology	GO:0051641
+                    	establishment of localization in cell	Gene Ontology	GO:0051649
+                    	transmembrane transport	Gene Ontology	GO:0055085
+                    	nucleobase-containing small molecule metabolic process	Gene Ontology	GO:0055086
+                    	oxidation-reduction process	Gene Ontology	GO:0055114
+                    	extracellular membrane-bounded organelle	Gene Ontology	GO:0065010
+                    	intracellular organelle lumen	Gene Ontology	GO:0070013
+                    	extracellular vesicular exosome	Gene Ontology	GO:0070062
+                    	organic substance metabolic process	Gene Ontology	GO:0071704
+                    	purine-containing compound metabolic process	Gene Ontology	GO:0072521
+                    	purine-containing compound biosynthetic process	Gene Ontology	GO:0072522
+                    	purine-containing compound catabolic process	Gene Ontology	GO:0072523
+                    	organophosphate biosynthetic process	Gene Ontology	GO:0090407
+                    	cation transmembrane transport	Gene Ontology	GO:0098655
+                    	inorganic ion transmembrane transport	Gene Ontology	GO:0098660
+                    	inorganic cation transmembrane transport	Gene Ontology	GO:0098662
+                    	carbohydrate derivative metabolic process	Gene Ontology	GO:1901135
+                    	carbohydrate derivative catabolic process	Gene Ontology	GO:1901136
+                    	carbohydrate derivative biosynthetic process	Gene Ontology	GO:1901137
+                    	nucleoside phosphate catabolic process	Gene Ontology	GO:1901292
+                    	nucleoside phosphate biosynthetic process	Gene Ontology	GO:1901293
+                    	organic cyclic compound metabolic process	Gene Ontology	GO:1901360
+                    	organic cyclic compound catabolic process	Gene Ontology	GO:1901361
+                    	organic cyclic compound biosynthetic process	Gene Ontology	GO:1901362
+                    	organonitrogen compound metabolic process	Gene Ontology	GO:1901564
+                    	organonitrogen compound catabolic process	Gene Ontology	GO:1901565
+                    	organonitrogen compound biosynthetic process	Gene Ontology	GO:1901566
+                    	organic substance catabolic process	Gene Ontology	GO:1901575
+                    	organic substance biosynthetic process	Gene Ontology	GO:1901576
+                    	glycosyl compound metabolic process	Gene Ontology	GO:1901657
+                    	glycosyl compound catabolic process	Gene Ontology	GO:1901658
+                    	glycosyl compound biosynthetic process	Gene Ontology	GO:1901659
+                    	single-organism localization	Gene Ontology	GO:1902578
+                    	single-organism intracellular transport	Gene Ontology	GO:1902582
+                    	hydrogen ion transmembrane transport	Gene Ontology	GO:1902600
+////
+Query:              	516
+Gene:               	hsa:516	ATP5G1, ATP5A, ATP5G
+Entrez Gene ID:      	516
+Pathway:            	Metabolic pathways	KEGG PATHWAY	hsa01100
+                    	Oxidative phosphorylation	KEGG PATHWAY	hsa00190
+                    	Alzheimer's disease	KEGG PATHWAY	hsa05010
+                    	Parkinson's disease	KEGG PATHWAY	hsa05012
+                    	Huntington's disease	KEGG PATHWAY	hsa05016
+                    	Metabolism of proteins	Reactome	REACT_17015
+                    	Metabolism	Reactome	REACT_111217
+                    	The citric acid (TCA) cycle and respiratory electron transport	Reactome	REACT_111083
+                    	Mitochondrial protein import	Reactome	REACT_118595
+                    	Formation of ATP by chemiosmotic coupling	Reactome	REACT_6759
+                    	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	Reactome	REACT_6305
+Disease:            	Coronary heart disease	NHGRI GWAS Catalog	
+GO:                 	transporter activity	Gene Ontology	GO:0005215
+                    	binding	Gene Ontology	GO:0005488
+                    	intracellular	Gene Ontology	GO:0005622
+                    	cell	Gene Ontology	GO:0005623
+                    	cytoplasm	Gene Ontology	GO:0005737
+                    	mitochondrion	Gene Ontology	GO:0005739
+                    	mitochondrial envelope	Gene Ontology	GO:0005740
+                    	mitochondrial inner membrane	Gene Ontology	GO:0005743
+                    	mitochondrial proton-transporting ATP synthase complex	Gene Ontology	GO:0005753
+                    	generation of precursor metabolites and energy	Gene Ontology	GO:0006091
+                    	nucleobase-containing compound metabolic process	Gene Ontology	GO:0006139
+                    	purine nucleotide metabolic process	Gene Ontology	GO:0006163
+                    	purine nucleotide biosynthetic process	Gene Ontology	GO:0006164
+                    	cellular aromatic compound metabolic process	Gene Ontology	GO:0006725
+                    	nucleoside phosphate metabolic process	Gene Ontology	GO:0006753
+                    	ATP biosynthetic process	Gene Ontology	GO:0006754
+                    	phosphorus metabolic process	Gene Ontology	GO:0006793
+                    	phosphate-containing compound metabolic process	Gene Ontology	GO:0006796
+                    	nitrogen compound metabolic process	Gene Ontology	GO:0006807
+                    	transport	Gene Ontology	GO:0006810
+                    	ion transport	Gene Ontology	GO:0006811
+                    	cation transport	Gene Ontology	GO:0006812
+                    	hydrogen transport	Gene Ontology	GO:0006818
+                    	mitochondrial transport	Gene Ontology	GO:0006839
+                    	metabolic process	Gene Ontology	GO:0008152
+                    	lipid binding	Gene Ontology	GO:0008289
+                    	cation transmembrane transporter activity	Gene Ontology	GO:0008324
+                    	biosynthetic process	Gene Ontology	GO:0009058
+                    	nucleoside metabolic process	Gene Ontology	GO:0009116
+                    	nucleotide metabolic process	Gene Ontology	GO:0009117
+                    	ribonucleoside metabolic process	Gene Ontology	GO:0009119
+                    	nucleoside monophosphate metabolic process	Gene Ontology	GO:0009123
+                    	nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009124
+                    	purine nucleoside monophosphate metabolic process	Gene Ontology	GO:0009126
+                    	purine nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009127
+                    	nucleoside triphosphate metabolic process	Gene Ontology	GO:0009141
+                    	nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009142
+                    	purine nucleoside triphosphate metabolic process	Gene Ontology	GO:0009144
+                    	purine nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009145
+                    	purine ribonucleotide metabolic process	Gene Ontology	GO:0009150
+                    	purine ribonucleotide biosynthetic process	Gene Ontology	GO:0009152
+                    	ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009156
+                    	ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009161
+                    	nucleoside biosynthetic process	Gene Ontology	GO:0009163
+                    	nucleotide biosynthetic process	Gene Ontology	GO:0009165
+                    	purine ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009167
+                    	purine ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009168
+                    	ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009199
+                    	ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009201
+                    	purine ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009205
+                    	purine ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009206
+                    	ribonucleotide metabolic process	Gene Ontology	GO:0009259
+                    	ribonucleotide biosynthetic process	Gene Ontology	GO:0009260
+                    	cellular process	Gene Ontology	GO:0009987
+                    	ion transmembrane transporter activity	Gene Ontology	GO:0015075
+                    	monovalent inorganic cation transmembrane transporter activity	Gene Ontology	GO:0015077
+                    	hydrogen ion transmembrane transporter activity	Gene Ontology	GO:0015078
+                    	monovalent inorganic cation transport	Gene Ontology	GO:0015672
+                    	energy derivation by oxidation of organic compounds	Gene Ontology	GO:0015980
+                    	energy coupled proton transport, down electrochemical gradient	Gene Ontology	GO:0015985
+                    	ATP synthesis coupled proton transport	Gene Ontology	GO:0015986
+                    	energy coupled proton transmembrane transport, against electrochemical gradient	Gene Ontology	GO:0015988
+                    	ATP hydrolysis coupled proton transport	Gene Ontology	GO:0015991
+                    	proton transport	Gene Ontology	GO:0015992
+                    	membrane	Gene Ontology	GO:0016020
+                    	integral component of membrane	Gene Ontology	GO:0016021
+                    	proton-transporting two-sector ATPase complex	Gene Ontology	GO:0016469
+                    	heterocycle biosynthetic process	Gene Ontology	GO:0018130
+                    	aromatic compound biosynthetic process	Gene Ontology	GO:0019438
+                    	organophosphate metabolic process	Gene Ontology	GO:0019637
+                    	ribose phosphate metabolic process	Gene Ontology	GO:0019693
+                    	organelle inner membrane	Gene Ontology	GO:0019866
+                    	transmembrane transporter activity	Gene Ontology	GO:0022857
+                    	inorganic cation transmembrane transporter activity	Gene Ontology	GO:0022890
+                    	substrate-specific transmembrane transporter activity	Gene Ontology	GO:0022891
+                    	substrate-specific transporter activity	Gene Ontology	GO:0022892
+                    	electron transport chain	Gene Ontology	GO:0022900
+                    	respiratory electron transport chain	Gene Ontology	GO:0022904
+                    	organelle membrane	Gene Ontology	GO:0031090
+                    	intrinsic component of membrane	Gene Ontology	GO:0031224
+                    	mitochondrial membrane	Gene Ontology	GO:0031966
+                    	organelle envelope	Gene Ontology	GO:0031967
+                    	envelope	Gene Ontology	GO:0031975
+                    	macromolecular complex	Gene Ontology	GO:0032991
+                    	proton-transporting two-sector ATPase complex, proton-transporting domain	Gene Ontology	GO:0033177
+                    	ion transmembrane transport	Gene Ontology	GO:0034220
+                    	cellular nitrogen compound metabolic process	Gene Ontology	GO:0034641
+                    	nucleobase-containing compound biosynthetic process	Gene Ontology	GO:0034654
+                    	purine nucleoside metabolic process	Gene Ontology	GO:0042278
+                    	purine nucleoside biosynthetic process	Gene Ontology	GO:0042451
+                    	ribonucleoside biosynthetic process	Gene Ontology	GO:0042455
+                    	mitochondrial ATP synthesis coupled proton transport	Gene Ontology	GO:0042776
+                    	organelle	Gene Ontology	GO:0043226
+                    	membrane-bounded organelle	Gene Ontology	GO:0043227
+                    	intracellular organelle	Gene Ontology	GO:0043229
+                    	intracellular membrane-bounded organelle	Gene Ontology	GO:0043231
+                    	protein complex	Gene Ontology	GO:0043234
+                    	cellular metabolic process	Gene Ontology	GO:0044237
+                    	primary metabolic process	Gene Ontology	GO:0044238
+                    	cellular biosynthetic process	Gene Ontology	GO:0044249
+                    	cellular nitrogen compound biosynthetic process	Gene Ontology	GO:0044271
+                    	small molecule metabolic process	Gene Ontology	GO:0044281
+                    	organelle part	Gene Ontology	GO:0044422
+                    	intracellular part	Gene Ontology	GO:0044424
+                    	membrane part	Gene Ontology	GO:0044425
+                    	mitochondrial part	Gene Ontology	GO:0044429
+                    	cytoplasmic part	Gene Ontology	GO:0044444
+                    	intracellular organelle part	Gene Ontology	GO:0044446
+                    	mitochondrial membrane part	Gene Ontology	GO:0044455
+                    	cell part	Gene Ontology	GO:0044464
+                    	single-organism process	Gene Ontology	GO:0044699
+                    	single-organism metabolic process	Gene Ontology	GO:0044710
+                    	single-organism biosynthetic process	Gene Ontology	GO:0044711
+                    	single-organism cellular process	Gene Ontology	GO:0044763
+                    	single-organism transport	Gene Ontology	GO:0044765
+                    	proton-transporting ATP synthase complex	Gene Ontology	GO:0045259
+                    	proton-transporting ATP synthase complex, coupling factor F(o)	Gene Ontology	GO:0045263
+                    	cellular respiration	Gene Ontology	GO:0045333
+                    	ATP metabolic process	Gene Ontology	GO:0046034
+                    	purine ribonucleoside metabolic process	Gene Ontology	GO:0046128
+                    	purine ribonucleoside biosynthetic process	Gene Ontology	GO:0046129
+                    	ribose phosphate biosynthetic process	Gene Ontology	GO:0046390
+                    	heterocycle metabolic process	Gene Ontology	GO:0046483
+                    	intracellular transport	Gene Ontology	GO:0046907
+                    	localization	Gene Ontology	GO:0051179
+                    	establishment of localization	Gene Ontology	GO:0051234
+                    	cellular localization	Gene Ontology	GO:0051641
+                    	establishment of localization in cell	Gene Ontology	GO:0051649
+                    	transmembrane transport	Gene Ontology	GO:0055085
+                    	nucleobase-containing small molecule metabolic process	Gene Ontology	GO:0055086
+                    	oxidation-reduction process	Gene Ontology	GO:0055114
+                    	organic substance metabolic process	Gene Ontology	GO:0071704
+                    	purine-containing compound metabolic process	Gene Ontology	GO:0072521
+                    	purine-containing compound biosynthetic process	Gene Ontology	GO:0072522
+                    	organophosphate biosynthetic process	Gene Ontology	GO:0090407
+                    	cation transmembrane transport	Gene Ontology	GO:0098655
+                    	inorganic ion transmembrane transport	Gene Ontology	GO:0098660
+                    	inorganic cation transmembrane transport	Gene Ontology	GO:0098662
+                    	carbohydrate derivative metabolic process	Gene Ontology	GO:1901135
+                    	carbohydrate derivative biosynthetic process	Gene Ontology	GO:1901137
+                    	nucleoside phosphate biosynthetic process	Gene Ontology	GO:1901293
+                    	organic cyclic compound metabolic process	Gene Ontology	GO:1901360
+                    	organic cyclic compound biosynthetic process	Gene Ontology	GO:1901362
+                    	organonitrogen compound metabolic process	Gene Ontology	GO:1901564
+                    	organonitrogen compound biosynthetic process	Gene Ontology	GO:1901566
+                    	organic substance biosynthetic process	Gene Ontology	GO:1901576
+                    	glycosyl compound metabolic process	Gene Ontology	GO:1901657
+                    	glycosyl compound biosynthetic process	Gene Ontology	GO:1901659
+                    	single-organism localization	Gene Ontology	GO:1902578
+                    	single-organism intracellular transport	Gene Ontology	GO:1902582
+                    	hydrogen ion transmembrane transport	Gene Ontology	GO:1902600
+////
+Query:              	517
+Gene:               	hsa:517	ATP5G2, ATP5A
+Entrez Gene ID:      	517
+Pathway:            	Metabolic pathways	KEGG PATHWAY	hsa01100
+                    	Oxidative phosphorylation	KEGG PATHWAY	hsa00190
+                    	Alzheimer's disease	KEGG PATHWAY	hsa05010
+                    	Parkinson's disease	KEGG PATHWAY	hsa05012
+                    	Huntington's disease	KEGG PATHWAY	hsa05016
+                    	Metabolism	Reactome	REACT_111217
+                    	The citric acid (TCA) cycle and respiratory electron transport	Reactome	REACT_111083
+                    	Formation of ATP by chemiosmotic coupling	Reactome	REACT_6759
+                    	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	Reactome	REACT_6305
+Disease:            	DEVELOPMENTAL	GAD	
+                    	Height	NHGRI GWAS Catalog	
+                    	HEIGHT	GAD	
+GO:                 	transporter activity	Gene Ontology	GO:0005215
+                    	binding	Gene Ontology	GO:0005488
+                    	intracellular	Gene Ontology	GO:0005622
+                    	cell	Gene Ontology	GO:0005623
+                    	cytoplasm	Gene Ontology	GO:0005737
+                    	mitochondrion	Gene Ontology	GO:0005739
+                    	mitochondrial envelope	Gene Ontology	GO:0005740
+                    	mitochondrial inner membrane	Gene Ontology	GO:0005743
+                    	mitochondrial proton-transporting ATP synthase complex	Gene Ontology	GO:0005753
+                    	nucleobase-containing compound metabolic process	Gene Ontology	GO:0006139
+                    	purine nucleotide metabolic process	Gene Ontology	GO:0006163
+                    	purine nucleotide biosynthetic process	Gene Ontology	GO:0006164
+                    	cellular aromatic compound metabolic process	Gene Ontology	GO:0006725
+                    	nucleoside phosphate metabolic process	Gene Ontology	GO:0006753
+                    	ATP biosynthetic process	Gene Ontology	GO:0006754
+                    	phosphorus metabolic process	Gene Ontology	GO:0006793
+                    	phosphate-containing compound metabolic process	Gene Ontology	GO:0006796
+                    	nitrogen compound metabolic process	Gene Ontology	GO:0006807
+                    	transport	Gene Ontology	GO:0006810
+                    	ion transport	Gene Ontology	GO:0006811
+                    	cation transport	Gene Ontology	GO:0006812
+                    	hydrogen transport	Gene Ontology	GO:0006818
+                    	metabolic process	Gene Ontology	GO:0008152
+                    	lipid binding	Gene Ontology	GO:0008289
+                    	cation transmembrane transporter activity	Gene Ontology	GO:0008324
+                    	biosynthetic process	Gene Ontology	GO:0009058
+                    	nucleoside metabolic process	Gene Ontology	GO:0009116
+                    	nucleotide metabolic process	Gene Ontology	GO:0009117
+                    	ribonucleoside metabolic process	Gene Ontology	GO:0009119
+                    	nucleoside monophosphate metabolic process	Gene Ontology	GO:0009123
+                    	nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009124
+                    	purine nucleoside monophosphate metabolic process	Gene Ontology	GO:0009126
+                    	purine nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009127
+                    	nucleoside triphosphate metabolic process	Gene Ontology	GO:0009141
+                    	nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009142
+                    	purine nucleoside triphosphate metabolic process	Gene Ontology	GO:0009144
+                    	purine nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009145
+                    	purine ribonucleotide metabolic process	Gene Ontology	GO:0009150
+                    	purine ribonucleotide biosynthetic process	Gene Ontology	GO:0009152
+                    	ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009156
+                    	ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009161
+                    	nucleoside biosynthetic process	Gene Ontology	GO:0009163
+                    	nucleotide biosynthetic process	Gene Ontology	GO:0009165
+                    	purine ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009167
+                    	purine ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009168
+                    	ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009199
+                    	ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009201
+                    	purine ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009205
+                    	purine ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009206
+                    	ribonucleotide metabolic process	Gene Ontology	GO:0009259
+                    	ribonucleotide biosynthetic process	Gene Ontology	GO:0009260
+                    	cellular process	Gene Ontology	GO:0009987
+                    	response to organic substance	Gene Ontology	GO:0010033
+                    	ion transmembrane transporter activity	Gene Ontology	GO:0015075
+                    	monovalent inorganic cation transmembrane transporter activity	Gene Ontology	GO:0015077
+                    	hydrogen ion transmembrane transporter activity	Gene Ontology	GO:0015078
+                    	monovalent inorganic cation transport	Gene Ontology	GO:0015672
+                    	energy coupled proton transport, down electrochemical gradient	Gene Ontology	GO:0015985
+                    	ATP synthesis coupled proton transport	Gene Ontology	GO:0015986
+                    	energy coupled proton transmembrane transport, against electrochemical gradient	Gene Ontology	GO:0015988
+                    	ATP hydrolysis coupled proton transport	Gene Ontology	GO:0015991
+                    	proton transport	Gene Ontology	GO:0015992
+                    	membrane	Gene Ontology	GO:0016020
+                    	integral component of membrane	Gene Ontology	GO:0016021
+                    	proton-transporting two-sector ATPase complex	Gene Ontology	GO:0016469
+                    	heterocycle biosynthetic process	Gene Ontology	GO:0018130
+                    	aromatic compound biosynthetic process	Gene Ontology	GO:0019438
+                    	organophosphate metabolic process	Gene Ontology	GO:0019637
+                    	ribose phosphate metabolic process	Gene Ontology	GO:0019693
+                    	organelle inner membrane	Gene Ontology	GO:0019866
+                    	transmembrane transporter activity	Gene Ontology	GO:0022857
+                    	inorganic cation transmembrane transporter activity	Gene Ontology	GO:0022890
+                    	substrate-specific transmembrane transporter activity	Gene Ontology	GO:0022891
+                    	substrate-specific transporter activity	Gene Ontology	GO:0022892
+                    	organelle membrane	Gene Ontology	GO:0031090
+                    	intrinsic component of membrane	Gene Ontology	GO:0031224
+                    	mitochondrial membrane	Gene Ontology	GO:0031966
+                    	organelle envelope	Gene Ontology	GO:0031967
+                    	envelope	Gene Ontology	GO:0031975
+                    	macromolecular complex	Gene Ontology	GO:0032991
+                    	proton-transporting two-sector ATPase complex, proton-transporting domain	Gene Ontology	GO:0033177
+                    	ion transmembrane transport	Gene Ontology	GO:0034220
+                    	cellular nitrogen compound metabolic process	Gene Ontology	GO:0034641
+                    	nucleobase-containing compound biosynthetic process	Gene Ontology	GO:0034654
+                    	response to chemical	Gene Ontology	GO:0042221
+                    	purine nucleoside metabolic process	Gene Ontology	GO:0042278
+                    	purine nucleoside biosynthetic process	Gene Ontology	GO:0042451
+                    	ribonucleoside biosynthetic process	Gene Ontology	GO:0042455
+                    	organelle	Gene Ontology	GO:0043226
+                    	membrane-bounded organelle	Gene Ontology	GO:0043227
+                    	intracellular organelle	Gene Ontology	GO:0043229
+                    	intracellular membrane-bounded organelle	Gene Ontology	GO:0043231
+                    	protein complex	Gene Ontology	GO:0043234
+                    	cellular metabolic process	Gene Ontology	GO:0044237
+                    	primary metabolic process	Gene Ontology	GO:0044238
+                    	cellular biosynthetic process	Gene Ontology	GO:0044249
+                    	cellular nitrogen compound biosynthetic process	Gene Ontology	GO:0044271
+                    	small molecule metabolic process	Gene Ontology	GO:0044281
+                    	organelle part	Gene Ontology	GO:0044422
+                    	intracellular part	Gene Ontology	GO:0044424
+                    	membrane part	Gene Ontology	GO:0044425
+                    	mitochondrial part	Gene Ontology	GO:0044429
+                    	cytoplasmic part	Gene Ontology	GO:0044444
+                    	intracellular organelle part	Gene Ontology	GO:0044446
+                    	mitochondrial membrane part	Gene Ontology	GO:0044455
+                    	cell part	Gene Ontology	GO:0044464
+                    	single-organism process	Gene Ontology	GO:0044699
+                    	single-organism metabolic process	Gene Ontology	GO:0044710
+                    	single-organism biosynthetic process	Gene Ontology	GO:0044711
+                    	single-organism cellular process	Gene Ontology	GO:0044763
+                    	single-organism transport	Gene Ontology	GO:0044765
+                    	proton-transporting ATP synthase complex	Gene Ontology	GO:0045259
+                    	proton-transporting ATP synthase complex, coupling factor F(o)	Gene Ontology	GO:0045263
+                    	response to ethanol	Gene Ontology	GO:0045471
+                    	ATP metabolic process	Gene Ontology	GO:0046034
+                    	purine ribonucleoside metabolic process	Gene Ontology	GO:0046128
+                    	purine ribonucleoside biosynthetic process	Gene Ontology	GO:0046129
+                    	ribose phosphate biosynthetic process	Gene Ontology	GO:0046390
+                    	heterocycle metabolic process	Gene Ontology	GO:0046483
+                    	response to stimulus	Gene Ontology	GO:0050896
+                    	localization	Gene Ontology	GO:0051179
+                    	establishment of localization	Gene Ontology	GO:0051234
+                    	transmembrane transport	Gene Ontology	GO:0055085
+                    	nucleobase-containing small molecule metabolic process	Gene Ontology	GO:0055086
+                    	organic substance metabolic process	Gene Ontology	GO:0071704
+                    	purine-containing compound metabolic process	Gene Ontology	GO:0072521
+                    	purine-containing compound biosynthetic process	Gene Ontology	GO:0072522
+                    	organophosphate biosynthetic process	Gene Ontology	GO:0090407
+                    	response to alcohol	Gene Ontology	GO:0097305
+                    	cation transmembrane transport	Gene Ontology	GO:0098655
+                    	inorganic ion transmembrane transport	Gene Ontology	GO:0098660
+                    	inorganic cation transmembrane transport	Gene Ontology	GO:0098662
+                    	carbohydrate derivative metabolic process	Gene Ontology	GO:1901135
+                    	carbohydrate derivative biosynthetic process	Gene Ontology	GO:1901137
+                    	nucleoside phosphate biosynthetic process	Gene Ontology	GO:1901293
+                    	organic cyclic compound metabolic process	Gene Ontology	GO:1901360
+                    	organic cyclic compound biosynthetic process	Gene Ontology	GO:1901362
+                    	organonitrogen compound metabolic process	Gene Ontology	GO:1901564
+                    	organonitrogen compound biosynthetic process	Gene Ontology	GO:1901566
+                    	organic substance biosynthetic process	Gene Ontology	GO:1901576
+                    	glycosyl compound metabolic process	Gene Ontology	GO:1901657
+                    	glycosyl compound biosynthetic process	Gene Ontology	GO:1901659
+                    	response to oxygen-containing compound	Gene Ontology	GO:1901700
+                    	single-organism localization	Gene Ontology	GO:1902578
+                    	hydrogen ion transmembrane transport	Gene Ontology	GO:1902600
+////
+Query:              	518
+Gene:               	hsa:518	ATP5G3, P3
+Entrez Gene ID:      	518
+Pathway:            	Metabolic pathways	KEGG PATHWAY	hsa01100
+                    	Oxidative phosphorylation	KEGG PATHWAY	hsa00190
+                    	Alzheimer's disease	KEGG PATHWAY	hsa05010
+                    	Parkinson's disease	KEGG PATHWAY	hsa05012
+                    	Huntington's disease	KEGG PATHWAY	hsa05016
+                    	Metabolism	Reactome	REACT_111217
+                    	The citric acid (TCA) cycle and respiratory electron transport	Reactome	REACT_111083
+                    	Formation of ATP by chemiosmotic coupling	Reactome	REACT_6759
+                    	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	Reactome	REACT_6305
+GO:                 	transporter activity	Gene Ontology	GO:0005215
+                    	binding	Gene Ontology	GO:0005488
+                    	intracellular	Gene Ontology	GO:0005622
+                    	cell	Gene Ontology	GO:0005623
+                    	cytoplasm	Gene Ontology	GO:0005737
+                    	mitochondrion	Gene Ontology	GO:0005739
+                    	mitochondrial envelope	Gene Ontology	GO:0005740
+                    	mitochondrial inner membrane	Gene Ontology	GO:0005743
+                    	mitochondrial proton-transporting ATP synthase complex	Gene Ontology	GO:0005753
+                    	nucleobase-containing compound metabolic process	Gene Ontology	GO:0006139
+                    	purine nucleotide metabolic process	Gene Ontology	GO:0006163
+                    	purine nucleotide biosynthetic process	Gene Ontology	GO:0006164
+                    	cellular aromatic compound metabolic process	Gene Ontology	GO:0006725
+                    	nucleoside phosphate metabolic process	Gene Ontology	GO:0006753
+                    	ATP biosynthetic process	Gene Ontology	GO:0006754
+                    	phosphorus metabolic process	Gene Ontology	GO:0006793
+                    	phosphate-containing compound metabolic process	Gene Ontology	GO:0006796
+                    	nitrogen compound metabolic process	Gene Ontology	GO:0006807
+                    	transport	Gene Ontology	GO:0006810
+                    	ion transport	Gene Ontology	GO:0006811
+                    	cation transport	Gene Ontology	GO:0006812
+                    	hydrogen transport	Gene Ontology	GO:0006818
+                    	metabolic process	Gene Ontology	GO:0008152
+                    	lipid binding	Gene Ontology	GO:0008289
+                    	cation transmembrane transporter activity	Gene Ontology	GO:0008324
+                    	biosynthetic process	Gene Ontology	GO:0009058
+                    	nucleoside metabolic process	Gene Ontology	GO:0009116
+                    	nucleotide metabolic process	Gene Ontology	GO:0009117
+                    	ribonucleoside metabolic process	Gene Ontology	GO:0009119
+                    	nucleoside monophosphate metabolic process	Gene Ontology	GO:0009123
+                    	nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009124
+                    	purine nucleoside monophosphate metabolic process	Gene Ontology	GO:0009126
+                    	purine nucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009127
+                    	nucleoside triphosphate metabolic process	Gene Ontology	GO:0009141
+                    	nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009142
+                    	purine nucleoside triphosphate metabolic process	Gene Ontology	GO:0009144
+                    	purine nucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009145
+                    	purine ribonucleotide metabolic process	Gene Ontology	GO:0009150
+                    	purine ribonucleotide biosynthetic process	Gene Ontology	GO:0009152
+                    	ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009156
+                    	ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009161
+                    	nucleoside biosynthetic process	Gene Ontology	GO:0009163
+                    	nucleotide biosynthetic process	Gene Ontology	GO:0009165
+                    	purine ribonucleoside monophosphate metabolic process	Gene Ontology	GO:0009167
+                    	purine ribonucleoside monophosphate biosynthetic process	Gene Ontology	GO:0009168
+                    	ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009199
+                    	ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009201
+                    	purine ribonucleoside triphosphate metabolic process	Gene Ontology	GO:0009205
+                    	purine ribonucleoside triphosphate biosynthetic process	Gene Ontology	GO:0009206
+                    	ribonucleotide metabolic process	Gene Ontology	GO:0009259
+                    	ribonucleotide biosynthetic process	Gene Ontology	GO:0009260
+                    	cellular process	Gene Ontology	GO:0009987
+                    	ion transmembrane transporter activity	Gene Ontology	GO:0015075
+                    	monovalent inorganic cation transmembrane transporter activity	Gene Ontology	GO:0015077
+                    	hydrogen ion transmembrane transporter activity	Gene Ontology	GO:0015078
+                    	monovalent inorganic cation transport	Gene Ontology	GO:0015672
+                    	energy coupled proton transport, down electrochemical gradient	Gene Ontology	GO:0015985
+                    	ATP synthesis coupled proton transport	Gene Ontology	GO:0015986
+                    	energy coupled proton transmembrane transport, against electrochemical gradient	Gene Ontology	GO:0015988
+                    	ATP hydrolysis coupled proton transport	Gene Ontology	GO:0015991
+                    	proton transport	Gene Ontology	GO:0015992
+                    	membrane	Gene Ontology	GO:0016020
+                    	integral component of membrane	Gene Ontology	GO:0016021
+                    	proton-transporting two-sector ATPase complex	Gene Ontology	GO:0016469
+                    	heterocycle biosynthetic process	Gene Ontology	GO:0018130
+                    	aromatic compound biosynthetic process	Gene Ontology	GO:0019438
+                    	organophosphate metabolic process	Gene Ontology	GO:0019637
+                    	ribose phosphate metabolic process	Gene Ontology	GO:0019693
+                    	organelle inner membrane	Gene Ontology	GO:0019866
+                    	transmembrane transporter activity	Gene Ontology	GO:0022857
+                    	inorganic cation transmembrane transporter activity	Gene Ontology	GO:0022890
+                    	substrate-specific transmembrane transporter activity	Gene Ontology	GO:0022891
+                    	substrate-specific transporter activity	Gene Ontology	GO:0022892
+                    	organelle membrane	Gene Ontology	GO:0031090
+                    	intrinsic component of membrane	Gene Ontology	GO:0031224
+                    	mitochondrial membrane	Gene Ontology	GO:0031966
+                    	organelle envelope	Gene Ontology	GO:0031967
+                    	envelope	Gene Ontology	GO:0031975
+                    	macromolecular complex	Gene Ontology	GO:0032991
+                    	proton-transporting two-sector ATPase complex, proton-transporting domain	Gene Ontology	GO:0033177
+                    	ion transmembrane transport	Gene Ontology	GO:0034220
+                    	cellular nitrogen compound metabolic process	Gene Ontology	GO:0034641
+                    	nucleobase-containing compound biosynthetic process	Gene Ontology	GO:0034654
+                    	purine nucleoside metabolic process	Gene Ontology	GO:0042278
+                    	purine nucleoside biosynthetic process	Gene Ontology	GO:0042451
+                    	ribonucleoside biosynthetic process	Gene Ontology	GO:0042455
+                    	organelle	Gene Ontology	GO:0043226
+                    	membrane-bounded organelle	Gene Ontology	GO:0043227
+                    	intracellular organelle	Gene Ontology	GO:0043229
+                    	intracellular membrane-bounded organelle	Gene Ontology	GO:0043231
+                    	protein complex	Gene Ontology	GO:0043234
+                    	cellular metabolic process	Gene Ontology	GO:0044237
+                    	primary metabolic process	Gene Ontology	GO:0044238
+                    	cellular biosynthetic process	Gene Ontology	GO:0044249
+                    	cellular nitrogen compound biosynthetic process	Gene Ontology	GO:0044271
+                    	small molecule metabolic process	Gene Ontology	GO:0044281
+                    	organelle part	Gene Ontology	GO:0044422
+                    	intracellular part	Gene Ontology	GO:0044424
+                    	membrane part	Gene Ontology	GO:0044425
+                    	mitochondrial part	Gene Ontology	GO:0044429
+                    	cytoplasmic part	Gene Ontology	GO:0044444
+                    	intracellular organelle part	Gene Ontology	GO:0044446
+                    	mitochondrial membrane part	Gene Ontology	GO:0044455
+                    	cell part	Gene Ontology	GO:0044464
+                    	single-organism process	Gene Ontology	GO:0044699
+                    	single-organism metabolic process	Gene Ontology	GO:0044710
+                    	single-organism biosynthetic process	Gene Ontology	GO:0044711
+                    	single-organism cellular process	Gene Ontology	GO:0044763
+                    	single-organism transport	Gene Ontology	GO:0044765
+                    	proton-transporting ATP synthase complex	Gene Ontology	GO:0045259
+                    	proton-transporting ATP synthase complex, coupling factor F(o)	Gene Ontology	GO:0045263
+                    	ATP metabolic process	Gene Ontology	GO:0046034
+                    	purine ribonucleoside metabolic process	Gene Ontology	GO:0046128
+                    	purine ribonucleoside biosynthetic process	Gene Ontology	GO:0046129
+                    	ribose phosphate biosynthetic process	Gene Ontology	GO:0046390
+                    	heterocycle metabolic process	Gene Ontology	GO:0046483
+                    	localization	Gene Ontology	GO:0051179
+                    	establishment of localization	Gene Ontology	GO:0051234
+                    	transmembrane transport	Gene Ontology	GO:0055085
+                    	nucleobase-containing small molecule metabolic process	Gene Ontology	GO:0055086
+                    	organic substance metabolic process	Gene Ontology	GO:0071704
+                    	purine-containing compound metabolic process	Gene Ontology	GO:0072521
+                    	purine-containing compound biosynthetic process	Gene Ontology	GO:0072522
+                    	organophosphate biosynthetic process	Gene Ontology	GO:0090407
+                    	cation transmembrane transport	Gene Ontology	GO:0098655
+                    	inorganic ion transmembrane transport	Gene Ontology	GO:0098660
+                    	inorganic cation transmembrane transport	Gene Ontology	GO:0098662
+                    	carbohydrate derivative metabolic process	Gene Ontology	GO:1901135
+                    	carbohydrate derivative biosynthetic process	Gene Ontology	GO:1901137
+                    	nucleoside phosphate biosynthetic process	Gene Ontology	GO:1901293
+                    	organic cyclic compound metabolic process	Gene Ontology	GO:1901360
+                    	organic cyclic compound biosynthetic process	Gene Ontology	GO:1901362
+                    	organonitrogen compound metabolic process	Gene Ontology	GO:1901564
+                    	organonitrogen compound biosynthetic process	Gene Ontology	GO:1901566
+                    	organic substance biosynthetic process	Gene Ontology	GO:1901576
+                    	glycosyl compound metabolic process	Gene Ontology	GO:1901657
+                    	glycosyl compound biosynthetic process	Gene Ontology	GO:1901659
+                    	single-organism localization	Gene Ontology	GO:1902578
+                    	hydrogen ion transmembrane transport	Gene Ontology	GO:1902600
+////
